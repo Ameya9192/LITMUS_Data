@@ -1,0 +1,43 @@
+Stop words/phrases:
+
+--->bridge:
+--->words: "friendship", "reopened","re-opened", "pending", "fish", "bid", "awe", "awesome", "wheelchair"
+
+
+'The China-Maldives Friendship Bridge will be an enduring symbol of partnership and cooperation'
+'Long term permanent EB lane closure on the Jamestown Bridge has reopened ahead of schedule'
+'Check out http://sadlerpoint.com/news\\u00a0 for info on the pending FEC bridge closure at downtown Jacksonville'
+'EMERGENCY Closure No shell fish harvest Oct 5-13 James River downstream from MM Bridge Tunnel Human, animal waste potential problem'
+'#OperacaoBetaLab Protest over bridge closure bid: About 150 people gather in Gwynedd to oppose t... http://bbc.in/20i3z3B\\u00a0 #SDV #TIMBETA'
+'Watched in awe as Toni, the Swiss Bridgebuilder builds his bridge #710 in Ayeyarwaddy delta to help flooded village pic.twitter.com/vey8tDCI2m'
+
+--->phrases: "community drop", "day trips"
+'Thanks to everyone who came along to community drop in for #Shotts line electrification about closure of Benhar Road to enable bridge work'
+'@GavWav I worry about the bridge being flooded and stuck in my tent with only access to the seedy shops and day trips to Bilpin'
+
+***Prediction keywords:
+"potential"
+'Any news on Barmouth Bridge potential closure?'
+
+***Exceptions(requires improvement in GeoNLP):
+--Roads whose name has the word "bridge" in it
+"Kew Bridge Road"
+--'#HarrisburgNC road closure update: Stallings Road near Quail Hallow, Stough Road near Roberta Road & Pharr Mill Road bridge'
+
+--->Half-truths:
+'Left Lane Closure on I-90 WB at MP 279.5 on Latah Creek Bridge Spokane for bridge inspection beginning at 12:20 pm'
+
+--->Cannot be filtered/Irrelevant/Noise:
+'Full closure of the QEW in both directions at Seventh Street in St Catharines tonight at 10pm until 10am Sunday for bridge demolition.'
+'Central London - closure now all removed.  Victoria Embankment traffic S/B towards Westminster Bridge is tailing back to Blackfriars U/pass.'
+'Hwy 101 from Shakopee to Chanhassen opens this morning after a full-week closure. New bridge opens before Thanksgiving!'
+'M8 J20 West St - Slip On - Closure: M8(E) West Street onramp to Kingston Bridge for A814(W)  Clydeside Express... http://bit.ly/1PhfYRB\\u00a0'
+'Well I already don't have school tomorrow so. But I have to go to work so let's hope that bridge in Occoquan isn't flooded'
+'Hopefully the bridge in Baton Rouge isn't flooded over yet'
+'@PCPrincipal Otaihanga domain flooded and closed - prolly affect students travel around Waikanae River'
+'@Gidi_Traffic Relevant Anthorities shd pls look @ the flooded Ikeja Along B/S 2wrds Oshodi, it might weaken the pedestrian bridge! #Safety.'
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+roads:
+"climate talks", "political", "energy", "report"
+
