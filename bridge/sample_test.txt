@@ -1064,17 +1064,13 @@
 {'text': 'Death toll in Sandton bridge collapse increases http://fb.me/OwVSgdJ7\\u00a0', 'stream_type': 'Twitter', 'id_str': '654644894523330560'}
 {'text': '#BridgeCollapse: meeting with family of deceased taxi driver in Alex to express condolences pic.twitter.com/6j9EwckNgl', 'stream_type': 'Twitter', 'id_str': '654656569779449856'}
 {'text': 'Murray & Roberts aware of huge impact on their reputation following bridge collapse-CEO #TPP http://goo.gl/PXCl85\\u00a0 pic.twitter.com/kz53K8Mr7M', 'stream_type': 'Twitter', 'id_str': '654656499919122433'}
-{'text': 'M1 officially re-opened following bridge collapse http://goo.gl/fb/APGe8m\\u00a0 |http://architectafrica.com\\u00a0', 'stream_type': 'Twitter', 'id_str': '654656493640290305'}
-{'text': 'M1 officially re-opened following bridge collapse http://dlvr.it/CS6w3l\\u00a0', 'stream_type': 'Twitter', 'id_str': '654648554095378432'}
 {'text': 'Bridge collapse shows the best and worst of South Africa - News24 http://bit.ly/1NJji7Q\\u00a0 via @InFocusSA', 'stream_type': 'Twitter', 'id_str': '654656899279777793'}
 {'text': 'New Zealand bridge collapse flings hikers to water below. http://ow.ly/TpNCe\\u00a0 pic.twitter.com/ZEeUfV8i9O', 'stream_type': 'Twitter', 'id_str': '654656829520154625'}
 {'text': 'Grayston Bridge Collapse\\n\\nThe African National Congress, Progressive Professionals Forum, Black Business Council... http://fb.me/6QlKcUqR0\\u00a0', 'stream_type': 'Twitter', 'id_str': '654656782644588544'}
 {'text': 'The M1 highway along Grayston reopens for motorists #BridgeCollapse http://bit.ly/1Pj7GbW\\u00a0 pic.twitter.com/FY1aro6rVD', 'stream_type': 'Twitter', 'id_str': '654652520132841472'}
-{'text': 'The M1 in both directions reopened to traffic following the tragic accident yesterday. #bridgecollapse', 'stream_type': 'Twitter', 'id_str': '654644728294703104'}
 {'text': 'http://News24.com\\u00a0 | Murray & Roberts to fund funerals of bridge collapse victims http://ift.tt/1hGmfrc\\u00a0', 'stream_type': 'Twitter', 'id_str': '654654675782778880'}
 {'text': 'Bridge collapse shows the best and worst of South Africa http://fb.me/N6s47qZF\\u00a0', 'stream_type': 'Twitter', 'id_str': '654654638323470338'}
 {'text': 'Joburg traffic still snarled up after fatal bridge collapse | National | BDlive http://www.bdlive.co.za/national/2015/10/15/joburg-traffic-still-snarled-up-after-fatal-bridge-collapse\\u00a0\\u2026 via @BDliveSA', 'stream_type': 'Twitter', 'id_str': '654654581238972416'}
-{'text': 'Both sides of the M1 highway re-opened to traffic at Grayston, Sandton after 24-hour closure following a bridge collapse - #sabcnews.', 'stream_type': 'Twitter', 'id_str': '654643068348571648'}
 {'text': '#BridgeCollapse Joburg Mayor Parks Tau says the M1 is now safe to use. The city received a full report from engineers who confirmed this.', 'stream_type': 'Twitter', 'id_str': '654642985011965952'}
 {'text': 'Death toll in Sandton bridge collapse increases http://a.msn.com/01/en-za/AAfreX1?ocid=st\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654653698094661633'}
 {'text': 'http://News24.com\\u00a0 | Murray & Roberts to fund funerals of bridge collapse victims http://trib.al/EoF5Pmp\\u00a0', 'stream_type': 'Twitter', 'id_str': '654653530888732673'}
@@ -1084,7 +1080,6 @@
 {'text': 'Johannesburg bridge collapse: South Africa opens investigation http://dlvr.it/CS76Cg\\u00a0 pic.twitter.com/qyPECLP3EW', 'stream_type': 'Twitter', 'id_str': '654651096418271233'}
 {'text': "@News24 and that's just how much their lives were worth! \\n .#MurrayAndRobertsMustFall 's #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654655095494193152'}
 {'text': 'Well done to all who worked around the clock to save lives, remove cars,remove debris cordon off area, redirect traffic.  #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654655058240385024'}
-{'text': 'M1 South/North reopened at Grayston after #BridgeCollapse yesterday. Free flowing traffic in the M1 & out of Sandton pic.twitter.com/U9XfuWuV4j', 'stream_type': 'Twitter', 'id_str': '654654993954242560'}
 {'text': 'DA deeply saddened by Sandton bridge collapse http://fb.me/4iz6Hufs1\\u00a0', 'stream_type': 'Twitter', 'id_str': '654643381822291968'}
 {'text': "#BridgeCollapse The M1 was closed for just under 24 hours following yesterday's tragedy, in which 2 people died and more than 20 were hurt.", 'stream_type': 'Twitter', 'id_str': '654643284111937536'}
 {'text': 'Waco International postpones listing on JSE after Murrob M1 bridge collapse. Its subsidiary Form-Scaff is market leader in scaffolding in SA', 'stream_type': 'Twitter', 'id_str': '654643172417605632'}
@@ -1104,7 +1099,6 @@
 {'text': 'Peters calls for probe into bridge collapse http://bit.ly/1ZFHPOT\\u00a0', 'stream_type': 'Twitter', 'id_str': '654652834424590336'}
 {'text': 'No sign of the devastating #BridgeCollapse on the open M1! BUT, held my breathe under the\\nMalbaro one! Take it down b4 it too collapses!!', 'stream_type': 'Twitter', 'id_str': '654657816469237760'}
 {'text': 'Murray & Roberts to fund funerals of bridge collapse victims http://bit.ly/1QwMHQn\\u00a0 pic.twitter.com/jmGUPKxXCT', 'stream_type': 'Twitter', 'id_str': '654657768742195200'}
-{'text': 'M1 South/North been reopened at Grayston - less than 24h after #BridgeCollapse. Well done to the recovery teams. pic.twitter.com/bqmhlwVthz', 'stream_type': 'Twitter', 'id_str': '654649723232481285'}
 {'text': 'Breaking: Third critical bridge collapse victim still alive - Johanesburg Mayor http://fb.me/2d3PO7UxU\\u00a0', 'stream_type': 'Twitter', 'id_str': '654649683650809857'}
 {'text': 'Deadly bridge collapse in Johannesburg leaves cars crushed and people trapped http://gu.com/p/4daq5/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '654657509051928576'}
 {'text': 'M1 reopens after bridge collapse http://jenke.rs/s2U7Gi\\u00a0 pic.twitter.com/0q8fxeB0AA', 'stream_type': 'Twitter', 'id_str': '654657480882941953'}
@@ -1119,7 +1113,6 @@
 {'text': 'Murray & Roberts shares fall after bridge collapse | Industrials | BDlive http://www.bdlive.co.za/business/industrials/2015/10/14/murray-roberts-shares-fall-after-bridge-collapse\\u00a0\\u2026 via @BDliveSA', 'stream_type': 'Twitter', 'id_str': '654654197636304897'}
 {'text': 'Peters calls for probe into bridge collapse http://bit.ly/1NJhQSU\\u00a0 pic.twitter.com/kcqPVg1DTh', 'stream_type': 'Twitter', 'id_str': '654653985400291329'}
 {'text': '\\u00bb Three investigations underway into cause of bridge collapse that injured 10 construction workers in California http://www.equipmentworld.com/three-investigations-underway-into-cause-of-bridge-collapse-that-injured-10-construction-workers-in-california/?utm_source=daily&utm_medium=email&utm_content=10-15-2015&utm_campaign=Equipment%20World&ust_id=254b976235b2d20553137965f26022c3\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654653978538455040'}
-{'text': 'http://News24.com\\u00a0 | M1 officially re-opened following bridge collapse http://ift.tt/1X6jYWo\\u00a0', 'stream_type': 'Twitter', 'id_str': '654650790326308866'}
 {'text': 'http://News24.com\\u00a0 | LIVE: Murray & Roberts hire consultants to investigate collapse http://goo.gl/fb/EWm8Ov\\u00a0', 'stream_type': 'Twitter', 'id_str': '654650711553085444'}
 {'text': 'M1 reopens to traffic after deadly bridge collapse http://ift.tt/1NejYz8\\u00a0', 'stream_type': 'Twitter', 'id_str': '654650694687846400'}
 {'text': 'Deadly bridge collapse in Johannesburg leaves cars crushed and people trapped http://gu.com/p/4daq5/stw#\\u00a0 Deadly Bridge collapse inJohanesburg', 'stream_type': 'Twitter', 'id_str': '654656116622667779'}
@@ -1127,7 +1120,6 @@
 {'text': 'Highway opened for traffic after structural bridge collapse kills two in Johannesburg http://bit.ly/1ZFJrZ4\\u00a0', 'stream_type': 'Twitter', 'id_str': '654655979288555521'}
 {'text': '[VIDEO] M1 bridge collapse aftermath http://ow.ly/Tr3nU\\u00a0', 'stream_type': 'Twitter', 'id_str': '654653834308902913'}
 {'text': 'Thomas Dube Retweeted MDA Consulting', 'stream_type': 'Twitter', 'id_str': '654653781741715456'}
-{'text': 'M1 South/North reopened at Grayston - less than 24h after #BridgeCollapse. Well done to the recovery teams. pic.twitter.com/XePAqh27mw', 'stream_type': 'Twitter', 'id_str': '654653761458077696'}
 {'text': 'Murray & Roberts to fund funerals of bridge collapse victims https://shar.es/1uGJry\\u00a0 via @sharethis', 'stream_type': 'Twitter', 'id_str': '654740885368758272'}
 {'text': 'Murray & Roberts Shares Fall After Bridge Collapse Kills Two http://bloom.bg/1PghMKs\\u00a0 via @business', 'stream_type': 'Twitter', 'id_str': '654736736447102978'}
 {'text': 'Susan Jones Retweeted Aki Anastasiou', 'stream_type': 'Twitter', 'id_str': '654745137994530817'}
@@ -1172,7 +1164,6 @@
 {'text': "I don't understand what the bridge collapse has to do with free transportation... but okay  *hops on bus*", 'stream_type': 'Twitter', 'id_str': '654628565422604288'}
 {'text': '#BridgeCollapse Mec Ismail Vadi is on the M1 inspecting the highway before it reopens. MS pic.twitter.com/dqqSEur2zK', 'stream_type': 'Twitter', 'id_str': '654631807334412288'}
 {'text': '#BridgeCollapse We are expecting the road to be open soon @eNCA', 'stream_type': 'Twitter', 'id_str': '654631786509660160'}
-{'text': 'Good news..RT@LirandzuThemba: M1 highway re-opened following #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654639851132817408'}
 {'text': '#AATrafficJHB Sandton UPDATE - BRIDGE COLLAPSE at Grayston Drive - HIGHWAY RE-OPENING is imminent FROM: Buccleuch Interchange  - Both Ways', 'stream_type': 'Twitter', 'id_str': '654639725236588545'}
 {'text': 'Third critical bridge collapse victim still alive - Tau http://goo.gl/fb/ZqhcYT\\u00a0 |http://architectafrica.com\\u00a0', 'stream_type': 'Twitter', 'id_str': '654639611394805764'}
 {'text': 'Tweeps with Architectural Degrees Comming out of Nowhere #Bridgecollapse #MurrayAndRoberts pic.twitter.com/qv00j6TmGI', 'stream_type': 'Twitter', 'id_str': '654634262663176192'}
@@ -1186,13 +1177,11 @@
 {'text': 'Johannesburg emergency services attend bridge collapse scene \\u2013 video http://d.gu.com/CS5T6w\\u00a0', 'stream_type': 'Twitter', 'id_str': '654633456433917952'}
 {'text': 'Third critical bridge collapse victim still alive - Tau http://goo.gl/fb/Bg1LbN\\u00a0 |http://architectafrica.com\\u00a0', 'stream_type': 'Twitter', 'id_str': '654633450020974592'}
 {'text': 'Murray & Roberts distance itself from speculation over the cause of the bridge collapse in Sandton\\nhttp://saconstructionnews.co.za/10-listed-construction-sector/16495-murray-roberts-distance-itself-from-speculation-over-the-cause-of-the-bridge-collapse-in-sandton\\u00a0\\u2026 #bridgecollapse', 'stream_type': 'Twitter', 'id_str': '654633386879926275'}
-{'text': 'BREAKING NEWS: The M1 in Sandton has been re-opened after yesterdays #BridgeCollapse.', 'stream_type': 'Twitter', 'id_str': '654641685989851136'}
 {'text': 'JHB bridge collapse: Commuters urged to use alternative routes http://ewn.co.za/2015/10/15/Bridge-Collapse-Commuters-urged-to-use-alternative-routes\\u00a0\\u2026 via @ewnupdates', 'stream_type': 'Twitter', 'id_str': '654641679606116352'}
 {'text': 'consumerfumer Retweeted EWN Reporter', 'stream_type': 'Twitter', 'id_str': '654637492986097664'}
 {'text': 'Johannesburg emergency services attend bridge collapse scene \\u2013 video http://ift.tt/1RcxrYL\\u00a0 #263Chat #Africa', 'stream_type': 'Twitter', 'id_str': '654637386454986753'}
 {'text': 'SA probe after deadly bridge collapse http://dlvr.it/CS4zj8\\u00a0', 'stream_type': 'Twitter', 'id_str': '654629569400455168'}
 {'text': 'Johannesburg emergency services attend bridge collapse scene \\u2013 video: Emergency services\\u2026 http://goo.gl/fb/fGGDvG\\u00a0', 'stream_type': 'Twitter', 'id_str': '654641180706140160'}
-{'text': 'And the highways reopened #sabcnews #bridgecollapse pic.twitter.com/B6PKNB7M9H', 'stream_type': 'Twitter', 'id_str': '654641154730930177'}
 {'text': 'M1 Highway re-opened. #BridgeCollapse Great work by @CityofJoburgZA, both public and private sector partnership. A world class city.', 'stream_type': 'Twitter', 'id_str': '654639593980043265'}
 {'text': 'VIDEO: Bridge collapse survivors pulled from wreakage http://ebx.sh/1RJQ9ba\\u00a0 pic.twitter.com/CAFqiwiz8n', 'stream_type': 'Twitter', 'id_str': '654636274712756224'}
 {'text': '#BridgeCollapse Strength to the affected families by this tragic accident. Speedy recovery to those injured. https://youtu.be/lm5cj-8ohp0\\u00a0', 'stream_type': 'Twitter', 'id_str': '654636233176547328'}
@@ -1209,20 +1198,17 @@
 {'text': 'Thanks to all involved in clearing M1 after #BridgeCollapse @JMPDSafety @ER24JHBEast @netstartraffic @EWNTraffic @News24', 'stream_type': 'Twitter', 'id_str': '654640032725254144'}
 {'text': 'cd&a Retweeted SACPCMP', 'stream_type': 'Twitter', 'id_str': '654639943579533312'}
 {'text': 'VIDEO: Chilling footage of women being pulled out from under the Grayston #BridgeCollapse >> http://www.enca.com/south-africa/video-bridge-collapse-survivors-pulled-wreakage\\u00a0\\u2026 via @eNCA', 'stream_type': 'Twitter', 'id_str': '654639305974022144'}
-{'text': '#BridgeCollapse The M1 Highway has been officially re-opened at Sandton. More updates on @SABCNewsOnline', 'stream_type': 'Twitter', 'id_str': '654639202047500288'}
 {'text': 'Deadly bridge collapse in Johannesburg leaves cars crushed and people trapped http://gu.com/p/4daq5/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '654631177882607616'}
 {'text': 'Deadly bridge collapse in Johannesburg leaves cars crushed and people trapped http://gu.com/p/4daq5/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '654638086656290816'}
 {'text': '#OscarPistorius #MurrayAndRoberts #WitsFeeMustFall #BridgeCollapse #Phiyega  all in one day whoo Jesus come toe pic.twitter.com/wkO9MA7YeR', 'stream_type': 'Twitter', 'id_str': '654638069543497728'}
 {'text': 'JHB bridge collapse: Commuters urged to use alternative routes: The M1 Highway is being cleared of debris foll...... http://fb.me/6TP7n5B1j\\u00a0', 'stream_type': 'Twitter', 'id_str': '654638058499895296'}
 {'text': "Why do we need the Mayor to re-open the highway??? Why not just open it when it's ready?... http://fb.me/1V4pr0Zk0\\u00a0", 'stream_type': 'Twitter', 'id_str': '654638043589136387'}
-{'text': 'M1 highway re-opened following #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654637963637334016'}
 {'text': 'M1 re-opens #BridgeCollapse >> http://ebx.sh/1hGfHc7\\u00a0 pic.twitter.com/qpMvG4PGWJ', 'stream_type': 'Twitter', 'id_str': '654642204179320832'}
 {'text': 'JHB Mayor Parks Tau is here to officially open the M1 freeway. @ANN7tv #BridgeCollapse pic.twitter.com/5AGpzpELaR', 'stream_type': 'Twitter', 'id_str': '654633146500186112'}
 {'text': '#BridgeCollapse officials will brief the media shortly. MS pic.twitter.com/BXzqZP23l2', 'stream_type': 'Twitter', 'id_str': '654633088035725312'}
 {'text': 'Deadly bridge collapse in Johannesburg leaves cars crushed and people trapped\\n\\nhttp://gu.com/p/4daq5?CMP=Share_AndroidApp_Tweet\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654628365069078529'}
 {'text': 'M1 is confirmed for reopening at 14:30. #Bridgecollapse #Jhbtraffic @Radio702 @Ewntraffic @TrafficSA^TK', 'stream_type': 'Twitter', 'id_str': '654628348740698112'}
 {'text': 'Murray and Roberts deny wind claims http://bit.ly/1RJQEBW\\u00a0 \\n#BridgeCollapse #M1 #MurrayAndRoberts pic.twitter.com/Pd48n7Jzkh', 'stream_type': 'Twitter', 'id_str': '654635401903108096'}
-{'text': 'JHB - M1 Highway, #BridgeCollapse HIGHWAY RE-OPENED at Sandton', 'stream_type': 'Twitter', 'id_str': '654637693389926400'}
 {'text': 'I am an African Retweeted Liza Hall', 'stream_type': 'Twitter', 'id_str': '654636953141383168'}
 {'text': 'About to open highway #bridgecollapse #Grayston pic.twitter.com/EJTPBplXaA', 'stream_type': 'Twitter', 'id_str': '654636934808137728'}
 {'text': "JHB - #BridgeCollapse HIGHWAY OPEN:   RT @Khutso_N  @TrafficSA M1 It's now open  pic.twitter.com/wPwLbN13Cp", 'stream_type': 'Twitter', 'id_str': '654642758968320000'}
@@ -1230,7 +1216,6 @@
 {'text': '#BridgeCollapse Mayor Parks Tau tells the media the roads are ready @eNCA pic.twitter.com/FtsdyCYAIF', 'stream_type': 'Twitter', 'id_str': '654634809260670976'}
 {'text': '#BridgeCollapse Transport MEC Ishmael Vadi,Community Safety MEC Nkosi Malobane & Joburg mayor Parks Tau at the scene pic.twitter.com/VVdyZL6XtO', 'stream_type': 'Twitter', 'id_str': '654634804667924480'}
 {'text': 'BREAKING!!! Sandston\\u2019s Grayston Bridge Collapse Killing 2 People Injuring Several\\n\\nRead here> http://ow.ly/TqRKV\\u00a0 pic.twitter.com/15fpN48QH6', 'stream_type': 'Twitter', 'id_str': '654634603504889856'}
-{'text': "#BridgeCollapse The M1 highway in Sandton has been reopened to traffic in both directions after yesterday's collapse.", 'stream_type': 'Twitter', 'id_str': '654642610234126337'}
 {'text': 'Thomas Dube Retweeted SACPCMP', 'stream_type': 'Twitter', 'id_str': '654642484308516864'}
 {'text': 'The #BridgeCollapse preliminary report will be released by the Department of Labour tomorrow, 48hrs after it became involved. So 6pm-ish.', 'stream_type': 'Twitter', 'id_str': '654642453404848128'}
 {'text': '@Sefara_Mak  such a pleasure to meet you Sir. \\nYou, @ParksTauCOJ and your entire team restored my faith in the government #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654631906735202304'}
@@ -1244,7 +1229,6 @@
 {'text': '#BLG Johannesburg bridge collapse, Two dead: Two people have been killed and around 20 injured when a temporar... http://bit.ly/1NJbjaJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '654640345674678272'}
 {'text': "Turning the clear up of the M1 into a Mayoral event is a little bit desperate, don't you think? Just open the damn road!  #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654630536862896128'}
 {'text': 'Johannesburg bridge collapse: South Africa opens investigation http://www.bbc.co.uk/news/world-africa-34538715\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654630453962379265'}
-{'text': 'Update: M1 highway officially reopened http://trib.al/A84h048\\u00a0', 'stream_type': 'Twitter', 'id_str': '654638907410280448'}
 {'text': 'SA probe after deadly bridge collapse - Authorities in South Africa are investigating the collapse of a temporary ... http://ow.ly/35z4jq\\u00a0', 'stream_type': 'Twitter', 'id_str': '654635811732893696'}
 {'text': '#BridgeCollapse #MurrayAndRoberts Harry Laas: We happy road will be opened but our attention now turns to the families of injured & deceased', 'stream_type': 'Twitter', 'id_str': '654635612738318336'}
 {'text': 'MEC for Roads&Transport Vadi is here. We r waiting for the Mayor to officially open the M1 #BridgeCollapse @ANN7tv pic.twitter.com/CVILvjgV2J', 'stream_type': 'Twitter', 'id_str': '654628858679922689'}
@@ -1267,7 +1251,6 @@
 {'text': 'I really got a sense of leadership and control from City of Joburg after the bridge collapse. I hope it was like that for everyone affected', 'stream_type': 'Twitter', 'id_str': '654706308206063616'}
 {'text': '\\"@Nkgabi_Motau: Overheard someone say that the  #BridgeCollapse was due to M&R subcontracting \\"blacks\\". Thank you open plan.\\" Disgusting', 'stream_type': 'Twitter', 'id_str': '654705468099563521'}
 {'text': "We interview #MurrayAndRoberts' CEO http://bit.ly/1NeFLXl\\u00a0", 'stream_type': 'Twitter', 'id_str': '654705420813004802'}
-{'text': 'M1 officially re-opened following bridge collapse http://www.rightrelevance.com/search/articles/hero?article=81a58abc7c015c9ccfe90e63852f061494e93dd9&query=bloemfontein&taccount=bloemfonteinrr\\u00a0\\u2026 pic.twitter.com/FvXhiqvvxm', 'stream_type': 'Twitter', 'id_str': '654708918900277248'}
 {'text': "SACPCMP's Claire Deacon talks to us about #Grayston #BridgeCollapse & a way forward on #Dstv405 pic.twitter.com/h8K88m468j", 'stream_type': 'Twitter', 'id_str': '654712885986242560'}
 {'text': 'On #BusinessTonight410 we discuss the M1 Bridge Collapse with #MurrayandRoberts CEO Henry Laas now on @cnbcafrica @DStv 410', 'stream_type': 'Twitter', 'id_str': '654705172355022849'}
 {'text': 'SA bridge collapse: Johannesburg motorway reopens http://bbc.in/1VUpG0h\\u00a0 via @BBCNews', 'stream_type': 'Twitter', 'id_str': '654703419857354753'}
@@ -1308,12 +1291,10 @@
 {'text': 'I feel so sorry for those that will be burying their loved ones that died due to the bridge collapse.  so sorry', 'stream_type': 'Twitter', 'id_str': '654659922206978048'}
 {'text': 'Johannesburg bridge collapse: South Africa opens\\u00a0investigation http://www.tiozambia.com/johannesburg-bridge-collapse-south-africa-opens-investigation/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654659822428663810'}
 {'text': 'M1 reopens to traffic after deadly bridge collapse: Traffic has started flowing on the highway, almost 24 hour... http://bit.ly/1ZFRghn\\u00a0', 'stream_type': 'Twitter', 'id_str': '654669657564057600'}
-{'text': 'M1 OFFICIALLY RE-OPENED FOLLOWING BRIDGE COLLAPSE! http://bit.ly/1OEJGhS\\u00a0', 'stream_type': 'Twitter', 'id_str': '654658200269033473'}
 {'text': "RISKSA Magazine\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s coverage of industry news just got a little wider http://www.riskafrica.com\\u00a0 @RISKAFRICA_Mag http://riskafrica.com/consultant-suggests-wind-not-cause-of-bridge-collapse/?utm_source=COSA+Media&utm_medium=email&utm_term=NewsletterLink&utm_campaign=RISKAFRICA+NEWS+15102015&utm_content=valerie%2Ehayter%40lireas%2Eco%2Eza\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '654658015870611456'}
 {'text': 'Two Dead in South Africa Bridge Collapse\\u00a0(Photos) http://www.gltrends.com/two-dead-in-south-africa-bridge-collapse-photos/\\u00a0\\u2026 pic.twitter.com/Eh4vb4K139', 'stream_type': 'Twitter', 'id_str': '654664001553457156'}
 {'text': 'At least two people have died after a bridge collapse in South Africa. A bridge collapsed onto the main highway... http://fb.me/4BHo84F5o\\u00a0', 'stream_type': 'Twitter', 'id_str': '654663998084767744'}
 {'text': 'M1 reopens after bridge collapse - Independent Online: Independent OnlineM1 reopens after bridge collapseIndep... http://bit.ly/1Pjgajh\\u00a0', 'stream_type': 'Twitter', 'id_str': '654666231824314368'}
-{'text': 'M1 officially re-opened following bridge collapse - Times LIVE http://www.timeslive.co.za/local/2015/10/15/M1-officially-re-opened-following-bridge-collapse\\u00a0\\u2026 via @TimesLIVE', 'stream_type': 'Twitter', 'id_str': '654666164614729729'}
 {'text': 'Two Dead in South Africa Bridge Collapse (Photos): At least two people have died after a\\u2026 http://goo.gl/fb/D92iRn\\u00a0', 'stream_type': 'Twitter', 'id_str': '654666082129604608'}
 {'text': "I don't care how you look at it, they're trying to kill black people! #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654670114936111104'}
 {'text': 'The M1 Highway has been re-opened. #SandtonTourism JoburgEcomobility Sandton Central Management District http://fb.me/4XYcAwI41\\u00a0', 'stream_type': 'Twitter', 'id_str': '654668390062120960'}
@@ -1324,18 +1305,14 @@
 {'text': "The national civic alliance is urging government to conduct an urgent investigation into the cause of yesterday's structural bridge collapse", 'stream_type': 'Twitter', 'id_str': '654668065146187776'}
 {'text': 'Funeral contributions will be made to people who died in the M1 #BridgeCollapse by the company responsible: http://tinyurl.com/o5t2gja\\u00a0', 'stream_type': 'Twitter', 'id_str': '654668050222813185'}
 {'text': 'Latin American Herald Tribune - 3 Killed in Johannesburg Bridge Collapse http://laht.com/article.asp?CategoryId=12395&ArticleId=2398217#.Vh-2fXmtAiA.twitter\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654663481245855748'}
-{'text': 'M1 South/North reopened at Grayston after the #BridgeCollapse yesterday and all of Jozi be like pic.twitter.com/OIAwfFLiSd', 'stream_type': 'Twitter', 'id_str': '654658493534703616'}
 {'text': 'The City further acknowledges the commitment and dedication shown by members of the (EMS) and (JMPD)... #MurrayandRoberts #Bridgecollapse^TK', 'stream_type': 'Twitter', 'id_str': '654665671482052612'}
 {'text': 'Murray & Roberts to fund funerals of bridge collapse victims - Times LIVE http://www.timeslive.co.za/local/2015/10/15/Murray--Roberts-to-fund-funerals-of-bridge-collapse-victims\\u00a0\\u2026 via @TimesLIVE', 'stream_type': 'Twitter', 'id_str': '654665596294971393'}
 {'text': 'Great news! The M1 has been opened around Grayston! #947Drive thanks for the info! #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654667979007725571'}
 {'text': 'Sandton bridge collapse: Victim\\u2019s \\u2018soulmate\\u2019 gets dreaded phone call http://bit.ly/1QwhrAV\\u00a0 pic.twitter.com/3wTNKZGpL1', 'stream_type': 'Twitter', 'id_str': '654673017876803584'}
 {'text': 'What a breeze it was driving on the #M1 this afternoon... Thanks @CityofJoburgZA for the speedy clearance of the Sandton bridge collapse', 'stream_type': 'Twitter', 'id_str': '654672992308367360'}
 {'text': 'Murray & Roberts to fund funerals of bridge collapse victims - Times LIVE http://www.timeslive.co.za/local/2015/10/15/Murray--Roberts-to-fund-funerals-of-bridge-collapse-victims\\u00a0\\u2026 via @TimesLIVE', 'stream_type': 'Twitter', 'id_str': '654672983777148929'}
-{'text': 'VIDEO: The M1 has been re-opened to traffic & investigation into bridge collapse begins: https://youtu.be/7Y8aREsY_2w\\u00a0 #M1BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654664889747673092'}
-{'text': 'M1 officially re-opened following bridge collapse http://dlvr.it/CS9BWW\\u00a0', 'stream_type': 'Twitter', 'id_str': '654672751433674752'}
 {'text': "Yesterday's M1 bridge collapse could cost the company & its directors millions. Stakeholders need crisis management & liability #insurance.", 'stream_type': 'Twitter', 'id_str': '654663151078608901'}
 {'text': "Let's see the media saying white-owned construction companies are better! #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654670652444577793'}
-{'text': 'M1 officially re-opened following bridge collapse  http://bit.ly/1LvDIig\\u00a0 pic.twitter.com/2u2kYeK5le', 'stream_type': 'Twitter', 'id_str': '654664266746720257'}
 {'text': '@JulianRich yes! All well and dandy, relieved to be early for my flight and not stuck in insane post-bridge collapse traffic :)', 'stream_type': 'Twitter', 'id_str': '654664154939195394'}
 {'text': 'Johannesburg bridge collapse: South Africa opens investigation http://www.tiozambia.com/johannesburg-bridge-collapse-south-africa-opens-investigation/\\u00a0\\u2026 http://fb.me/2zcA2lOQx\\u00a0', 'stream_type': 'Twitter', 'id_str': '654664064119869441'}
 {'text': '@HajraOmarjee We thank Executive Mayor of City of JHB, Parks Tau for his sense of urgency yesterday at the M1 bridge collapse. @thabisotema', 'stream_type': 'Twitter', 'id_str': '654667527251824640'}
@@ -1437,8 +1414,6 @@
 {'text': 'ECSA says disciplinary action could follow bridge-collapse probe http://bit.ly/1LP15zh\\u00a0', 'stream_type': 'Twitter', 'id_str': '654674810748825601'}
 {'text': '3 Killed in Johannesburg bridge collapse October 15, 2015 at 10:35AM http://ift.tt/1MEarTi\\u00a0', 'stream_type': 'Twitter', 'id_str': '654674694407196672'}
 {'text': "@toxinews err so this is how it's gonna go now??? #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654680311721144322'}
-{'text': 'Retweeted EWN Traffic (@EWNTraffic):\\n\\nM1 South/North reopened at Grayston - less than 24h after #BridgeCollapse.... http://fb.me/J5uxKt0X\\u00a0', 'stream_type': 'Twitter', 'id_str': '654677808631820288'}
-{'text': 'M1 officially re-opened following bridge collapse The M1 highway was officially re-opened on Thursday afternoon at\\u2026 http://ift.tt/1OF6wps\\u00a0', 'stream_type': 'Twitter', 'id_str': '654679595422121986'}
 {'text': 'Engineering Council of SA says an investigation committee will meet to consider preliminary investigation concerning the #bridgecollapse.', 'stream_type': 'Twitter', 'id_str': '654682135274491904'}
 {'text': 'N1 Re-opened, Investigation Begins into bridge collapse http://ift.tt/1jDpJw2\\u00a0 #Africa', 'stream_type': 'Twitter', 'id_str': '654676110534291456'}
 {'text': "JHB - #BridgeCollapse +/- 8,000 more people used the Gautrain service today compared to yesterday  - that's a lot of cars off the roads", 'stream_type': 'Twitter', 'id_str': '654681390424834049'}
@@ -1474,7 +1449,6 @@
 {'text': 'Chaos in aftermath of Grayston bridge collapse on M1, Joburg http://ow.ly/TqYHE\\u00a0', 'stream_type': 'Twitter', 'id_str': '654675695969284098'}
 {'text': 'Zuma Commiserate With Families of Victims of Bridge Collapse http://tinyurl.com/noq9n2u\\u00a0 pic.twitter.com/wGYbez41Ez', 'stream_type': 'Twitter', 'id_str': '654686288793108481'}
 {'text': 'VIDEO: Bridge collapse survivors pulled from wreckage | eNCA http://fb.me/25LIdWtrS\\u00a0', 'stream_type': 'Twitter', 'id_str': '654685930721120257'}
-{'text': 'eNCA | BRIDGE COLLAPSE: M1 re-opens: The M1 re-opened at 2:30pm after a temporary bridge over the highway coll... http://bit.ly/1jDqtBa\\u00a0', 'stream_type': 'Twitter', 'id_str': '654675485662691329'}
 {'text': 'M1 Re-opened, Investigation Begins into bridge collapse http://bit.ly/1Ms9N72\\u00a0 #Africa', 'stream_type': 'Twitter', 'id_str': '654684070488596480'}
 {'text': "Let's not dwell on the heavy traffic, let's rather think of the families who lost their loved 1s & those still in hospital #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654561003888345088'}
 {'text': '@imanrappetti remember the Chinese labour issue once raised by Sfiso from RTB? Now Zim labourers exploited, bridge collapse, DEP.of LABOUR??', 'stream_type': 'Twitter', 'id_str': '654560966408073216'}
@@ -1873,7 +1847,6 @@
 {'text': 'Horror bridge collapse: Why God, why? http://m.news24.com/news24/SouthAfrica/News/Horror-bridge-collapse-Why-God-why-20151018\\u00a0\\u2026 - @News24  #GraystonBridgeCollapse \\nVictims and their families speak out.', 'stream_type': 'Twitter', 'id_str': '655854530563809281'}
 {'text': "Why did you think it's a good idea to have the stories of the M1 bridge collapse on the same page as Mrs Gigaba's drama  @SundayTimesZA ?", 'stream_type': 'Twitter', 'id_str': '655694179650039809'}
 {'text': '#3Novices : Thousands mourn bridge collapse victim http://ift.tt/1GcfEAT\\u00a0 October 18, 2015 at 02:00PM \\n\\nThree thousand people gathered at\\u2026', 'stream_type': 'Twitter', 'id_str': '655663404330405888'}
-{'text': 'PICTURES: Mourners bid final farewell to bridge collapse victim http://bit.ly/1GMJkPC\\u00a0 #BridgeCollapse pic.twitter.com/3WiSXTIrup', 'stream_type': 'Twitter', 'id_str': '655656767255355392'}
 {'text': 'Thousands mourn bridge collapse victim: Three thousand people gathered at a funeral service for Grayston colla... http://bit.ly/1kfHsKs\\u00a0', 'stream_type': 'Twitter', 'id_str': '655668627014750208'}
 {'text': 'Thousands mourn bridge collapse victim http://dlvr.it/CTPlsh\\u00a0', 'stream_type': 'Twitter', 'id_str': '655667158991527936'}
 {'text': '@cathhayden but what if there is a #BridgeCollapse or #WitsFeeeMustFall ...the Peee-ares need me!', 'stream_type': 'Twitter', 'id_str': '655739150679851008'}
@@ -1908,7 +1881,6 @@
 {'text': 'Survivors and loved ones are still coming to terms with the horror M1 bridge collapse: http://ow.ly/TxFYm\\u00a0', 'stream_type': 'Twitter', 'id_str': '655774113823334401'}
 {'text': 'So the victims of the bridge collapse would have to prove negligence if they filed a lawsuit?!? LLB iyanya shem', 'stream_type': 'Twitter', 'id_str': '655644422915403776'}
 {'text': 'MUST READ: Dust to dust: Five of SA\\u2019s major structural collapses http://bit.ly/1MDios1\\u00a0 #BridgeCollapse #M1Bridge pic.twitter.com/cBVJnsoC0e', 'stream_type': 'Twitter', 'id_str': '655647021827670016'}
-{'text': 'Top 5 videos of the week: A bridge collapse, \\"an awesome and creepy\\" drive & Thor\'s hammer http://bit.ly/1Xakjr3\\u00a0 pic.twitter.com/z8QTuWxLIV', 'stream_type': 'Twitter', 'id_str': '655552777964408832'}
 {'text': 'Horror bridge collapse: Why God, why? http://www.news24.com/SouthAfrica/News/Horror-bridge-collapse-Why-God-why-20151018\\u00a0\\u2026 via @News24', 'stream_type': 'Twitter', 'id_str': '655812292483923969'}
 {'text': 'Injured Workers Fund for 91 Bridge\\u00a0Collapse http://losangeles.ysktoday.com/injured-workers-fund-for-91-bridge-collapse-2/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '655569207401168897'}
 {'text': 'CORONA: Relief funds established for two men hospitalized in bridge collapse http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=BC177EABFBC94931B06C13BF8579FB89&url=http%3a%2f%2fwww.pe.com%2farticles%2fcorona-783766-donations-transportation.html&c=nWTYZuQFLeIx2jxVnbx8nSLl_QuBI5_gWo0WpSF0ips&mkt=en-us\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '655571799422275584'}
@@ -2018,7 +1990,6 @@
 {'text': 'Murray & Roberts to fund funerals of bridge collapse victims http://bit.ly/1jFBjXE\\u00a0', 'stream_type': 'Twitter', 'id_str': '654879710556504064'}
 {'text': 'VIDEO | Probe into M1 bridge collapse continues http://youtu.be/2mqNXsKrenk\\u00a0', 'stream_type': 'Twitter', 'id_str': '654879690226798592'}
 {'text': '@Sionann1 @stunckle #BridgeCollapse Not yet, but its coming! I personally think it was Sipho.', 'stream_type': 'Twitter', 'id_str': '654879550069936128'}
-{'text': 'Murray & Roberts share recovery shortlived. M1 re-opened after bridge collapse. http://bit.ly/1k8DKm7\\u00a0 #bridgecollapse', 'stream_type': 'Twitter', 'id_str': '654879495590121473'}
 {'text': 'Wow RT @Fisheagle13: Second bridge collapse with M&R - Injaka bridge in 1998 killed 14 #bridgecollapse', 'stream_type': 'Twitter', 'id_str': '654883784391794688'}
 {'text': '#TopStories: Big questions loom over Grayston bridge collapse| More updates on #ANN7 #Dstv405 #Vuka', 'stream_type': 'Twitter', 'id_str': '654869999862071296'}
 {'text': 'SA- Investigators have been appointed to find the cause of #bridgecollapse but could take weeks\\u201a if not months. - Murray & Roberts spokesman', 'stream_type': 'Twitter', 'id_str': '654881978458755072'}
@@ -2152,7 +2123,6 @@
 {'text': '@tsunamiRay true,all about attitude and espect. We saw that during the M1 bridge collapse now. Extremely high fines should be imposed.', 'stream_type': 'Twitter', 'id_str': '654903506034364416'}
 {'text': 'Waco delays JSE listing over bridge collapse http://www.fin24.com/Companies/Industrial/Waco-delays-JSE-listing-over-bridge-collapse-20151016\\u00a0\\u2026 via @Fin24', 'stream_type': 'Twitter', 'id_str': '654903468067565568'}
 {'text': 'Under fire #MurrayAndRoberts CEO gives an update on fatal M1 bridge collapse http://bit.ly/1GhgfRr\\u00a0 pic.twitter.com/TeYY1hncyj', 'stream_type': 'Twitter', 'id_str': '654911471009341440'}
-{'text': '[WATCH] Johannesburg #BridgeCollapse: Road reopened yesterday afternoon http://bit.ly/1hI7wMH\\u00a0 pic.twitter.com/i8cgsuJ5lP', 'stream_type': 'Twitter', 'id_str': '654906043173093376'}
 {'text': 'Konstruksie steier: Bel\\u00ea mens nou, en waarin? http://trib.al/MFVVe2t\\u00a0 @Vida1B @HanlieStadler #BridgeCollapse pic.twitter.com/3eHOgsb1Y3', 'stream_type': 'Twitter', 'id_str': '654901611551195136'}
 {'text': 'Families of the victims of the M1 #BridgeCollapse disaster are demanding answers from authorities: http://tinyurl.com/olg5l4e\\u00a0', 'stream_type': 'Twitter', 'id_str': '654913586377183232'}
 {'text': 'This is terrible. Tragic: Bridge Collapse Kills Two On M1 Highway https://www.naij.com/605675-tragic-bridge-collapse-kills-two-m1-highway.html\\u00a0\\u2026 via @naijcom', 'stream_type': 'Twitter', 'id_str': '654913575417421824'}
@@ -2495,7 +2465,6 @@
 {'text': 'As if being fined twice for collusive tendering was not enough! Now #Murray&Roberts is building sub standard structures! #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654378060188413952'}
 {'text': "I'm waiting for tweeps like Siz to tweet about deflection, bending moment, design shape codes. etc  #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654377940986281986'}
 {'text': 'I wish to extend my heartfelt condolences to the family of the deceased, further prayers and thoughts to the injured ones #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654377899525541888'}
-{'text': '@Sefara_Mak Our Mayor really leads with heart.  Awesome that he reached out so early and speedily. #Bridgecollapse.', 'stream_type': 'Twitter', 'id_str': '654385894120652801'}
 {'text': 'Someone please explain how this bridge collapse is suddenly about race? No guys...', 'stream_type': 'Twitter', 'id_str': '654385803116867585'}
 {'text': '@CityofJoburgEMS The last body recovered #Grayston Bridge collapse @CityofJoburgZA pic.twitter.com/Vsxl2yk9Ky', 'stream_type': 'Twitter', 'id_str': '654385719104962565'}
 {'text': 'Mariam Retweeted REZA ', 'stream_type': 'Twitter', 'id_str': '654375363791949824'}
@@ -2612,7 +2581,6 @@
 {'text': "See kids? #BridgeCollapse & people die if you don't respect Maths & Science !!", 'stream_type': 'Twitter', 'id_str': '654387118891008001'}
 {'text': 'I put a prayer out there for the families effected but the #BridgeCollapse today #GraystonBridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654387003795066880'}
 {'text': 'The sky is crying tonight in Jozi for the injured and dead #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654386978759254020'}
-{'text': 'All the naysayers have to admit that when we need to, we saffas can rally!! Awesome work from news crews to EMS to support #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654391054280585216'}
 {'text': 'Thank you to the unsung heroes. Paramedics and emergency services personnel @ER24EMS @CityofJoburgZA # bridge collapse', 'stream_type': 'Twitter', 'id_str': '654390900731322368'}
 {'text': 'Spot on!! @Sipho_Tshabalal: But @Tshepol_ saw it coming! *pic*  #BridgeCollapse pic.twitter.com/RK4g2J6CC6\\"', 'stream_type': 'Twitter', 'id_str': '654390137829330944'}
 {'text': 'The media seems to be quite about this Murray and Roberts bridge collapse saga I wonder why! Condolences to those who lost family though', 'stream_type': 'Twitter', 'id_str': '654390122780184577'}
@@ -2685,7 +2653,6 @@
 {'text': '@CityofJoburgEMS Gratitude and thoughts to all the emergency services workers who assisted #Grayston bridge collapse pic.twitter.com/1DnfPEjHdP', 'stream_type': 'Twitter', 'id_str': '654395605708615680'}
 {'text': 'OMG! Does it matter what skin colour was responsible for erecting the support structure for the bridge? Tender processes?  #BridgeCollapse', 'stream_type': 'Twitter', 'id_str': '654398659971448833'}
 {'text': "Group CEO of Murray&Robberts says they are very sorry for the accident. They don't know what caused it. #BridgeCollapse @ANN7tv", 'stream_type': 'Twitter', 'id_str': '654398607026712576'}
-{'text': '\\"@janinehills: Our Mayor really leads with heart.  Awesome that he reached out so early and speedily. #Bridgecollapse.\\" @CllrParksTau', 'stream_type': 'Twitter', 'id_str': '654398555948457984'}
 {'text': "Wouldn't it be appropriate for Murray & Roberts leadership to visit the accident scene? That would be caring for community. #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654387550199656449'}
 {'text': "My condolences to all who have lost a family member or friend in today's #BridgeCollapse", 'stream_type': 'Twitter', 'id_str': '654387531459465216'}
 {'text': "#BridgeCollapse  Shoutout to the emergency personnel on scene. Let's hope the incoming rain doesn't hamper the rescue and clean up operation", 'stream_type': 'Twitter', 'id_str': '654388721794596864'}

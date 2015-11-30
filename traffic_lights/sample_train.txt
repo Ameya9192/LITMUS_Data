@@ -32,7 +32,6 @@
 {'text': 'Take care at Crewe station roundabout. Traffic lights out and folk racing round pic.twitter.com/cf98vYEPHB', 'stream_type': 'Twitter', 'id_str': '659038728418164737'}
 {'text': 'NSW - PENRITH Great Western Hwy at Parker St\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 3:06pm... http://fb.me/3z5Vy4L63\\u00a0', 'stream_type': 'Twitter', 'id_str': '656321924255997952'}
 {'text': 'Atlantic City near Ventnor: Wide Spread Power Outage - Traffic Lights out - ACE notified. BeAlert.', 'stream_type': 'Twitter', 'id_str': '649986973411745792'}
-{'text': 'UK is replacing roundabouts with traffic lights while US is doing the opposite http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659962832700641280'}
 {'text': 'Traffic lights are out on South Roan St in Johnson City. Be careful & watch 4 police if traveling through @news5wcyb pic.twitter.com/z5oVaUQvv7', 'stream_type': 'Twitter', 'id_str': '649991073452945408'}
 {'text': '@KFMza @liezelv @RyanOConnorZA traffic lights out at Burger Avenue and Edgemead drive. Please send pointsmen. Bad traffic', 'stream_type': 'Twitter', 'id_str': '651255237932675072'}
 {'text': "Sydney Traffic TRAFFIC LIGHTS BLACKED OUT - MONTEREY President Ave at O'Connell St #sydtraffic #trafficnetwork", 'stream_type': 'Twitter', 'id_str': '651156437154922496'}
@@ -137,7 +136,6 @@
 {'text': '#trafficalert US1 and SW 232nd St traffic lights out in all directions! @CBSMiami', 'stream_type': 'Twitter', 'id_str': '654242480687325184'}
 {'text': 'Traffic lights out in Gordons Bay at Faure Marine Drive and Sir Lowry\\u2019s Pass Road http://ewn.co.za/traffic/97973\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '659239098390061056'}
 {'text': '@MyJRA Hi reported this morning and no reply. Traffic lights out Christian De Wet/Hendrik Potgieter Strubens Valley (on top of bridge)', 'stream_type': 'Twitter', 'id_str': '649612171337408512'}
-{'text': 'Welcome to America, where foreigners cuss you out because they mistook your traffic signal for flipping the bird.', 'stream_type': 'Twitter', 'id_str': '652122843849879552'}
 {'text': 'Traffic lights in Manchester scare the hell out of me ', 'stream_type': 'Twitter', 'id_str': '656447157831127040'}
 {'text': 'If you encounter any areas without power, remember to treat out traffic lights as stop signs and watch for pedestrians. #t', 'stream_type': 'Twitter', 'id_str': '649604819582361600'}
 {'text': '#M9 W/B J1 Newbridge on slip - Traffic lights out on the r/bout & traffic queuing onto carriageway #edintravel  pic.twitter.com/9KHCe9GlpM', 'stream_type': 'Twitter', 'id_str': '657227349902139392'}
@@ -461,7 +459,6 @@
 {'text': 'Burnaby - bothways Canada Way at Gilmore Diversion traffic lights out', 'stream_type': 'Twitter', 'id_str': '659393402300145664'}
 {'text': 'Traffic Lights All Out at the junction where the A65 New Road meets with Kirk Lane and Dibb Lane in Yeadon.', 'stream_type': 'Twitter', 'id_str': '649594677126144000'}
 {'text': 'Traffic is a nightmare. Public holiday, traffic lights out #Broadwater #GoldCoast @BradTrafficGuy', 'stream_type': 'Twitter', 'id_str': '650844862456070144'}
-{'text': 'The UK is replacing roundabouts with traffic lights; US is doing the oppos http://bit.ly/1OP57wC\\u00a0 (http://bit.ly/1OP55Fa\\u00a0)', 'stream_type': 'Twitter', 'id_str': '656225821812793344'}
 {'text': 'Are roundabouts on the way out in the UK? http://gu.com/p/4d5zg/stw\\u00a0\\n \\"signal junctions are better for traffic flow and safer for cyclists\\"', 'stream_type': 'Twitter', 'id_str': '656948561213419520'}
 {'text': 'Take care, traffic lights are out at Montrose Terrace #Clarence aware #Abbeyhill', 'stream_type': 'Twitter', 'id_str': '652123204266405888'}
 {'text': 'WSPD says traffic lights are out in several places across the city. @SaminaEngelNews is heading to closure @ S. Main & Clemmonsville Rd', 'stream_type': 'Twitter', 'id_str': '649892283396059136'}
@@ -492,7 +489,6 @@
 {'text': 'Traffic lights out in the CBD at Adderley and Longmarket Streets http://ewn.co.za/traffic/93702\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '657450766630809600'}
 {'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - CATHERINE FIELD Camden Valley Way at Cobitty Rd #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '652597699808620544'}
 {'text': 'Port Elizabeth - Traffic Lights Out: Cape Rd & 4th Ave Newton Park. Proceed with Caution #4WayStop #PowerAlert', 'stream_type': 'Twitter', 'id_str': '654888588161732608'}
-{'text': "Someone's telling us how his friend got out of a ticket in the US by convincing the cop that we don't have traffic lights here in SA.", 'stream_type': 'Twitter', 'id_str': '649474604436729856'}
 {'text': 'RT @llittlejohns @AM980News lights out cheapside & adelaide backed up to huron. #LDNont', 'stream_type': 'Twitter', 'id_str': '649561543982612480'}
 {'text': '\\"The lights on Manning and 144th Ave are out, cops directing traffic. Slow moving.\\" #YEGtraffic', 'stream_type': 'Twitter', 'id_str': '651504468119318528'}
 {'text': 'Power outage in W-S, watch for traffic lights out in Knollwood-Stratford Rd area, 800 customers affected #wolftraffic', 'stream_type': 'Twitter', 'id_str': '651006649872875524'}
@@ -782,7 +778,6 @@
 {'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Repairs - BLAKEHURST King Georges Rd at Phillip St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '651393747968655360'}
 {'text': 'Downtown is the worse place for the traffic lights to go out', 'stream_type': 'Twitter', 'id_str': '653911991044599808'}
 {'text': 'Lights out at Portage and Vaughan. Cadets on scene directing traffic. pic.twitter.com/q5zXpuijpJ', 'stream_type': 'Twitter', 'id_str': '653598610064412672'}
-{'text': 'UK replacing roundabouts with traffic lights. US doing opposite. Both cite safety & traffic flow. So who is right? http://gu.com/p/4d5zg?CMP=Share_iOSApp_Other\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656201252460720128'}
 {'text': '@MyAATraffic are those traffic lights that were out on Main yesterday working now? Traffic started on Witkoppen all the way 2 main #Fourways', 'stream_type': 'Twitter', 'id_str': '649841049771376640'}
 {'text': '3 sets of traffic lights out along Erindale Rd in #Balcatta. #perthtraffic', 'stream_type': 'Twitter', 'id_str': '652599173443784704'}
 {'text': 'Traffic lights & power out on 153 #Easley', 'stream_type': 'Twitter', 'id_str': '650687801051226112'}
@@ -918,7 +913,6 @@
 {'text': 'All traffic lights out at Lee and Burbank @LSUCheckpoint', 'stream_type': 'Twitter', 'id_str': '660556575086616576'}
 {'text': 'Burnaby - bothways Canada Way at Gilmore Diversion traffic lights out - CLEAR', 'stream_type': 'Twitter', 'id_str': '659414094362095616'}
 {'text': '@AdeolaArinola @TfLBusAlerts Collapsed manhole & out of order traffic lights, according to BBC.', 'stream_type': 'Twitter', 'id_str': '651460117779611648'}
-{'text': 'The UK is quietly replacing roundabouts with traffic lights while the US is doing the opposite. http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656309462295183360'}
 {'text': 'Traffic lights out in Gordons Bay at Faure Marine Drive and Sir Lowry\\u2019s Pass Road http://ewn.co.za/traffic/97973\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '659260119339966464'}
 {'text': 'Traffic lights out at Mayor Magrath and 12th Ave South by the Royal Bank & DQ. #YQL  @RyanMennie @LethbridgeCity', 'stream_type': 'Twitter', 'id_str': '654048858494779392'}
 {'text': '*Be Aware*  Traffic lights at Newbridge are out for the next few weeks due to an equipment upgrade  #StaySafe', 'stream_type': 'Twitter', 'id_str': '656340067108167680'}

@@ -89,7 +89,6 @@
 {'text': 'Hikers fall 28 feet in bridge collapse http://ift.tt/1N43MAe\\u00a0 via cnnbrk CNN #news', 'stream_type': 'Twitter', 'id_str': '653529679169720320'}
 {'text': "See bridge collapse under hikers'\\u00a0feet http://www.expressivus.com/see-bridge-collapse-under-hikers039-feet/\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '653538106738475008'}
 {'text': '.@atompkins Powerful multimedia package on 2007 bridge collapse by Minneapolis Star-Tribune http://www.startribune.com/13-seconds-in-august-the-35w-bridge-collapse/12166286/\\u00a0\\u2026 #EffectiveEditor', 'stream_type': 'Twitter', 'id_str': '653590486624661504'}
-{'text': 'UPDATE: 7 Construction Workers Injured in Late Night Bridge Collapse Remain in Hospital; Grand Reopened - http://go.shr.lc/1RCyCBy\\u00a0', 'stream_type': 'Twitter', 'id_str': '653598245671727104'}
 {'text': 'VIRAL: GoPro Captures Hikers Surviving Terrifying Bridge Collapse  #viral', 'stream_type': 'Twitter', 'id_str': '653598703308042244'}
 {'text': 'Hikers fall 28 feet in bridge collapse --- holy crap! It is crazy this was filmed. http://www.cnn.com/videos/travel/2015/10/09/hikers-fall-bridge-collapse-orig-vstan.cnn\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653595258081705984'}
 {'text': 'Hikers fall 28 feet in bridge collapse http://www.cnn.com/videos/travel/2015/10/09/hikers-fall-bridge-collapse-orig-vstan.cnn\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653637076206809088'}
@@ -486,7 +485,6 @@
 {'text': 'The closure of the bridge in Saint-Louis-de-Kent remains in effect. Keep checking http://www.nb511.ca\\u00a0 for updates.', 'stream_type': 'Twitter', 'id_str': '656794204069343232'}
 {'text': 'Warning of long-term bridge closure. A bridge near Selkirk may be closed for a year while repairs... http://newsforscotland.com/t/310956\\u00a0', 'stream_type': 'Twitter', 'id_str': '656795877059764224'}
 {'text': 'Heavy delays inbound #GWB due to #FDR closure from 96th to the Bridge. Check out our traffic map http://www.fios1news.com/newjersey/traffic\\u00a0\\u2026 @GloriaChapa1', 'stream_type': 'Twitter', 'id_str': '656799117230915585'}
-{'text': 'ALERT: Long term permanent EB lane closure on the Jamestown Bridge has reopened ahead of schedule.\\nhttp://campaign.r20.constantcontact.com/render?ca=c198c386-7866-4c17-b7d5-61822d612858&c=9f90c060-ccdd-11e4-a036-d4ae529ce120&ch=9fe521f0-ccdd-11e4-a036-d4ae529ce120\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656787462933581824'}
 {'text': 'In addition to #FDR closure #MTA redirected traffic on #RFK bridge at #NYPD request #holder #eastharlem shooting #nbc4ny', 'stream_type': 'Twitter', 'id_str': '656854818754011136'}
 {'text': '#CityofPG Traffic: Highway 97 Both directions - Just north of the Hart Bridge, lane closure in effect, till 4:00 pm', 'stream_type': 'Twitter', 'id_str': '656852102858182656'}
 {'text': 'SR 104 Hood Canal Bridge closure is scheduled at approx. 9:45 am on 10/21/15, expect up to a 30-minute delay.', 'stream_type': 'Twitter', 'id_str': '656859471948320768'}
@@ -727,7 +725,6 @@
 {'text': 'Severe delays on Turquoise 79, 79A due to the roadworks and diversion around Moor Bridge: https://www.nctx.co.uk/plan-a-journey/roadworks-disruptions/closure-of-moor-bridge/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656538778815762432'}
 {'text': 'Please #PlanAhead this weekend. #A90 #M90 #M9 Spur closure due to bridge demolition. Listen here: http://bit.ly/1M2UPE3\\u00a0', 'stream_type': 'Twitter', 'id_str': '656400724998365184'}
 {'text': "Last night's M6 closure was man talked down from overhead bridge http://ln.is/birminghammail.co.uk/RlepX\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656405632178921473'}
-{'text': 'Following prior closure, all northbound lanes of the Major Deegan Expwy have reopened at the Macombs Dam Bridge, BX.', 'stream_type': 'Twitter', 'id_str': '656267078492692480'}
 {'text': 'Lane closure to begin Wednesday on SR 1050/Buchanan Road in Fayette County for bridge repairs.. http://tinyurl.com/pwdv3s5\\u00a0', 'stream_type': 'Twitter', 'id_str': '656273604951326720'}
 {'text': 'Public meeting to discuss Finchingfield bridge closure expected to be \\u2018big and angry\\u2019 http://bit.ly/1M1SKrR\\u00a0 #Essex', 'stream_type': 'Twitter', 'id_str': '656259952873308160'}
 {'text': 'Bridge closure surprises Greenville County residents http://www.rightrelevance.com/search/articles/hero?article=a120b320cfa7116a883737f85660f433b64010dc&query=greenville%20sc&taccount=greenvillescrr\\u00a0\\u2026 pic.twitter.com/La7VrgWxus', 'stream_type': 'Twitter', 'id_str': '656353504110317568'}
@@ -803,7 +800,6 @@
 {'text': 'Ferry from #dartmouth packed due to #bridge closure but lines move quickly. #ns #commuter hell', 'stream_type': 'Twitter', 'id_str': '657513210157899776'}
 {'text': 'M56 slipway closure for Mersey Gateway work as project bosses confirm bridge http://dlvr.it/CX4b2C\\u00a0', 'stream_type': 'Twitter', 'id_str': '657519728634671104'}
 {'text': 'Kudos to Halifax Transit for putting on shuttles to the Woodside Ferry this morning because of bridge closure!', 'stream_type': 'Twitter', 'id_str': '657519723777802241'}
-{'text': 'Check out http://sadlerpoint.com/news\\u00a0 for info on the pending FEC bridge closure at downtown Jacksonville @CityofJax pic.twitter.com/NdHK70jLdI', 'stream_type': 'Twitter', 'id_str': '657573057389727744'}
 {'text': 'HaNDA Retweeted Official MMDA', 'stream_type': 'Twitter', 'id_str': '657572418148564993'}
 {'text': 'Reminder: Montlake Bridge closure, EB 90 detour to express lanes among several weekend projects to plan for: http://bit.ly/1LEHB15\\u00a0', 'stream_type': 'Twitter', 'id_str': '657578099471572992'}
 {'text': 'TRAFFIC ALERT: Lewes bridge inspection to cause closure on Route 9: http://delmarvane.ws/1LKUoit\\u00a0', 'stream_type': 'Twitter', 'id_str': '657575050548224000'}
@@ -845,14 +841,12 @@
 {'text': 'Repair work forces partial closure of Champlain Bridge: All South Shore-bound lanes of the Champlain Bridge ar... http://bit.ly/1YXKSBG\\u00a0', 'stream_type': 'Twitter', 'id_str': '650321240301789184'}
 {'text': 'Champlain Bridge: all southbound lanes closed for weekend work blitz.>http://glbn.ca/SYfDF\\u00a0 pic.twitter.com/8NqlZCoARy', 'stream_type': 'Twitter', 'id_str': '650323281384357888'}
 {'text': 'Partial closure of the Champlain Bridge this weekend http://www.cbc.ca/news/canada/montreal/champlain-bridge-work-fall-closed-1.3253754?cmp=rss\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '650269682310623234'}
-{'text': 'EMERGENCY Closure No shell fish harvest Oct 5-13 James River downstream from MM Bridge Tunnel Human, animal waste potential problem', 'stream_type': 'Twitter', 'id_str': '650275043902103553'}
 {'text': 'VDOT Alert - The closure of Pole Run Road Bridge has been extended through Friday, Oct. 16 due to inclement weather.', 'stream_type': 'Twitter', 'id_str': '650333013746692096'}
 {'text': 'Wknd closure US 290 WB at Bingle, right lane closed thru 5am Mon. Bingle under US 290 also closed. Bridge demo.', 'stream_type': 'Twitter', 'id_str': '650337763967954944'}
 {'text': 'So glad the Margaret St bridge is finally open after 28 months of closure! Crossed it en route to the\\u2026 https://instagram.com/p/8YZ86IFAkm/\\u00a0', 'stream_type': 'Twitter', 'id_str': '650339330167341056'}
 {'text': 'Crash: on Baden Powell Bridge at  N2 I/C, lane closure , no delays. pic.twitter.com/82dw6e3gyw', 'stream_type': 'Twitter', 'id_str': '650327183777492992'}
 {'text': 'bridge work on NJ 139 Lower westbound Jersey Ave to Tonnelle Avenue all lanes subject to closure until 5 AM', 'stream_type': 'Twitter', 'id_str': '650122709020594176'}
 {'text': 'Bridge closure in Wayne County http://whec.tv/1MPA1TF\\u00a0', 'stream_type': 'Twitter', 'id_str': '650124500747481088'}
-{'text': 'Road closure updates for Rockingham County: River Road near Settle Bridge Road has Re-Opened http://nixle.us/8RW2Y\\u00a0', 'stream_type': 'Twitter', 'id_str': '650378301811245056'}
 {'text': 'PontChamplain: #Montreal Repair work forces partial closure of Champlain Bridge - Globalnews.ca http://ow.ly/34ZvBH\\u00a0', 'stream_type': 'Twitter', 'id_str': '650371257305796608'}
 {'text': 'Oakmont prepares for last closure of old Hulton Bridge early Monday; new span opens Oct. 20. http://triblive.com/neighborhoods/yourallekiskivalley/yourallekiskivalleymore/9194030-74/bridge-oakmont-oct#ixzz3nWxaHgdD\\u00a0\\u2026 pic.twitter.com/K5ljWTQsxK', 'stream_type': 'Twitter', 'id_str': '650376998037143552'}
 {'text': '3 ESE Harrisburg [Cabarrus Co, NC] COUNTY OFFICIAL reports FLASH FLOOD at 4:30 AM EDT -- BRIDGE CLOSURE ON STALLINGS RD AT BACK CREEK.   #wx', 'stream_type': 'Twitter', 'id_str': '650234282577915904'}
@@ -864,10 +858,7 @@
 {'text': 'Wind gusts to 41mph on the @wsdot 520 Floating Bridge. How strong to force a closure? #wawind #wawx #Seattle pic.twitter.com/8x6ZGG66FE', 'stream_type': 'Twitter', 'id_str': '660531783788703745'}
 {'text': 'Fire department opposed to Garrett bridge closure http://binged.it/1KNLtLy\\u00a0', 'stream_type': 'Twitter', 'id_str': '660593547477782528'}
 {'text': 'ADVISORY: Full closure of Ayala Bridge in Manila for repair works. #mmda pic.twitter.com/kn35aQdKFB', 'stream_type': 'Twitter', 'id_str': '660290119841136640'}
-{'text': 'Protest over bridge closure bid http://www.bbc.co.uk/news/uk-wales-north-west-wales-34687847#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660432528176713728'}
 {'text': '#OperacaoBetaLab Protest over bridge closure bid: About 150 people gather in Gwynedd to oppose t... http://bbc.in/20i3z3B\\u00a0 #SDV #TIMBETA', 'stream_type': 'Twitter', 'id_str': '660434904262426624'}
-{'text': '#Protest over bridge closure bid #UK #Casino #Bonus - http://mytouchcasino.co.uk/protest-over-bridge-closure-bid/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660431419273973760'}
-{'text': 'Huge Network |  #Wales Protest over bridge closure bid http://dlvr.it/CcCJmc\\u00a0 #BBC #News #HNN', 'stream_type': 'Twitter', 'id_str': '660431170434285568'}
 {'text': 'Protest over bridge closure bid: About 150 people gather in Gwynedd to oppose the possible clos... http://bbc.in/20i3PzD\\u00a0 #kprs #tweetuk', 'stream_type': 'Twitter', 'id_str': '660435412758884352'}
 {'text': 'HaNDA Retweeted Official MMDA', 'stream_type': 'Twitter', 'id_str': '660428476906909696'}
 {'text': 'NYC Marathon 2015: Street and bridge closure information #NyStatenIsland http://www.newslocker.com/en-us/region/ny-staten-island/nyc-marathon-2015-street-and-bridge-closure-information/\\u00a0\\u2026 pic.twitter.com/2XtATOCBxi', 'stream_type': 'Twitter', 'id_str': '660510070367789057'}
@@ -876,14 +867,11 @@
 {'text': 'UK NEWS ... Protest over bridge closure bid: About 150 people gather in Gwynedd to oppose the possible closure...  http://www.myamigouk.com\\u00a0', 'stream_type': 'Twitter', 'id_str': '660512873647489024'}
 {'text': "VIDEO: Barmouth bridge 'like Eiffel tower': A campaigner opposing the closure of Barmouth Bridge's foot and cy... http://bbc.in/1XHyhRt\\u00a0", 'stream_type': 'Twitter', 'id_str': '660514232614555648'}
 {'text': 'About 150 people gather in Gwynedd to oppose the possible closure of foot and cycle paths on a coastal bridge... http://bbc.in/1HiUJXO\\u00a0', 'stream_type': 'Twitter', 'id_str': '660502588782223360'}
-{'text': 'Protest over iconic bridge closure bid in Barmouth http://www.walesonline.co.uk/news/wales-news/protest-over-iconic-bridge-closure-10365484\\u00a0\\u2026 pic.twitter.com/KFsOiPTJT4', 'stream_type': 'Twitter', 'id_str': '660512490262958080'}
 {'text': 'ADVISORY: Full closure of Ayala Bridge in Manila for repair works. | via @MMDA pic.twitter.com/ScRiObpC2v', 'stream_type': 'Twitter', 'id_str': '660461238955077632'}
 {'text': 'Services 71,72 unable to serve Langtree &Taddiport from Sun 1st- Thurs 5th Nov due to closure at Watergate Bridge: http://stge.co/U21kb\\u00a0', 'stream_type': 'Twitter', 'id_str': '660411396631470081'}
 {'text': 'Protesters turn out in force at Barmouth Bridge to campaign against closure. @Caealun http://www.dailypost.co.uk/news/north-wales-news/barmouth-bridge-protesters-turn-out-10364514\\u00a0\\u2026 pic.twitter.com/PRgujFzwwE', 'stream_type': 'Twitter', 'id_str': '660483527587164160'}
-{'text': 'Interstate 90 has reopened to traffic in both directions near George/Vantage Bridge following an earlier closure... http://fb.me/1Z67ZjgXj\\u00a0', 'stream_type': 'Twitter', 'id_str': '660267598416769025'}
 {'text': 'Ugh. Someone who fell on \\"cheese grater\\" university bridge vehicle lane. http://www.seattlebikeblog.com/2015/10/30/weeks-long-u-bridge-bike-lane-closure-starts-monday/#comment-665549\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660265119834730496'}
 {'text': 'HaNDA Retweeted Official MMDA', 'stream_type': 'Twitter', 'id_str': '660518843153035265'}
-{'text': 'Protest over iconic bridge closure bid in Barmouth http://dlvr.it/CcLDBB\\u00a0 #Protest', 'stream_type': 'Twitter', 'id_str': '660524911438401536'}
 {'text': 'Protest over bridge closure bid: About 150 people gather in Gwynedd to oppose the possible closure of foot and... http://bbc.in/20i3wEZ\\u00a0', 'stream_type': 'Twitter', 'id_str': '660521674299740161'}
 {'text': 'Weekend and night roadwork is scheduled at the Umauma Bridge in Hakalau, according to the Hawai\\u2019i State... http://fb.me/3CSiwdmfS\\u00a0', 'stream_type': 'Twitter', 'id_str': '660526058609901568'}
 {'text': 'Protest over Barmouth Bridge closure http://dlvr.it/CcJ3K7\\u00a0 #Protest', 'stream_type': 'Twitter', 'id_str': '660491476850249728'}
@@ -993,7 +981,6 @@
 {'text': 'Belfast: Traffic very busy on East Bridge St and Cromac St due to the police closure of Short Strand. Avoid the area if poss - Heavy delays.', 'stream_type': 'Twitter', 'id_str': '655363133113024512'}
 {'text': 'This Merritville bridge closure is causing me so much trouble ', 'stream_type': 'Twitter', 'id_str': '655435642030149632'}
 {'text': '2nd bridge closure today. #TriMet pic.twitter.com/R79G1F0rNG', 'stream_type': 'Twitter', 'id_str': '655433183391944704'}
-{'text': 'The Forest Service says the Weitas Creek Bridge in Clearwater County has reopened following a three and a half year closure for repair.', 'stream_type': 'Twitter', 'id_str': '655382926519988225'}
 {'text': 'Why is Greenfield is throwing a party to celebrate bridge closure? #Pittsburgh http://www.newslocker.com/en-us/region/pittsburgh/why-is-greenfield-is-throwing-a-party-to-celebrate-bridge-closure/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '655393878275682304'}
 {'text': 'The #Pattullo Bridge is fully closed for repairs this weekend until noon Sunday so visit us by Skytrain! #NewWest http://ow.ly/TlQl8\\u00a0', 'stream_type': 'Twitter', 'id_str': '655398625946767360'}
 {'text': 'Be advised McCaslin bridge closure may cause traffic delays on US 36. Allow extra time traveling to and from the CU Buffs game.', 'stream_type': 'Twitter', 'id_str': '655401226058665984'}
@@ -1212,7 +1199,6 @@
 {'text': 'TRAFFIC ALERT if you drive through the City of Rochester. Broad St. Bridge closing for several hours this AM.\\nhttp://13wham.com/news/features/top-stories/stories/broad-street-bridge-closure-26871.shtml\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654603875324960768'}
 {'text': 'Thursday 15th - NEWHAVEN BRIDGE ALERT - Bridge crossing closure scheduled http://fb.me/1UdRrxpxO\\u00a0', 'stream_type': 'Twitter', 'id_str': '654608231801745408'}
 {'text': 'HaNDA Retweeted Official MMDA', 'stream_type': 'Twitter', 'id_str': '654600438910726144'}
-{'text': 'Both sides of the M1 highway re-opened to traffic at Grayston, Sandton after 24-hour closure following a bridge collapse - #sabcnews.', 'stream_type': 'Twitter', 'id_str': '654643068348571648'}
 {'text': 'Large closure for #B800 bridge demolition - @forthroadbridge traffic affected. Please read more here: http://bit.ly/1X6nRdU\\u00a0', 'stream_type': 'Twitter', 'id_str': '654654216875577344'}
 {'text': 'Commuter Alert: High Street Bridge Closure Planned for Repairs http://dlvr.it/CS6SVQ\\u00a0 pic.twitter.com/DrtxDEBSaA', 'stream_type': 'Twitter', 'id_str': '654643534285312001'}
 {'text': 'Closure changes for #Mississippi River bridge during repairs http://bddy.me/1RdhVMp\\u00a0', 'stream_type': 'Twitter', 'id_str': '654739510622707712'}
@@ -1444,7 +1430,6 @@
 {'text': 'ADVISORY: Closure of B. Gonzales to Fabian Dela Rosa due to ongoing construction of Duyan-Duyan Bridge at Esteban Abada St. #MMDAforiOS', 'stream_type': 'Twitter', 'id_str': '649726427634405376'}
 {'text': 'Devastating: Closure of the Norman Wood Bridge in ... http://zziipp.eu/?u=http://www.pennlive.com/midstate/index.ssf/2015/09/norman_wood_bridge_york_county.html&user=DJonesNews?utm_source=dlvr.it&utm_medium=twitter\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '649730782433382400'}
 {'text': 'This bridge closure is gonn be the death of me! Fuckkkkk', 'stream_type': 'Twitter', 'id_str': '649729757773303809'}
-{'text': "Councillor Grimes' office said the closure is temporary. Bridge will re-opened when repairs finished #FOHBP. pic.twitter.com/pHtBFRa6Kc", 'stream_type': 'Twitter', 'id_str': '649721451902140417'}
 {'text': 'Closure of Hancock #bridge frm 2day dt rebuilding, pls use alt routes http://www.ziksu.com/mumbai-traffic-police/closure-hancock-bridge-mtp/\\u00a0\\u2026 #Mumbai #traffic', 'stream_type': 'Twitter', 'id_str': '649430440038674432'}
 {'text': "No parking - P.D'Mello Rd, S.V.P. Rd, Jinabhai Mulaji Rathod Marg dt Hancock bridge closure http://www.ziksu.com/mumbai-traffic-police/closure-hancock-bridge-mtp/\\u00a0\\u2026 #Mumbai #traffic", 'stream_type': 'Twitter', 'id_str': '649431032920342529'}
 {'text': 'BAYONNE BRIDGE CLOSURE: 9 a.m.-3 p.m. Traffic & transit @http://goo.gl/QR2izL #NewJersey Bayonne, NJ pic.twitter.com/lRBFtmjAwg', 'stream_type': 'Twitter', 'id_str': '649568080859762689'}
@@ -1642,7 +1627,6 @@
 {'text': '1st work #blitz this weekend on #ChamplainBridge. Complete closure heading to South-Shore, plan your itinerary http://ow.ly/SO3YM\\u00a0', 'stream_type': 'Twitter', 'id_str': '649915589893431296'}
 {'text': 'Midland Bridge reopens after eight month closure | Bath Chronicle http://po.st/h89QyQ\\u00a0', 'stream_type': 'Twitter', 'id_str': '649971642165239808'}
 {'text': 'Long Key Bridge/US-1 NB Closure MM 63, SB Closure MM 65, on Friday, Oct. 2 from 1 AM to 2 AM #D6atWork', 'stream_type': 'Twitter', 'id_str': '649966207240675329'}
-{'text': 'Midland Bridge in Bath has reopened in both directions today following a closure for 7 months of refurbishment work. http://nowb.at/1JBRASD\\u00a0', 'stream_type': 'Twitter', 'id_str': '649851801223753728'}
 {'text': 'Franklin Avenue Bridge Closure and Construction Updates http://fb.me/6LKAHn0pM\\u00a0', 'stream_type': 'Twitter', 'id_str': '649760785778905088'}
 {'text': 'Montreal On Retweeted champlainbridge', 'stream_type': 'Twitter', 'id_str': '650009499206610944'}
 {'text': 'Eagle saved by PennDOT workers during bridge closure http://www.ydr.com/ci_28912218/eagle-saved-by-penndot-workers-during-bridge-closure?source=rss\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '650015560370143232'}
@@ -1761,7 +1745,6 @@
 {'text': 'The Florida East Coast Railway is requesting a bridge closure for the St. Johns River Bridge here in Jacksonville... http://fb.me/1NGnNZdki\\u00a0', 'stream_type': 'Twitter', 'id_str': '651484440103882752'}
 {'text': 'M9 Bridge over A9 - J8 (Kinnaird) - Closure, All lanes closed Westbound for up to 30 minutes http://tscot.org/01c103643\\u00a0 #TSIncident', 'stream_type': 'Twitter', 'id_str': '651485131350347776'}
 {'text': 'Reminder: Beginning tomorrow, Oct. 7, at 5 a.m. there will be a week-long full closure of the Highway 101 bridge... http://fb.me/3BmlBUWnB\\u00a0', 'stream_type': 'Twitter', 'id_str': '651473180914126848'}
-{'text': 'Michigan Street Bridge reopened after five-hour closure for electrical repairs. http://www.greenbaypressgazette.com/story/news/local/door-co/news/2015/10/06/steel-bridge-closed-electrical-repairs/73442860/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '651494396307853312'}
 {'text': 'New-Lane Closure 10/06/2015 02:18PM. One Lane Bridge Closure SE of Vaughn END: unknown', 'stream_type': 'Twitter', 'id_str': '651491739035926528'}
 {'text': 'Update-Lane Closure 10/06/2015 02:25PM. Bridge SE of Vaughn-E of US 285 END: unknown', 'stream_type': 'Twitter', 'id_str': '651493567513411584'}
 {'text': 'Lane Closure -: Title: Bridge SE of Vaughn-E of US 285Description: Bridge Rehabilitation is currently underway... http://bit.ly/1OWD1kt\\u00a0', 'stream_type': 'Twitter', 'id_str': '651498405227724800'}
@@ -1779,7 +1762,6 @@
 {'text': 'OKC: EB I-44 left lane closure on Belle Isle bridge will impact morning commute at Penn and Western. Plan extra drive time today.', 'stream_type': 'Twitter', 'id_str': '651351617162354688'}
 {'text': 'Lane Closure on Belvidere Street Bridge http://brooklandpark.net/bp/?p=1252\\u00a0', 'stream_type': 'Twitter', 'id_str': '651416181073559552'}
 {'text': 'Pattullo Bridge reopens after lengthy closure Monday\\u00a0morning http://www.outinvancouver.com/news/pattullo-bridge-reopens-after-lengthy-closure-monday-morning/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '651421156902244352'}
-{'text': 'From the Forest Service - The Weitas Creek Bridge has reopened following a three-and-a-half year closure.  The... http://fb.me/6RWHgnijO\\u00a0', 'stream_type': 'Twitter', 'id_str': '651463543607443456'}
 {'text': 'Major road closure. Avoid Bush River Rd. Closed at Rawls Creek bridge/Saluda Shoals. No signs.#SCFlood #SCflooding pic.twitter.com/CFSNNMLHof', 'stream_type': 'Twitter', 'id_str': '651462647192403968'}
 {'text': 'Broadway Bridge updates: A broken shoulder and upcoming closure http://vytm.in/9hngiQ\\u00a0 #cycling pic.twitter.com/7zxNymdmyo', 'stream_type': 'Twitter', 'id_str': '651466687112474624'}
 {'text': 'Bridge 19 (Main Street) Closure http://dlvr.it/CMnQ0M\\u00a0', 'stream_type': 'Twitter', 'id_str': '651462703232389120'}
@@ -1816,9 +1798,7 @@
 {'text': "Hey, #NewWest - don't forget the Pattullo Bridge will be off-limits for vehicles starting at 9 p.m. tonight https://shar.es/1u4CYa\\u00a0", 'stream_type': 'Twitter', 'id_str': '655111937198391300'}
 {'text': 'Weekend QEW closure: Drivers used to crossing over or under the \\nSeventh Street bridge will have travel plans ... http://bit.ly/1QBfkvH\\u00a0', 'stream_type': 'Twitter', 'id_str': '655122864618627072'}
 {'text': 'Related News: Suspicious package forces closure of Woodrow Wilson Bridge -Washington Times- http://www.usa-news.net/q/32-140707\\u00a0', 'stream_type': 'Twitter', 'id_str': '655116273785827330'}
-{'text': 'The Beltway\\u2019s Inner Loop local lanes have reopened http://bit.ly/1Pxorzf\\u00a0', 'stream_type': 'Twitter', 'id_str': '655115087888277508'}
 {'text': 'Inner Loop lanes reopen before Woodrow Wilson Bridge http://bit.ly/1LSVqbb\\u00a0 #WTOP', 'stream_type': 'Twitter', 'id_str': '655123387480567809'}
-{'text': '#MDTRAFFIC: Update - I-495 IL @ Wilson Brdg reopened after police investigation of package on pedestrian walkway. http://cbsloc.al/1Oz445q\\u00a0', 'stream_type': 'Twitter', 'id_str': '655124263893012480'}
 {'text': "Suspicious package forces closure of Woodrow Wilson Bridge: Prince George's County Fire Department officials say\\u2026 http://washington.cityandpress.com/node/10326359\\u00a0", 'stream_type': 'Twitter', 'id_str': '655170630099140608'}
 {'text': 'Heads up! The Pattullo Bridge will be closed to all vehicle traffic starting tonight at 9pm until Sunday at noon. http://ow.ly/TuHEA\\u00a0', 'stream_type': 'Twitter', 'id_str': '655157603585126400'}
 {'text': 'MMDA reports closure of Congressional Bridge, posts rerouting plan http://bit.ly/1Pxzjgr\\u00a0', 'stream_type': 'Twitter', 'id_str': '655164312764313600'}
@@ -2141,7 +2121,6 @@
 {'text': 'Description: I-64 - City of Hampton, at Hampton Roads Bridge Tunnel EB, potential delays - a vehicle accident. The EB left shoulder and\\u2026', 'stream_type': 'Twitter', 'id_str': '653765875787390976'}
 {'text': 'On the san mateo bridge and an accident happened behind. Almost got hit too.', 'stream_type': 'Twitter', 'id_str': '653766511740366848'}
 {'text': 'San Mateo Bridge CA 92 Westbound major accident at about 6:20 pm earlier #sanmateobridgeaccident pic.twitter.com/8M0IgbdoAp', 'stream_type': 'Twitter', 'id_str': '653762017363296256'}
-{'text': 'RYDE: All northbound lanes of #LaneCoveRd have reopened after an earlier car accident at Bridge Rd. Traffic is returning to normal.', 'stream_type': 'Twitter', 'id_str': '653865444173082624'}
 {'text': "Run-over accident on Ras alkhor  St exit Veg. Market bridge in direction to Shk Moh'd bin Zayed Rd causing traffic, please be cautious.", 'stream_type': 'Twitter', 'id_str': '653872558920433665'}
 {'text': 'RYDE: 2 of 3 northbound lanes of #LaneCoveRd are closed at Bridge Rd due to a multiple vehicle accident. Expect delays.', 'stream_type': 'Twitter', 'id_str': '653864611960201216'}
 {'text': 'NSW - RYDE Lane Cove Rd at Bridge Rd\\nACCIDENT 4 vehicles\\nStarted today 8:06pm\\nModerate traffic conditions.... http://fb.me/LMataFRr\\u00a0', 'stream_type': 'Twitter', 'id_str': '653861894806183936'}
@@ -2320,7 +2299,6 @@
 {'text': 'Accident at Erskine bridge southbound @trafficscotland', 'stream_type': 'Twitter', 'id_str': '657531329245003776'}
 {'text': 'Accident shuts down traffic on Bay Bridge Friday morning: http://foxbaltimore.com/news/local/accident-shuts-down-traffic-on-bay-bridge-friday-morning\\u00a0\\u2026 #liveonFOX45 pic.twitter.com/eeDJ1mVGoe', 'stream_type': 'Twitter', 'id_str': '657534297201582081'}
 {'text': 'Verrazano-Narrows Bridge delays on Friday morning: An accident is being cleared on the upper level of the Verr... http://bit.ly/203g96Q\\u00a0', 'stream_type': 'Twitter', 'id_str': '657528478305116160'}
-{'text': 'CLEARED: Verrazano Bridge Upper Lvl W/B all lanes reopened at 8:28AM due to the earlier accident. Kings/Richmond Co. http://dlvr.it/CX6gST\\u00a0', 'stream_type': 'Twitter', 'id_str': '657541049502425088'}
 {'text': 'Accident closes Eb 50 @ Bay Bridge #MDTraffic pic.twitter.com/kxTvWEgXxJ', 'stream_type': 'Twitter', 'id_str': '657531726927937536'}
 {'text': "ALL LANES BLOCKED EB Bay Bridge. Accident being worked on. I'll have a live report coming up at 8:25 @wbaltv11", 'stream_type': 'Twitter', 'id_str': '657531605926440960'}
 {'text': 'Scotland Traffic M898 Erskine Bridge approach M8 J30 - M898 J1 - Accident http://dlvr.it/CX61z0\\u00a0 Drive Safe All', 'stream_type': 'Twitter', 'id_str': '657533317370089473'}
@@ -2348,7 +2326,6 @@
 {'text': '\\u25bcHarris Blvd bridge over I-77\\naccident 8:03\\n\\n#Charlotte #Traffic #Clt #FRIDAY', 'stream_type': 'Twitter', 'id_str': '657528350811017216'}
 {'text': 'Accident on Verrazano-Narrows Bridge westbound Staten Island Bound Upper Level (New York) all lanes closed pic.twitter.com/0VP5GHoVfu', 'stream_type': 'Twitter', 'id_str': '657528316417544192'}
 {'text': 'Accident Eb 50 CLOSED @ Bay Bridge w overturned box truck Delays building from Oceanic Dr #MDTraffic pic.twitter.com/jaGXmQbRfp', 'stream_type': 'Twitter', 'id_str': '657538160021368832'}
-{'text': 'CLEARED: Verrazano Bridge Upper Lvl W/B all lanes reopened at 8:28AM due to the earlier accident. Kings/Richmond Co. http://dlvr.it/CX6hFp\\u00a0', 'stream_type': 'Twitter', 'id_str': '657540108434870272'}
 {'text': "If you're planning to head east today, you might want to delay your plan ... #netmd http://fb.me/7JXEdeOCG\\u00a0", 'stream_type': 'Twitter', 'id_str': '657540031767154688'}
 {'text': 'Erskine Bridge is closed Southbound (towards Glasgow) following an accident - problems heading the other direction too #Clyde1 #Glasgow', 'stream_type': 'Twitter', 'id_str': '657539719715278848'}
 {'text': 'Staten Island bound Verrazano Bridge Upper Level is *CLOSED* due to an accident; Delays back onto SI Expwy #nbc4ny http://twitter.com/Traffic4NY/status/657527266268712960/photo/1pic.twitter.com/u1xBjDbyKX\\u00a0', 'stream_type': 'Twitter', 'id_str': '657529381489917952'}
@@ -2363,7 +2340,6 @@
 {'text': "Of course there's an accident closing the bridge when I'm trying to get home", 'stream_type': 'Twitter', 'id_str': '657561845142835200'}
 {'text': 'Bay Bridge Accident  LANES CLEAR NOW but the drive time from the Maze has DOUBLED!  Currently 52 MIN! pic.twitter.com/Qqd58pYe5G', 'stream_type': 'Twitter', 'id_str': '657561714431389696'}
 {'text': 'LifeLink ambulance crews are at the scene of an accident where a vehicle has crashed over a bridge on the Western bypass', 'stream_type': 'Twitter', 'id_str': '657563580179566592'}
-{'text': 'UPDATE on Rt.50! Eastbound lanes have reopened at Bay Bridge following early morning accident. @ABC2News #GMM2 pic.twitter.com/troD9PvNtI', 'stream_type': 'Twitter', 'id_str': '657571737824047104'}
 {'text': 'I officially hate driving over the Lafayette bridge.Got my first flat on it last summer & got into my first minor car accident on it today.', 'stream_type': 'Twitter', 'id_str': '657558531185340416'}
 {'text': 'MORE: EB lanes of Chesapeake Bay Bridge still closed due to tractor trailer accident. http://cbsloc.al/1jYEGJf\\u00a0 pic.twitter.com/J2olQ85rty', 'stream_type': 'Twitter', 'id_str': '657568159889780736'}
 {'text': 'Serious accident on Chesapeake Bay Bridge (Photo) http://bit.ly/1i0u6Qx\\u00a0 #WTOP', 'stream_type': 'Twitter', 'id_str': '657564902823821312'}
@@ -2374,13 +2350,11 @@
 {'text': 'Accident: WB I-10 near the 3 mile bridge past Laplace, MM 202, 2 mile back up... traffic is passing on the right shoulder', 'stream_type': 'Twitter', 'id_str': '657517500633075713'}
 {'text': 'First4Traffic: RT Accident- I-395 NB near Case Bridge-Left side is blocked nbcwashington News4Today', 'stream_type': 'Twitter', 'id_str': '657512028660211713'}
 {'text': 'MacDonald Bridge remains closed.  Accident on other bridge.  Ferries packed to capacity.  Lots of luck getting to work Dartmouth folks.', 'stream_type': 'Twitter', 'id_str': '657520075335929856'}
-{'text': 'The eastbound span of the Bay Bridge has reopened following an earlier accident.  Two-way operations (in which... http://fb.me/7ohfFX2Kp\\u00a0', 'stream_type': 'Twitter', 'id_str': '657580945814384640'}
 {'text': '#chesapeake Eastbound Span of Bay Bridge Closed Due to Accident http://dlvr.it/CX9yRF\\u00a0', 'stream_type': 'Twitter', 'id_str': '657578505920626689'}
 {'text': 'Bay Bridge eastbound lanes reopen following truck accident: \\nwelcome to our village http://cowboysinsemauisland.com\\u00a0 \\u25ba... http://bit.ly/1MeLS0A\\u00a0', 'stream_type': 'Twitter', 'id_str': '657580711772209152'}
 {'text': 'All lanes of Eastbound U.S. 50 over Chesapeake Bay Bridge are reopen after the accident involving a box truck. No injuries were reported.', 'stream_type': 'Twitter', 'id_str': '657572671878643712'}
 {'text': 'Multi Vehicle Accident involving a Tractor Trailer on Hwy 372 at the Etowah River Bridge. Both Lanes Shut Down. Avoid the area if Possible', 'stream_type': 'Twitter', 'id_str': '657583649580158976'}
 {'text': 'All lanes of Bay Bridge open after accident leaves truck dangling over side http://www.fox5dc.com/news/37585915-story\\u00a0\\u2026 #BayBridge pic.twitter.com/URYRRGPF6Q', 'stream_type': 'Twitter', 'id_str': '657576392519995392'}
-{'text': "Eastbound lanes have reopened at the Bay Bridge following this morning's accident. http://bit.ly/1PGmPEd\\u00a0", 'stream_type': 'Twitter', 'id_str': '657577390063886336'}
 {'text': 'FYI from Cherokee EOC: Multi-vehicle accident involving tractor trailer on S.R. 372 at the Etowah River bridge; both lanes closed.', 'stream_type': 'Twitter', 'id_str': '657584824262225921'}
 {'text': 'ALSO ON #WJZ at Noon: The latest on the accident that shutdown lanes on the Bay Bridge this morning.', 'stream_type': 'Twitter', 'id_str': '657584793954054144'}
 {'text': '.@EYBuses tweeting accident between Hessle and Brighton Street traffic queueing back to Humber Bridge will effect Hessle Road #hyperfruit', 'stream_type': 'Twitter', 'id_str': '657458130314489856'}
@@ -2388,7 +2362,6 @@
 {'text': '#penangtu PLUS: Long crawl from Seberang Jaya up to KM1.1 on the Penang Bridge due to an accident which has just... http://fb.me/RHzsOOng\\u00a0', 'stream_type': 'Twitter', 'id_str': '657365080808419328'}
 {'text': 'JUST IN: Memorial Bridge closed due to #WestSpringfield accident. Tune to Western Mass News at 10 for more details: http://bit.ly/1QYZVpj\\u00a0', 'stream_type': 'Twitter', 'id_str': '657361741861490688'}
 {'text': 'Randolph Street Bridge Closed After Construction Accident http://dlvr.it/CWr9z6\\u00a0 #chicago pic.twitter.com/lDRbjgO1nw', 'stream_type': 'Twitter', 'id_str': '657368984711376896'}
-{'text': 'Memorial Bridge reopened after West Springfield accident http://www.westernmassnews.com/story/30330888/memorial-bridge-closed-due-to-west-springfield-accident\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '657375814456102916'}
 {'text': 'Yikes! A few more feet, and...! Bay Bridge eastbound lanes reopen following truck accident http://wpo.st/RGRi0\\u00a0 pic.twitter.com/wTRDjoRzeJ', 'stream_type': 'Twitter', 'id_str': '657619562192633856'}
 {'text': '#Kew Still queueing approaching Kew Bridge Station from all directions due to an earlier accident. All lanes have now been reopened.', 'stream_type': 'Twitter', 'id_str': '657625847340339204'}
 {'text': '#BOWIE Rte 214/Central Ave near Queen Anne Bridge Rd, BLOCKED each way due to an ACCIDENT: Medevac Requested #mdtraffic #dctraffic', 'stream_type': 'Twitter', 'id_str': '657429468462624768'}
@@ -2401,7 +2374,6 @@
 {'text': 'Update: Accident on #I278 WB at Metropolitan Avenue; Williamsburg Bridge http://goo.gl/t6rv9U\\u00a0', 'stream_type': 'Twitter', 'id_str': '657688963579293696'}
 {'text': '@WWLP22News Memorial Bridge closed because of accident on West Sprinfield side.  Cars forced to make U-turns back to Springfield.', 'stream_type': 'Twitter', 'id_str': '657355719419830272'}
 {'text': 'Accident Closes Memorial Bridge in West Springfield http://wp.me/p4ySuR-1aX3\\u00a0', 'stream_type': 'Twitter', 'id_str': '657351873670680576'}
-{'text': 'All lanes of the Bay Bridge in Annapolis, Maryland have reopened after a two-vehicle accident along the... http://fb.me/6NjrBoTyU\\u00a0', 'stream_type': 'Twitter', 'id_str': '657594346003394561'}
 {'text': 'Bay Bridge reopens after multi-vehicle accident  #Maryland', 'stream_type': 'Twitter', 'id_str': '657588123539365888'}
 {'text': 'Andy Perry Retweeted Mustangs Daily', 'stream_type': 'Twitter', 'id_str': '657589245729636352'}
 {'text': 'WTOP Bay Bridge reopens after multi-vehicle accident WBAL Baltimore The Maryland Transportation\\u2026 http://goo.gl/QWwuPa\\u00a0', 'stream_type': 'Twitter', 'id_str': '657600642651959296'}
@@ -2510,7 +2482,6 @@
 {'text': 'Accident on OB Stevenson causing delays from Harlem - Des Plaines Riv Bridge. @cbschicago @BartShore @JHudsontraffic pic.twitter.com/6Ejn2lSE3q', 'stream_type': 'Twitter', 'id_str': '653534511347601408'}
 {'text': 'Accident on #I87MajorDeeganExpressway NB at Exit 3 - Grand Concourse-Third Avenue Bridge http://goo.gl/B12FsF\\u00a0', 'stream_type': 'Twitter', 'id_str': '653526158055747584'}
 {'text': 'Accident with Injuries on Hwy 21 & Bonny Bridge Road. Radar Hot Spot: Diamond Causeway. Clear & 64 in Savannah at 7:05 AM.', 'stream_type': 'Twitter', 'id_str': '653528109925298176'}
-{'text': "You're the first to know, everything has been re-opened on the Throgs Neck Bridge after an accident, @TomKaminskiWCBS @wcbs880", 'stream_type': 'Twitter', 'id_str': '653527874872442880'}
 {'text': "@laevantine @sokareemie i'll probably still find a way to drive the dog off a bridge by accident", 'stream_type': 'Twitter', 'id_str': '653595168587841537'}
 {'text': '@Cambs_Traffic just now an accident on horningsea road going south to north, just passing the bridge J34 #A14 a red car and a cyclist', 'stream_type': 'Twitter', 'id_str': '653471811896758272'}
 {'text': 'The right lane is blocked on US 90B East on the Crescent City Connection Bridge due to an accident. Congestion has reached Terry Parkway.', 'stream_type': 'Twitter', 'id_str': '653635872466857984'}
@@ -2529,7 +2500,6 @@
 {'text': 'N8 ACCIDENT update: It happened at the area where the new Bridge is built. Road  closed traffic will divert through a farm nearby @TrafficSA', 'stream_type': 'Twitter', 'id_str': '650755827297554436'}
 {'text': '#Lancashire  #M65 w/bound still closed from J1 onto the #A6, while @LancsRoadPolice deal with an accident nr #Bamber_Bridge  @NWmwaypolice', 'stream_type': 'Twitter', 'id_str': '650752732370993156'}
 {'text': '10/4/2015@4:57 PM: TRAFFIC ACCIDENT NO INJURY at 3209 DEANS BRIDGE RD http://goo.gl/zxzB4\\u00a0', 'stream_type': 'Twitter', 'id_str': '650776959753060352'}
-{'text': "#Lancashire  The emergency services have dealt with the accident on the #A6 near  #Bamber_Bridge and we've now re-opened the #M65 westbound.", 'stream_type': 'Twitter', 'id_str': '650763663519928320'}
 {'text': 'FYI #vancity accident in #lionsgate bridge and we are NOT moving! Heading into town :( not so much #help #stuck #vancouver', 'stream_type': 'Twitter', 'id_str': '650764893621108737'}
 {'text': 'AA CO FD Rescue Accident with Maryland State Trooper Involved Rt 50 & Whitehall Rd (Near Bay Bridge) 2 trapped including Trooper', 'stream_type': 'Twitter', 'id_str': '650808484657823744'}
 {'text': '#KYWTraffic Accident cleared 95 SB between Cottman Ave and Bridge St http://cbsloc.al/15Df9Od\\u00a0', 'stream_type': 'Twitter', 'id_str': '650812910143414273'}
@@ -2621,7 +2591,6 @@
 {'text': 'Accident on Wascana, East bound, just before Ring Road bridge. Thanks to Jocelyn for the tip! #YQRTraffic', 'stream_type': 'Twitter', 'id_str': '659867252737638400'}
 {'text': 'Prayers to everyone involved in the accident on the Hilton Head bridge ', 'stream_type': 'Twitter', 'id_str': '659524416167092224'}
 {'text': '#kltu Klang: Accident after Kota Bridge has been cleared, still congested towards the Fed Hway.', 'stream_type': 'Twitter', 'id_str': '659526589445595136'}
-{'text': 'CLEARED: S/B George Washington Bridge Upper Level has all lanes reopened at 8:04PM due to a previous accident, New\\u2026 http://dlvr.it/CZtcGH\\u00a0', 'stream_type': 'Twitter', 'id_str': '659522119026368512'}
 {'text': 'S/B George Washington Bridge Upper Level has two lanes blocked at 7:50PM due to an accident for up to 2 hours, New\\u2026 http://dlvr.it/CZtdFp\\u00a0', 'stream_type': 'Twitter', 'id_str': '659522103813640193'}
 {'text': '#kltu Still hectic to get out of Klang due to an earlier accident which has already been cleared after the Kota Bridge.', 'stream_type': 'Twitter', 'id_str': '659531617111642112'}
 {'text': '6km traffic jam.Northbound closed. Earlier accident and fire near Hawkesbury River Bridge. Lane 3 closed southbound. pic.twitter.com/eWEpFbAza3', 'stream_type': 'Twitter', 'id_str': '659528488261554176'}
@@ -2942,7 +2911,6 @@
 {'text': 'Patton Street Bridge in Wilmerding. vehicle accident with injury. pic.twitter.com/nKSnl5oNKe', 'stream_type': 'Twitter', 'id_str': '657783509717766144'}
 {'text': 'Accident cleared on #I87NYSThruway NB at 0.93 after Tappan Zee Bridge Toll Barrier http://goo.gl/x2PQ3C\\u00a0', 'stream_type': 'Twitter', 'id_str': '657969611175043072'}
 {'text': '#BREAKING: All eastbound lanes of I-580 on the Richmond-San Rafael Bridge are blocked due to an accident. More details to come.', 'stream_type': 'Twitter', 'id_str': '657968676486836224'}
-{'text': 'TRAFFIC: One eastbound lane has reopened on the Richmond-San Rafael Bridge following an accident.', 'stream_type': 'Twitter', 'id_str': '657974669497139200'}
 {'text': 'Update: Westbound I-80 at Treasure Island on the SF Bay Bridge, Right Lane is Blocked Due to an Accident http://ow.ly/TNu10\\u00a0', 'stream_type': 'Twitter', 'id_str': '657977366581518337'}
 {'text': 'Trapped on Richmond Bridge for next 90 mins apparently.  Pray for the ppl in the accident!  Meanwhile, nice view: pic.twitter.com/3Nfw3sas1G', 'stream_type': 'Twitter', 'id_str': '657966112219357184'}
 {'text': 'Update: Eastbound I-580 on the Richmond Bridge, Left Lane is Blocked due to an Injury Accident. http://ow.ly/TNtMv\\u00a0', 'stream_type': 'Twitter', 'id_str': '657976064975765505'}
@@ -2954,7 +2922,6 @@
 {'text': "Wtf taken the lights at new bridge down that's just an accident waiting to happen", 'stream_type': 'Twitter', 'id_str': '657883345062395904'}
 {'text': 'Accident on Al Gharbi bridge towards JBR. A car flipped upside down. We need speedbumps here @trafficdxb @RTA_Dubai pic.twitter.com/BIS96N4VvX', 'stream_type': 'Twitter', 'id_str': '657943234551922688'}
 {'text': 'To donate to the funds set up for the construction workers injured in the bridge lowering accident click here:  http://bit.ly/1LG7JZp\\u00a0', 'stream_type': 'Twitter', 'id_str': '657935193022574592'}
-{'text': 'CLEARED: N/B RFK Bridge all lanes reopened at 11:39AM due to an earlier accident. - Queens Co. http://dlvr.it/CXgJtK\\u00a0', 'stream_type': 'Twitter', 'id_str': '657946959974543361'}
 {'text': 'Story: Young Girl Badly Hurt in Kew Bridge Road Accident - Nine year old hit by car near Water and Steam Museum. http://www.chiswickw4.com/default.asp?section=info&page=conaccident102.htm\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '657828715091636224'}
 {'text': 'Brooklyn-bound Brooklyn Bridge CLOSED with an accident.', 'stream_type': 'Twitter', 'id_str': '657728754115072000'}
 {'text': 'Eastbound Brooklyn Bridge Brooklyn Bound 2 lanes blocked at 9:12pm due to an accident for up to 2 hours New york co http://dlvr.it/CXN7WP\\u00a0', 'stream_type': 'Twitter', 'id_str': '657736339740200965'}
@@ -2990,7 +2957,6 @@
 {'text': '#Victim identified in Old Bridge GSP accident - Oct 11 @ 5:44 PM ET  http://pulpnews.com/c/i.php?id=1659544905\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653325329013043200'}
 {'text': 'Cleared:  Accident on #HarlemRiverDrive NB at 145th Street Bridge', 'stream_type': 'Twitter', 'id_str': '653156888763342848'}
 {'text': 'Update: Accident on #HarlemRiverDrive NB at 145th Street Bridge http://goo.gl/992mSC\\u00a0', 'stream_type': 'Twitter', 'id_str': '653149865162240000'}
-{'text': 'CLEARED George Washington Bridge Lower Level W/B has all lanes reopened due to a previous accident at 5:41 AM,\\u2026 http://dlvr.it/CQ1PYk\\u00a0', 'stream_type': 'Twitter', 'id_str': '653150314946670593'}
 {'text': "Wow, I didn't get to see the news yesteday!  I know where this place is, a terrible accident sending prayers to... http://fb.me/7wnNDIOIM\\u00a0", 'stream_type': 'Twitter', 'id_str': '653205037301133312'}
 {'text': '#BreakingNews Fatal Accident - Old Bridge Township, NJ: U/D Medevac is giving an ETA of 4-5 mins, NJSP to shut down\\u2026 http://facebook.com/bnndesk\\u00a0', 'stream_type': 'Twitter', 'id_str': '653203432522715141'}
 {'text': 'Avoid 2nd street eastbound out of BS. Accident on 2nd Street bridge.', 'stream_type': 'Twitter', 'id_str': '653289678574088192'}
@@ -2998,7 +2964,6 @@
 {'text': 'EB lanes of I-240 shut down at Jeff Bowen Bridge due to 5 car accident: http://bit.ly/1VMl78r\\u00a0', 'stream_type': 'Twitter', 'id_str': '653289330853707776'}
 {'text': 'ACCIDENT: 8:04pm + @Ayoade_Page: BRT bus jst knock down a man on BT at Maryland underground bridge. The man is confirmed dead. So sad. ', 'stream_type': 'Twitter', 'id_str': '653285432092983296'}
 {'text': 'Accident on the Wisconsin street bridge on the north bound side ', 'stream_type': 'Twitter', 'id_str': '653286567298002944'}
-{'text': 'UPDATE: All eastbound lanes of I-240 near the Jeff Bowen Bridge have reopened following a 5 car accident. No serious injuries. @asheville', 'stream_type': 'Twitter', 'id_str': '653299126617178113'}
 {'text': 'On Westbound I-80 East of Treasure Island on the Bay Bridge, Multi-Vehicle Accident Blocks Two Right Lanes http://ow.ly/ThcTl\\u00a0', 'stream_type': 'Twitter', 'id_str': '653355857598644224'}
 {'text': 'I-10 West is closed at mile post 217 (on the Bonnet Carre Spillway Bridge) due to an accident. Congestion is minimal.', 'stream_type': 'Twitter', 'id_str': '653044000111374336'}
 {'text': 'And we found two dope ass rooftop bars by accident without having to cross the bridge mannnnnn', 'stream_type': 'Twitter', 'id_str': '653047309526269953'}
@@ -3009,7 +2974,6 @@
 {'text': 'Sydney Traffic ACCIDENT Car - HOMEBUSH Parramatta Rd near Bridge Rd #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '653071415101427712'}
 {'text': 'World News>> \\"9 workers hurt in Corona in freeway construction accident - OCRegister\\" http://bit.ly/1LGOuEl\\u00a0', 'stream_type': 'Twitter', 'id_str': '653058926792081410'}
 {'text': '9 workers hurt in Corona in freeway construction accident - OCRegister http://ift.tt/1GCp4QL\\u00a0 pic.twitter.com/DJdhY6OMDj', 'stream_type': 'Twitter', 'id_str': '653058879656472576'}
-{'text': '#BreakingNews Fatal Accident - Old Bridge Township, NJ: U/D NJSP is reporting all lanes are now reopened #915439 http://facebook.com/bnndesk\\u00a0', 'stream_type': 'Twitter', 'id_str': '653258160262660096'}
 {'text': 'DENISON -- MAJOR ACCIDENT -- Single Vehicle (Car vs. Deer) NB 75 just south of Red River Bridge.', 'stream_type': 'Twitter', 'id_str': '653209267214909441'}
 {'text': 'Accident on New Jersey Turnpike outer roadway southbound South of Interchange 13 - I-278/Goethals Bridge (Linden)  right lane blocked', 'stream_type': 'Twitter', 'id_str': '653219563925041152'}
 {'text': 'Major accident on Rt 99 Alford St. bridge into Boston, Sullivan Sq. All SB traffic diverted @ Revere Beach Pkwy @7news @cbsboston @fox25news', 'stream_type': 'Twitter', 'id_str': '653230119281160196'}
@@ -3023,18 +2987,15 @@
 {'text': 'Accident on George Washington Bridge westbound between New York Side/Upper Level (M http://www.511nj.org/IncidentList.aspx?listType=All&709\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653276186731257856'}
 {'text': 'Great interview with @JaneCCampbell from @aeranptyltd -- a financial planner & lawyer, helping accident victims. http://www.professionalplanner.com.au/magazine/2015/10/11/interview-for-the-people-a-foot-in-both-camps-helps-bridge-the-gap-for-accident-victims-40703/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653268867544813574'}
 {'text': 'Bridge Street Closed: Bridge Street is closed by the Dracut town line, due to a motor vehicle accident. \\u00a0Pleas... http://bit.ly/1NzzFUk\\u00a0', 'stream_type': 'Twitter', 'id_str': '653269931811672064'}
-{'text': 'CLEARED: I-95 S/B Approaching George Washington Bridge all lanes reopened at 9:20pm due to an earlier accident in\\u2026 http://dlvr.it/CPtHLZ\\u00a0', 'stream_type': 'Twitter', 'id_str': '653032912581857280'}
 {'text': 'Accident with property damage on #I84 EB at Newburgh - Beacon Bridge Toll Plaza http://goo.gl/zj7CpI\\u00a0', 'stream_type': 'Twitter', 'id_str': '653042020819279872'}
 {'text': 'Accident on Garden State Parkway local lanes southbound South of Exit 120 - Laurence Harbor (Old Bridge Twp)  all lanes open', 'stream_type': 'Twitter', 'id_str': '653028554888847360'}
 {'text': 'Accident on George Washington Bridge westbound at Mid-Span/Lower Level (Manhattan) http://www.511nj.org/IncidentList.aspx?listType=All&259\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '653140293643075584'}
-{'text': 'CLEARED George Washington Bridge Lower Level W/B has all lanes reopened due to a previous accident at 5:41 AM,\\u2026 http://dlvr.it/CQ15Vt\\u00a0', 'stream_type': 'Twitter', 'id_str': '653147044039667712'}
 {'text': 'Accident, shoulder blocked in #SanFranciscoG.g.Bridge on US-101 NB at Park Presidio #BayArea #Traffic http://bit.ly/YAIxih\\u00a0', 'stream_type': 'Twitter', 'id_str': '653331074672517120'}
 {'text': 'Cleared:  Accident on #I95NewEnglandThruway NB at Exit 21 (I-95) - White Plains - Tappan Zee Bridge (I-287)', 'stream_type': 'Twitter', 'id_str': '653001613490188288'}
 {'text': 'In California, 9 employees injured in accident at freeway construction site: http://tinyurl.com/q2mye26\\u00a0', 'stream_type': 'Twitter', 'id_str': '653000438451585024'}
 {'text': 'MEDIUM A593 in Skelwith Bridge partially blocked in both directions near the B5343 junction, because of an accident.', 'stream_type': 'Twitter', 'id_str': '658757053779963904'}
 {'text': 'Saw motorcycle when I drove by. Accident scene just after Grand Island bridge heading S from NF @TWCNewsBuffalo pic.twitter.com/cR5KYxGObc', 'stream_type': 'Twitter', 'id_str': '658763553856430080'}
 {'text': 'Backup on Grand Island bridge on NF side heading South. Could be an accident, ambulance & fire truck just drove by pic.twitter.com/oPxqOccdl9', 'stream_type': 'Twitter', 'id_str': '658761664423182336'}
-{'text': 'The Mifflinville Bridge is reopened following a fatal accident there this morning.... http://fb.me/4aU09wafO\\u00a0', 'stream_type': 'Twitter', 'id_str': '658750303098023937'}
 {'text': 'Accident on the 190 south near bottom of North Grand Island Bridge near River Road. Right lane blocked pic.twitter.com/Z20bVMPS7m', 'stream_type': 'Twitter', 'id_str': '658761308221906944'}
 {'text': 'Accident on the 190 south near bottom of North Grand Island Bridge near River Road. Right lane blocked pic.twitter.com/LSaVM9vywG', 'stream_type': 'Twitter', 'id_str': '658761308221886464'}
 {'text': 'Delays Bay Bridge Rd just South of Cochrane Bridge due to accident involving a vehicle that left the roadway http://fb.me/3xNha1BXw\\u00a0', 'stream_type': 'Twitter', 'id_str': '658759378355359744'}
@@ -3129,7 +3090,6 @@
 {'text': 'NSW - Homebush - accident bothways Parramatta Road at Bridge Rd', 'stream_type': 'Twitter', 'id_str': '654755639688740865'}
 {'text': 'Breaking: I-20 is shutdown due to an accident where an 18 wheeler almost went over a bridge. Details @ 4.-Maggie pic.twitter.com/t90kOMRSGT', 'stream_type': 'Twitter', 'id_str': '654762708022136832'}
 {'text': 'Accident RT-50 EB at the Severn River Bridge, 2 left lanes and shoulder are blocked. @cbsbaltimore pic.twitter.com/Or3Vgcx7fl', 'stream_type': 'Twitter', 'id_str': '654751809345470464'}
-{'text': 'CLEARED: Goethals Bridge W/B has all lanes reopened at 4:52PM due to a previous accident, Richmond Co. http://dlvr.it/CSHmsC\\u00a0', 'stream_type': 'Twitter', 'id_str': '654762433538490368'}
 {'text': '10/15/2015@4:49 PM: TRAFFIC ACCIDENT NO INJURY at DEANS BRIDGE RD AND  BARTON CHAPEL RD http://goo.gl/FrvPnZ\\u00a0', 'stream_type': 'Twitter', 'id_str': '654762011180429312'}
 {'text': 'Update: Accident with property damage on #NY100 NB at Goldens Bridge Road; NY 138 http://goo.gl/BbdHOY\\u00a0', 'stream_type': 'Twitter', 'id_str': '654756843005218817'}
 {'text': "Via @hhbridges: Accident on Macdonald Bridge. Barrington street ramp closed until it's cleared. #t", 'stream_type': 'Twitter', 'id_str': '654749094552797185'}
@@ -3381,7 +3341,6 @@
 {'text': "There's something fishy about that Ojuelegba Bridge. Another accident. @Gidi_Traffic pic.twitter.com/6Kqc4HYtqz", 'stream_type': 'Twitter', 'id_str': '649488217260081152'}
 {'text': 'Accident at Ojuelegba inbound descending from the bridge. Avoid Ojuelegba route for now. @FunmilayoAjala @Jiniworld pic.twitter.com/fnk8sZcUYI', 'stream_type': 'Twitter', 'id_str': '649481478905155584'}
 {'text': '@trafficbutter I mean the Fadeyi bridge.  Autocorrect with the phone. #accident @TrafficChiefNG', 'stream_type': 'Twitter', 'id_str': '649479977168183296'}
-{'text': 'Collision shuts down Maria St. swing bridge earlier this evening; reopened around 7:30 PM: http://www.chextv.com/2015/09/30/accident-shuts-down-maria-st-swing/\\u00a0\\u2026 pic.twitter.com/DdRwCvJhDO', 'stream_type': 'Twitter', 'id_str': '649400158652796928'}
 {'text': 'Accident On Third Mainland As Government Truck Falls Off Bridge (PHOTOS) - http://bit.ly/1KRSVq3\\u00a0', 'stream_type': 'Twitter', 'id_str': '649391296180674560'}
 {'text': 'Appears to be an accident on the right-hand side just as you cross third Street bridge heading to Jonathon Moore Pike use caution', 'stream_type': 'Twitter', 'id_str': '649402685146460160'}
 {'text': '@WOKVNews anyone going 95n to downtown Jax get off at Emerson and take bridge o expressway - bad accident', 'stream_type': 'Twitter', 'id_str': '649650691540127744'}
@@ -3630,7 +3589,6 @@
 {'text': 'Accident @ I-85 NB EXPY NE / CHESHIRE BRIDGE RD NE http://maps.google.com/maps?q=33.82367,-84.35198\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '649974951034900480'}
 {'text': "Stuck on London Bridge in taxi - I fear it's been another #cycling accident :(", 'stream_type': 'Twitter', 'id_str': '649852280963993600'}
 {'text': 'Going to take me 2 hours to get home ... Major bridge accident', 'stream_type': 'Twitter', 'id_str': '649755926346403840'}
-{'text': 'CLEARED S/B George Washington Bridge upper level has all lanes reopened at 9:00 P.M. due to a previous accident,\\u2026 http://dlvr.it/CKVpFS\\u00a0', 'stream_type': 'Twitter', 'id_str': '649755728308121601'}
 {'text': 'Bad accident east bound harbour bridge. Avoid. #saintjohn', 'stream_type': 'Twitter', 'id_str': '650012331011874816'}
 {'text': '\\"@SavoieCharlene: Accident east on bridge reroute at Catherwood @TrafficNB\\" #SaintJohn', 'stream_type': 'Twitter', 'id_str': '650015703135879168'}
 {'text': 'Update: Accident on #HarlemRiverDrive SB at Madison Avenue Bridge; Ramp http://goo.gl/PrlQu0\\u00a0', 'stream_type': 'Twitter', 'id_str': '650020131779813376'}
@@ -3660,7 +3618,6 @@
 {'text': '1939 PHOTOGRAPH ME Maine New Gloucester Railroad RR Accident Crane Men Bridge http://united-states-tourist.info/it/si/?query=361405181261\\u00a0\\u2026 pic.twitter.com/4qXgtghDAW', 'stream_type': 'Twitter', 'id_str': '652425184167727104'}
 {'text': '@ABC7Jamie @ABC7News @NewsChannel8 you are in DC right. Horrible accident truck fell over a bridge.', 'stream_type': 'Twitter', 'id_str': '652434220703436800'}
 {'text': 'So many vehicles running red lights at Grosvenor Bridge in TW this morning: accident waiting to happen @TWellsCouncil @20sPlentyTW', 'stream_type': 'Twitter', 'id_str': '652399966170841088'}
-{'text': 'Bull River Bridge re-opened after fatal crash http://www.wtoc.com/story/30221751/bull-river-bridge-closed-due-to-serious-accident\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '652394138541891584'}
 {'text': 'Sydney Traffic ACCIDENT Truck, Car - SYDNEY Macquarie St at Bridge St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '652403890839621632'}
 {'text': 'Driverless Car Accident Reports Make Unhappy Reading For Humans http://ift.tt/1RxIDzY\\u00a0 Bridge of Spies', 'stream_type': 'Twitter', 'id_str': '652470369291509760'}
 {'text': 'Update: Accident on #FranklinDRooseveltDrive SB at Exit 17 - Triborough Bridge west leg http://goo.gl/JQ7FNC\\u00a0', 'stream_type': 'Twitter', 'id_str': '652481475644928000'}
@@ -3975,7 +3932,6 @@
 {'text': 'Multi-car accident at Wall and Market streets. Also, Rural/Metro aiding man who fell on sidewalk on Bridge. pic.twitter.com/bL5X2NQpUf', 'stream_type': 'Twitter', 'id_str': '655055150218878977'}
 {'text': 'M90 Friarton Bridge - Accident, All lanes restricted Northbound for up to 15 minutes has been cleared. #TSIncident', 'stream_type': 'Twitter', 'id_str': '655059599586893824'}
 {'text': 'M90 Friarton Bridge - Accident: Lane 2 (of 2) closed north of the Friarton Bridge http://goo.gl/fb/8Cmhbo\\u00a0 @hawickweather', 'stream_type': 'Twitter', 'id_str': '655052488018673664'}
-{'text': 'CLEARED: S/B RFK Bridge all lanes reopened at 11:30AM due to an earlier accident. - Bronx Co. http://dlvr.it/CSkFvy\\u00a0', 'stream_type': 'Twitter', 'id_str': '655060431086596096'}
 {'text': 'Pioneer Road bridge near Homedale closed, flooded #Idaho http://www.newslocker.com/en-us/region/idaho/pioneer-road-bridge-near-homedale-closed-flooded/\\u00a0\\u2026 pic.twitter.com/GiIgSKijkh', 'stream_type': 'Twitter', 'id_str': '656978371126120449'}
 {'text': 'Celta Vigo v Las Palmas in 1976. Players enter the flooded pitch by walking on a makeshift bridge of tables. pic.twitter.com/nKyPN03IT6', 'stream_type': 'Twitter', 'id_str': '656848406854434819'}
 {'text': 'Photo: spiritualpoet: Day 2. \\u2013 Today, I am not flooded with a bridge of thoughts that lead to you, in the... http://tmblr.co/ZWm10y1vtF04P\\u00a0', 'stream_type': 'Twitter', 'id_str': '652659684361543680'}
@@ -4089,7 +4045,6 @@
 {'text': 'UPDT: Weath: NCCO - S MARKET ST IS FLOODED FROM S SHIPLEY ST TO THE BRIDGE http://deldot.gov/public.ejs?command=PublicTrafficIncidentDisplay&id=78687\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659427130443481088'}
 {'text': 'LOL currently sitting in a tractor waiting to cross our bridge that is currently flooded....', 'stream_type': 'Twitter', 'id_str': '659332755671654400'}
 {'text': 'Roman road at A12 bridge towards #ingatestone flooded Take care slow down', 'stream_type': 'Twitter', 'id_str': '659268431649382400'}
-{'text': '@Pgh311 flooded wheelchair ramp/sidewalk 908 Brookline Blvd. Resident put pallet bridge to get through. pic.twitter.com/fgxHGRmBWX', 'stream_type': 'Twitter', 'id_str': '659493691560738816'}
 {'text': 'The bridge on old 83 is flooded, they said for MERCEDES to evacuate east.', 'stream_type': 'Twitter', 'id_str': '657996951753916416'}
 {'text': 'ahhh this one river in my city is flooded over the bridge again', 'stream_type': 'Twitter', 'id_str': '657893673825206272'}
 {'text': "Are people seriously trying to drive over the bridge, while its flooded, AGAIN?! IG we didn't learn from the last guy that got pulled in..", 'stream_type': 'Twitter', 'id_str': '657927628595159040'}
@@ -4133,7 +4088,6 @@
 {'text': '@kadijahw its the thought counts. And apparently the bridge over sewell is flooded. Merp', 'stream_type': 'Twitter', 'id_str': '660094643690868737'}
 {'text': 'The bridge in Gruene is completely flooded pic.twitter.com/FZDQKLwoCU', 'stream_type': 'Twitter', 'id_str': '660100104443944960'}
 {'text': 'cypress creek river im wimberly has flooded over the bridge', 'stream_type': 'Twitter', 'id_str': '660096889451212800'}
-{'text': 'Watched in awe as Toni, the Swiss Bridgebuilder builds his bridge #710 in Ayeyarwaddy delta to help flooded village pic.twitter.com/vey8tDCI2m', 'stream_type': 'Twitter', 'id_str': '660107483222970368'}
 {'text': "So the river that's flooded is nearly up to the bridge that is the only way for me to keep to my apartment.", 'stream_type': 'Twitter', 'id_str': '660117624194383872'}
 {'text': '@KENS5 Comal River at Garden St Bridge in New Braunfels. River has flooded into Schlitterbahn. pic.twitter.com/Pb0K7rKXiF', 'stream_type': 'Twitter', 'id_str': '660109263683977217'}
 {'text': '@BealsBrady good thing my bridge just got flooded!!', 'stream_type': 'Twitter', 'id_str': '660119417141923840'}

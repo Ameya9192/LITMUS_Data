@@ -29,7 +29,6 @@
 {'text': "Power outage forces delay in Lady Rebels' next match. Remaining matches moved to Siegel High School.", 'stream_type': 'Twitter', 'id_str': '656940294634622976'}
 {'text': "There's been a campus power outage for two hours, and they expect it to last a few more hours. SAVE ME", 'stream_type': 'Twitter', 'id_str': '656949017734201346'}
 {'text': 'How to Open Your Garage Door During a Power Outage http://is.gd/qU1zea\\u00a0', 'stream_type': 'Twitter', 'id_str': '656948833642020868'}
-{'text': 'New #power #outage #blackout #grid message Innovators large and small converge on San Jose for sustainability solutions - GreenBiz  http', 'stream_type': 'Twitter', 'id_str': '656783824949481472'}
 {'text': '@WPXIScott @lucasncarroll beaver for power outage', 'stream_type': 'Twitter', 'id_str': '656785690483650560'}
 {'text': 'Beaver Area SD is operating on a two hour delay today 10/21 due to a power outage. A utility pole is being fixed after an accident.', 'stream_type': 'Twitter', 'id_str': '656785683961544704'}
 {'text': 'Woke up for my 8 am and my whole neighborhood has a power outage?? Back to bed for meeeee ', 'stream_type': 'Twitter', 'id_str': '656782660111568896'}
@@ -38,7 +37,6 @@
 {'text': 'I added a video to a @YouTube playlist http://youtu.be/oj-7684UdX0?a\\u00a0 The Flash 1x07 Extended Promo \\"Power Outage\\" (HD)', 'stream_type': 'Twitter', 'id_str': '656776036508536833'}
 {'text': 'This power outage in Baguio is ruining my relationship.', 'stream_type': 'Twitter', 'id_str': '656776007970492416'}
 {'text': 'SHTF: How to Prep for a Summer Power Outage http://3tags.org/l/Wk67\\u00a0  via @3tags_org\\n#PJNET', 'stream_type': 'Twitter', 'id_str': '656778085790908416'}
-{'text': 'New #power #outage #blackout #grid message Doubling in five years - EIN News (press release)  http://zpr.io/afLe\\u00a0', 'stream_type': 'Twitter', 'id_str': '656746125773414400'}
 {'text': 'Power Outage Announcement October 23 - 25, 2015\\n\\"In order to maintain and develop the electricity distribution... http://fb.me/IzN9sY72\\u00a0', 'stream_type': 'Twitter', 'id_str': '656748896735989760'}
 {'text': 'I miss power outage ', 'stream_type': 'Twitter', 'id_str': '656755342345400320'}
 {'text': 'Sampaguita Residence Hall down from 2:00 PM to 4:20 PM due to power outage at premises.', 'stream_type': 'Twitter', 'id_str': '656752318839283712'}
@@ -70,7 +68,6 @@
 {'text': 'ThinkSEM Retweeted Sprout Social', 'stream_type': 'Twitter', 'id_str': '656914243678154752'}
 {'text': 'Power outage during my hardest lab of the semester, so my professor gave us all 100s ', 'stream_type': 'Twitter', 'id_str': '656914202758664192'}
 {'text': "Everyone is preparing for this power outage like we're under attack from a foreign nation", 'stream_type': 'Twitter', 'id_str': '656914201055744000'}
-{'text': 'New #power #outage #blackout #grid message Govt moves to keep air pollution from brick kilns in check - Livemint  http://zpr.io/aqRH\\u00a0', 'stream_type': 'Twitter', 'id_str': '656916697513897984'}
 {'text': 'class is cancelled for once in my life thanx power outage!!!', 'stream_type': 'Twitter', 'id_str': '656916644258779136'}
 {'text': "There's a power outage all over the campus of MTSU & our match will be delayed up to an hour. pic.twitter.com/fBYNqYOAzl", 'stream_type': 'Twitter', 'id_str': '656910995579867136'}
 {'text': "C'mon BAS. Get yourself together. First a fire, now a power outage?", 'stream_type': 'Twitter', 'id_str': '656913475940319232'}
@@ -92,9 +89,7 @@
 {'text': 'Made it through the power outage and then tried some stamping with cndworld additives instead of\\u2026 https://instagram.com/p/9HJHMqnqi9/\\u00a0', 'stream_type': 'Twitter', 'id_str': '656916965030809600'}
 {'text': 'They just came back from the past! Explains the power outage.  #BackToTheFuture', 'stream_type': 'Twitter', 'id_str': '656914622373478400'}
 {'text': '@MeghanShelby Anatomy lab full of cadavers and buckets of body parts during a power outage?', 'stream_type': 'Twitter', 'id_str': '656912071389544448'}
-{'text': 'New #power #outage #blackout #grid message The Quarterly MLP Report Card - Investing Daily  http://zpr.io/aqtL\\u00a0', 'stream_type': 'Twitter', 'id_str': '656911934877495296'}
 {'text': 'So there is an emergency power outage on campus why the heck do I still have class?', 'stream_type': 'Twitter', 'id_str': '656911883417554944'}
-{'text': 'New #power #outage #blackout #grid message Join us Saturday and make a difference - Port Huron Times Herald  http://zpr.io/aqHU\\u00a0', 'stream_type': 'Twitter', 'id_str': '656913039510347776'}
 {'text': "Power outage at Murphy Center will put South Side's match against Hume-Fogg much later than 6:30 p.m. Might be past Coach Dean's bedtime.", 'stream_type': 'Twitter', 'id_str': '656914072798146560'}
 {'text': 'whoever decided that a campus wide power outage at 2 in the afternoon was a good idea needs to be fired', 'stream_type': 'Twitter', 'id_str': '656913906976346112'}
 {'text': 'Our place has so many blankets. If there is a power outage at anytime this winter I think we are good @Jessica_Symonds', 'stream_type': 'Twitter', 'id_str': '656917304316461058'}
@@ -175,7 +170,6 @@
 {'text': 'campus wide power outage #FarmLife', 'stream_type': 'Twitter', 'id_str': '656812847436058624'}
 {'text': 'RIP to the bird that got scorched yesterday, and caused a power outage in Vienna ', 'stream_type': 'Twitter', 'id_str': '656802507436392449'}
 {'text': 'Fairview Power outage 2k15', 'stream_type': 'Twitter', 'id_str': '656812673791864832'}
-{'text': 'New #power #outage #blackout #grid message Vaulted retreat hall uses two different types of bamboo - Treehugger  http://zpr.io/aGzj\\u00a0', 'stream_type': 'Twitter', 'id_str': '656805436952322048'}
 {'text': '#LIGHTSOUT: Traffic lights out at three intersections, due to power outage in midtown. Treat as 4-way stop. #Tucson pic.twitter.com/cmt1rzwKNW', 'stream_type': 'Twitter', 'id_str': '656812080641671169'}
 {'text': 'Traffic lights out due to midtown power\\u00a0outage http://tucson.ysktoday.com/traffic-lights-out-due-to-midtown-power-outage/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656817015496163328'}
 {'text': 'King lose out on another practice after power outage leaves ice unplayable http://www.snsanalytics.com/lHnpy3\\u00a0', 'stream_type': 'Twitter', 'id_str': '656808908195917824'}
@@ -221,7 +215,6 @@
 {'text': 'Is your business ready for the next storm related power outage?  Make sure your generator is properly fueled and... http://fb.me/JEIk9e67\\u00a0', 'stream_type': 'Twitter', 'id_str': '656839198914183168'}
 {'text': "Any updates on the power outage in Irvine? It isn't on your website anymore", 'stream_type': 'Twitter', 'id_str': '656846998079827968'}
 {'text': 'Planned power outage and road closure for Peters St. on Sunday, October 25, 2015. http://dlvr.it/CW5WNV\\u00a0', 'stream_type': 'Twitter', 'id_str': '656846938327814144'}
-{'text': 'New #power #outage #blackout #grid message Resolute Forest Products: A Deep Value Play With Significant Share Buybacks ... - Seeking Alp', 'stream_type': 'Twitter', 'id_str': '656838452244295680'}
 {'text': "BREAKING: Power outage KO's downtown Athens traffic lights. Avoid the area http://bit.ly/1LEDcv2\\u00a0 pic.twitter.com/t9iJ0TyoRz", 'stream_type': 'Twitter', 'id_str': '656843177752702976'}
 {'text': 'Power outage (Montreal Rd, Burma Ave, Rockery Pvt, Provender Ave). Almost 900 customers affected. Via @hydroottawa #ottnews', 'stream_type': 'Twitter', 'id_str': '656793720675790848'}
 {'text': 'Random event of the day: POWER OUTAGE! A good fairy uses light magic to cause a power outage so that you get your test postponed ', 'stream_type': 'Twitter', 'id_str': '656793575976542208'}
@@ -264,7 +257,6 @@
 {'text': 'Our Home Contents will cover you for food that spoils in your fridge during a power outage. https://www.firstforwomen.co.za/products/home-insurance/\\u00a0\\u2026 pic.twitter.com/3LYXnO12rb', 'stream_type': 'Twitter', 'id_str': '656849964254023680'}
 {'text': 'Many natural gas fireplaces will still operate during a power outage. http://ow.ly/BBM0G\\u00a0', 'stream_type': 'Twitter', 'id_str': '656848556637167616'}
 {'text': 'THIS WAS A CITY WIDE POWER OUTAGE HOW FUCKING EVEN', 'stream_type': 'Twitter', 'id_str': '656728332428427264'}
-{'text': 'New #power #outage #blackout #grid message Call for Papers for POWER-GEN Africa, DistribuTECH Africa - http://zpr.io/guWT\\u00a0  http://zp', 'stream_type': 'Twitter', 'id_str': '656740639636373504'}
 {'text': 'King lose out on another practice after power outage leaves ice unplayable http://www.snsanalytics.com/IMmSy1\\u00a0', 'stream_type': 'Twitter', 'id_str': '656729015089152000'}
 {'text': 'Nine buildings on campus lost power tonight. | http://bit.ly/1NmzkBs\\u00a0', 'stream_type': 'Twitter', 'id_str': '656640780107321345'}
 {'text': 'A5 every crisis is a potential marketing win - remember the Super Bowl power outage?  #custserv', 'stream_type': 'Twitter', 'id_str': '656644899572482048'}
@@ -282,13 +274,11 @@
 {'text': 'Nothing like a good power outage to make your class let out early ', 'stream_type': 'Twitter', 'id_str': '656904761418129408'}
 {'text': "In the case of a real power outage, this campus is in trouble. Electronic doors aren't always a good idea. #lockedout", 'stream_type': 'Twitter', 'id_str': '656904549190488064'}
 {'text': "Is there a power outage in the BAS? Because I'm going home \\ufe0f", 'stream_type': 'Twitter', 'id_str': '656901728089063424'}
-{'text': 'New #power #outage #blackout #grid message Three Best Stocks News Alert: Cliffs Natural Resources (NYSE:CLF), Cadence ... - Stocks Newsw', 'stream_type': 'Twitter', 'id_str': '656906428653969409'}
 {'text': 'If you were one of the 56,000 Monterey County residents who were affected by the power outage last Sunday, we... http://fb.me/2ckG4vUPA\\u00a0', 'stream_type': 'Twitter', 'id_str': '656906398786301953'}
 {'text': 'Class AA and AAA volleyball matches in delay due to power outage at MTSU', 'stream_type': 'Twitter', 'id_str': '656906337465585664'}
 {'text': "(I kinda get the point of this, but still. What if there's a power outage?)", 'stream_type': 'Twitter', 'id_str': '656906673840328704'}
 {'text': 'Power outage shuts down Buffalo Pound Water Treatment Plant: The Buffalo Pound Water Treatment Plant has been shut\\u2026 http://dlvr.it/CWBCfR\\u00a0', 'stream_type': 'Twitter', 'id_str': '656902410409938944'}
 {'text': 'MTSU ADVISORY: Emergency power outage 2:30-3 p.m. TODAY on parts of campus. Visit http://www.mtsu.edu/alertupdates\\u00a0 for affected areas and precautions', 'stream_type': 'Twitter', 'id_str': '656902304935903233'}
-{'text': 'New #power #outage #blackout #grid message Can Cliffs Natural Earnings Afford This Battle Right Now? - Motley Fool  http://zpr.io/aGW4\\u00a0', 'stream_type': 'Twitter', 'id_str': '656894708912885764'}
 {'text': 'Possum to blame for Sunday night power outage http://m.enewscourier.com/news/local_news/possum-to-blame-for-sunday-night-power-outage/article_cedbd8b0-76aa-11e5-a122-9f89680c204d.html\\u00a0\\u2026 - Athens AL', 'stream_type': 'Twitter', 'id_str': '656894521666621440'}
 {'text': 'Power outage shuts down Buffalo Pound water treatment plant: Water remains safe to drink after a downed power ... http://sh.st/bRAST\\u00a0', 'stream_type': 'Twitter', 'id_str': '656904436212568064'}
 {'text': 'Power Outage On The South Side Of Pueblo http://www.kktv.com/home/headlines/Power-outage-on-the-south-side-of-Pueblo-334700321.html\\u00a0\\u2026 - Pueblo CO \\"caused by a bird\\"', 'stream_type': 'Twitter', 'id_str': '656904350233686016'}
@@ -327,7 +317,6 @@
 {'text': "Please tell me I'm not the only one who had like a 30 second power outage....", 'stream_type': 'Twitter', 'id_str': '656701972549009408'}
 {'text': 'MIDRAND - TRAFFIC LIGHTS not working at various junctions in the Noordwyk area on POWER OUTAGE, HEAVY TRAFFIC', 'stream_type': 'Twitter', 'id_str': '656699294670413824'}
 {'text': 'POWER OUTAGE: About 1,003 customers are without power in the Reno area, according to NV Energy. The outage is... http://fb.me/ThatVomi\\u00a0', 'stream_type': 'Twitter', 'id_str': '656706849656274944'}
-{'text': 'Lights back on following power outage in Kalamazoo - WWMT-TV: Lights back on following power outa... http://bit.ly/1QR83Io\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656699739996459008'}
 {'text': '@xomgvickyy huge power outage because someone let balloons fly into a power line. Caused a huge explosion. smh', 'stream_type': 'Twitter', 'id_str': '656706253901598720'}
 {'text': 'Survival Basics: Prepping for An Unexpected Power Outage http://goo.gl/gibdul\\u00a0', 'stream_type': 'Twitter', 'id_str': '656709114559463424'}
 {'text': 'Survival Basics: Prepping for An Unexpected Power Outage http://goo.gl/gibdul\\u00a0', 'stream_type': 'Twitter', 'id_str': '656709108871987200'}
@@ -339,9 +328,7 @@
 {'text': "don't mind of the power outage, cz i got free food from Canes ", 'stream_type': 'Twitter', 'id_str': '656651221617369088'}
 {'text': 'Power Outage Affects Nine Buildings - Georgetown University The Hoya: Georgetown University The H... http://bit.ly/1M6iAew\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656663392451624960'}
 {'text': 'Had a two-hour long power outage, that means I played DR2!\\n\\n@iiotenki now I know what you meant, Chiaki is the best. pic.twitter.com/LCkk630l9x', 'stream_type': 'Twitter', 'id_str': '656665499011411970'}
-{'text': 'New #power #outage #blackout #grid message PHG Energy tapped to build county gasification plant in Tennessee - Renewable Energy from Was', 'stream_type': 'Twitter', 'id_str': '656656582382592000'}
 {'text': 'Power Outage equals free food from Canes ', 'stream_type': 'Twitter', 'id_str': '656651715253415936'}
-{'text': 'Not another power outage.... At least I was not transferring any large files this time.', 'stream_type': 'Twitter', 'id_str': '656654647785033728'}
 {'text': 'Thank god the power outage was temporary because.. Chicago Fire ', 'stream_type': 'Twitter', 'id_str': '656652550511398912'}
 {'text': 'King lose out on another practice after power outage leaves ice unplayable http://www.snsanalytics.com/lwnoy5\\u00a0', 'stream_type': 'Twitter', 'id_str': '656664138081439744'}
 {'text': "Cool there's a power outage, rip my life", 'stream_type': 'Twitter', 'id_str': '656664082674614272'}
@@ -352,7 +339,6 @@
 {'text': 'And here we go.  #KSLEmergencyTraffic Crash/power outage Bangerter Hwy.  Crash is at 13800 South, traffic lights out btwn I-15 - 2700 West.', 'stream_type': 'Twitter', 'id_str': '656957988276580352'}
 {'text': 'Power outage disrupts state volleyball plan http://ift.tt/1ksmsjM\\u00a0', 'stream_type': 'Twitter', 'id_str': '656957675146780672'}
 {'text': '#ISurvived the 2015 mtsu power outage', 'stream_type': 'Twitter', 'id_str': '656957103379230721'}
-{'text': 'LOL mtsu has a power outage from 1:45 pm, and the power is still not back on ', 'stream_type': 'Twitter', 'id_str': '656959401350311936'}
 {'text': 'Power Outage (Woodstock) A major power outage has hit Woodstock homes and businesses. According to ComEd, power... http://fb.me/7K0Xh28cN\\u00a0', 'stream_type': 'Twitter', 'id_str': '656955005144985600'}
 {'text': 'UPDATE: Champaign power outage over - Champaign/Urbana News-Gazette: UPDATE: Champaign power outa... http://bit.ly/1ZYG2o9\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656961270671761408'}
 {'text': 'I was really wishing that power outage was gonna last all night', 'stream_type': 'Twitter', 'id_str': '656961160076468224'}
@@ -361,10 +347,8 @@
 {'text': 'News from County of Monterey Health Dept about the power outage and how it impacts food spoilage with link to a... http://fb.me/3ST6iv2iy\\u00a0', 'stream_type': 'Twitter', 'id_str': '656963497679560705'}
 {'text': '(4:56 p.m.) Blackfoot Power Outage Update - Blackfoot Trail is now flowing freely. Manhattan Road however remains closed. #yyc #Calgary', 'stream_type': 'Twitter', 'id_str': '656967455756017664'}
 {'text': 'Riverton Drivers!  Traffic lights out due to crash & power outage along Bangerter Hwy btwn I-15 & 2700 West. pic.twitter.com/6ON4VT2EbK', 'stream_type': 'Twitter', 'id_str': '656963040768757764'}
-{'text': 'Why did my street just have a power outage and they still off they better be back on before empire come on', 'stream_type': 'Twitter', 'id_str': '656956801162870784'}
 {'text': "That power outage couldn't have come at a worse time.", 'stream_type': 'Twitter', 'id_str': '656965450304090112'}
 {'text': "Approximately 1,000 customers were without power in the southwest portion of Vera's district around 2 p.m. Oct. 21. http://www.verawaterandpower.com/news-article/power-outage-reported\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656955773105254400'}
-{'text': 'ComEd says massive Woodstock power outage hopefully resolved by 6:45 pm. Back to the Future II said nothing about it. #poweroutage', 'stream_type': 'Twitter', 'id_str': '656955696135675904'}
 {'text': 'Power outage at work. Score.', 'stream_type': 'Twitter', 'id_str': '656954255824171008'}
 {'text': 'me: *tries to charge my phone during a power outage*', 'stream_type': 'Twitter', 'id_str': '656966057543008256'}
 {'text': 'Car crashes into pole & now power outage along Bangerter Hwy btwn Redwood Rd & I-15.', 'stream_type': 'Twitter', 'id_str': '656955390991597568'}
@@ -374,7 +358,6 @@
 {'text': 'okay cool,that power outage', 'stream_type': 'Twitter', 'id_str': '656629856508186624'}
 {'text': 'Reading by candlelight while we wait for @Harperman to fix the power outage. :)\\n\\nhttps://instagram.com/p/9FIYwmSmumB2n4v8rhJ0zinhuVWfLt6sWfiuA0/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656634531101962240'}
 {'text': 'Resetting clocks after a power outage is way worse than it should be', 'stream_type': 'Twitter', 'id_str': '656620983994875904'}
-{'text': 'New #power #outage #blackout #grid message The Scoop on Poop \\u2013 Why Manure Matters - TheCattleSite  http://zpr.io/afsr\\u00a0', 'stream_type': 'Twitter', 'id_str': '656631658939052032'}
 {'text': 'Missed the power outage because I was in class and actually got fomo......', 'stream_type': 'Twitter', 'id_str': '656629193812385792'}
 {'text': 'Power Outage Downtown Knocks Out Traffic Signal | Discover Ferndale http://fb.me/7tE8Mruia\\u00a0', 'stream_type': 'Twitter', 'id_str': '656629155866394625'}
 {'text': 'Monterey Peninsula power outage: PG&E tower failed shortly after installation http://dlvr.it/CVl3M9\\u00a0 pic.twitter.com/j6SF1Nh6uV', 'stream_type': 'Twitter', 'id_str': '656624272866066432'}
@@ -412,7 +395,6 @@
 {'text': 'Power Outage Pulls Plug on Kings Hockey Practice - Athletic Business (blog): Power Outage Pulls P... http://bit.ly/1M8RBVO\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656874910271209472'}
 {'text': 'Hey all, Thanks for your cooperation with the power outage! We are back up and running. Looks like a lot of... http://fb.me/6UQgdmqFG\\u00a0', 'stream_type': 'Twitter', 'id_str': '656864001360465920'}
 {'text': 'Due to a power outage, we were unable to do the drawing this morning for The Mix Rock And Shop Giveaway:  It has... http://fb.me/6Upa94JKq\\u00a0', 'stream_type': 'Twitter', 'id_str': '656863767507025920'}
-{'text': 'Lights back on following power outage in Kalamazoo - http://goo.gl/alerts/2bab\\u00a0 #GoogleAlerts', 'stream_type': 'Twitter', 'id_str': '656863739107479552'}
 {'text': 'Lord please let it be a power outage tomorrow in building D ', 'stream_type': 'Twitter', 'id_str': '656217544622256128'}
 {'text': 'power outage on Saturday was caused by squirrels. thats nutty', 'stream_type': 'Twitter', 'id_str': '656219914596827139'}
 {'text': 'A power outage in Astoria/Warrenton http://www.dailyastorian.com/Free/20151019/1200-without-power-in-astoria-warrenton-area?utm_medium=social&utm_source=twitter_TheCBGazette\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656217123132321792'}
@@ -501,7 +483,6 @@
 {'text': 'You know you need to get your life together when you use a Kansas phone number to report a Texas power outage to a Florida line. ', 'stream_type': 'Twitter', 'id_str': '656209361115549696'}
 {'text': 'When Your school Has a Power outage And you get to go Home Early', 'stream_type': 'Twitter', 'id_str': '656200418419060736'}
 {'text': 'Power Outage in the Ozark Area - http://OzarksFirst.com\\u00a0: Springfield News-LeaderPower Outage in th... http://bit.ly/1hOhxrr\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656209148233682944'}
-{'text': 'City of Long Beach Files $434K in Claims With Southern California Edison Over Mid-July Power Outage http://lbpo.st/1ZS70xL\\u00a0', 'stream_type': 'Twitter', 'id_str': '656247874288660480'}
 {'text': '[ESPN] Crasnick: Blue Jays counting on Rogers Centre boost after power outage in K.C. http://dlvr.it/CVBlzt\\u00a0', 'stream_type': 'Twitter', 'id_str': '656247845989683200'}
 {'text': "I was really hoping for a power outage so I wouldn't have to go to my evening class ", 'stream_type': 'Twitter', 'id_str': '656250943156060160'}
 {'text': 'that power outage was the real MVP today, got to go home at 12', 'stream_type': 'Twitter', 'id_str': '656250861912330240'}
@@ -574,7 +555,6 @@
 {'text': 'Tomorrow, tues20th Oct we will have a power outage\\ntherefore the cafe/shop will be CLOSED for the day. Glasshouse/garden remains open!', 'stream_type': 'Twitter', 'id_str': '656086836599762945'}
 {'text': 'PG&E hires firm to discover cause of power outage http://bit.ly/1ZPISvH\\u00a0 #KRON4news', 'stream_type': 'Twitter', 'id_str': '655970751154024448'}
 {'text': 'PG&E hires firm to discover cause of power outage http://wp.me/p5hgGs-13Iq\\u00a0', 'stream_type': 'Twitter', 'id_str': '655970688075874305'}
-{'text': 'Milton was famous for reading by candlelight. Until it made him blind. PG&E, you continue to disappoint me #power #outage except the rich', 'stream_type': 'Twitter', 'id_str': '655957542783201280'}
 {'text': 'UPDATE - POWER OUTAGE - 1700 blk of Van Buren open, but power will be out for several hours.  http://nixle.us/8S8C7\\u00a0', 'stream_type': 'Twitter', 'id_str': '655968519117402113'}
 {'text': '#Monterey Co.: Update: Pg&amp;e Hires Firm To Discover Cause Of Power Outage http://baycitynews.com/g\\u00a0', 'stream_type': 'Twitter', 'id_str': '655968373092683777'}
 {'text': "This power outage is intense, its got people in the drive thru at TB for an hour and a half  Im not the hungry & my power isn't even out!", 'stream_type': 'Twitter', 'id_str': '655962868249001984'}
@@ -764,7 +744,6 @@
 {'text': 'This is impressive. Third power outage in the last 3 months with no storms', 'stream_type': 'Twitter', 'id_str': '656180583203229697'}
 {'text': 'Power outage hits nearly 2,000 homes and businesses in southwest Bakersfield. West High was without power for a time http://ow.ly/TARmM\\u00a0', 'stream_type': 'Twitter', 'id_str': '656177331803934720'}
 {'text': 'Sources from the City of Fairbury stated that a squirrel caused the power outage that affected a large portion of... http://fb.me/7rFOnZS9F\\u00a0', 'stream_type': 'Twitter', 'id_str': '656179085010448384'}
-{'text': "Power outage at school. Power comes back on for 10 minutes, we aren't released", 'stream_type': 'Twitter', 'id_str': '656180847049965568'}
 {'text': 'If your food went bad, lost wages or property during the Monterey power outage, you may be entitled to some money http://pge.com/claims\\u00a0', 'stream_type': 'Twitter', 'id_str': '656170342742790144'}
 {'text': 'Oh cool power outage lol', 'stream_type': 'Twitter', 'id_str': '656170316972998656'}
 {'text': 'Major power outage in Lower Valley: South of North Loop, frm Yarbrough east to Horizon Blvd: http://www.epelectric.com/outage-map\\u00a0 pic.twitter.com/5CcuiVjoGx', 'stream_type': 'Twitter', 'id_str': '655976161990676481'}
@@ -820,7 +799,6 @@
 {'text': 'This power outage is beautiful ', 'stream_type': 'Twitter', 'id_str': '655929732987379712'}
 {'text': 'Because of the power outage in Monterey today was busy af!', 'stream_type': 'Twitter', 'id_str': '655940855140757504'}
 {'text': 'Wilbraham driver will be charged in accident that caused power outage - http://MassLive.com\\u00a0: Ma... http://bit.ly/1ZPxaBp\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '655940823981256704'}
-{'text': 'Listening to the new @NeonIndian tonight as the lights turned back on from a 6-hour power outage. So perfectly, surreal and golden.', 'stream_type': 'Twitter', 'id_str': '655931748128157696'}
 {'text': '#monterey power outage. Having a ball looking at shadow feet dancing on ceiling. pic.twitter.com/XZTk9xUI9x', 'stream_type': 'Twitter', 'id_str': '655935593113718785'}
 {'text': "Look!  I took a picture of my cat during the power outage. You can't see her? Tell me about it. #blackcatproblems pic.twitter.com/mZTM8QE2U9", 'stream_type': 'Twitter', 'id_str': '655935502172987392'}
 {'text': 'I HOPE ACHOOL GETS CANCELLED TOMORROW BC POWER OUTAGE PLEASW GOD I BEG YKU', 'stream_type': 'Twitter', 'id_str': '655933281129488384'}
@@ -872,7 +850,6 @@
 {'text': 'PIA-CAR/BAGUIO CITY: Power outage in most parts of Baguio City and Benguet.', 'stream_type': 'Twitter', 'id_str': '655909588097568768'}
 {'text': 'Currently doing my homework by candlelight because of the power outage ', 'stream_type': 'Twitter', 'id_str': '655907897595924485'}
 {'text': 'quick tyjo wip during the power outage pic.twitter.com/rMdyDF8PCD', 'stream_type': 'Twitter', 'id_str': '655896421317681152'}
-{'text': "you haven't experienced a hectic day until you've worked front desk at a hotel with a power outage and Internet down the whole day ", 'stream_type': 'Twitter', 'id_str': '655907548076228608'}
 {'text': "let's hope there's a national power outage pic.twitter.com/hPyan8vWJR", 'stream_type': 'Twitter', 'id_str': '655906421884583936'}
 {'text': "Okay this power outage isn't fun anymore", 'stream_type': 'Twitter', 'id_str': '655906382554632192'}
 {'text': 'There is playoff baseball tonight and ODU is having a power outage...', 'stream_type': 'Twitter', 'id_str': '655910581271142401'}
@@ -941,7 +918,6 @@
 {'text': 'power outage and chill??', 'stream_type': 'Twitter', 'id_str': '656150161815662592'}
 {'text': 'Semi-truck clips utility line that causes power outage, road closure in Kalihi http://dlvr.it/CV3stL\\u00a0', 'stream_type': 'Twitter', 'id_str': '656140396183973888'}
 {'text': 'Power outage in Halawa Valley. About 1300 customers w/o power. HECO working @chariceq #hitraffic', 'stream_type': 'Twitter', 'id_str': '656138987036217344'}
-{'text': 'New #power #outage #blackout #grid message Eon to sell Belgian coal-fired power plant to German Pellets - Biomass Magazine  http://zpr.i', 'stream_type': 'Twitter', 'id_str': '656584231653658624'}
 {'text': '2300 customers affected by power outage in Parkersburg - The News Center: The News Center2300 customers affect... http://bit.ly/1ZVaBLr\\u00a0', 'stream_type': 'Twitter', 'id_str': '656582330329358336'}
 {'text': 'The power outage left @DearConorJohn stranded on his electric chair lift halfway up the stairs. #ElderlyLivesMatter', 'stream_type': 'Twitter', 'id_str': '656583116161687552'}
 {'text': '14-minute overnight outage affected over 30000, Austin Energy says - Austin American-Statesman http://bit.ly/1M6dIME\\u00a0', 'stream_type': 'Twitter', 'id_str': '656582913790636032'}
@@ -956,16 +932,13 @@
 {'text': '@TaraHeatherr @ScholarlySkolar when I was a STH with Brian, we used to call the devils powerplay the power outage. It was sponsored by PSE&G', 'stream_type': 'Twitter', 'id_str': '656586746864541696'}
 {'text': 'UPDATE: 2,300 customers affected by power outage in Parkersburg #localnews http://bit.ly/1PEZmT7\\u00a0 pic.twitter.com/YOUWvIQOhX', 'stream_type': 'Twitter', 'id_str': '656588793882005504'}
 {'text': 'Power Outage (Arlington) Engine 11 & Oncor are on scene near Green Oaks & Ballpark Way. Over 1800 customers without power. A1', 'stream_type': 'Twitter', 'id_str': '656576631838904320'}
-{'text': 'New #power #outage #blackout #grid message The Way Forward for Electricity Supply in Nigeria - National Geographic  http://zpr.io/afgz\\u00a0', 'stream_type': 'Twitter', 'id_str': '656586658226282496'}
 {'text': 'MEMS provides peace of mind with the launch of their new Disaster Recovery plan https://sway.com/2yAu2HtSCULcTHvH\\u00a0\\u2026 #Power #PowerOutage #Facman #Energy', 'stream_type': 'Twitter', 'id_str': '656421173358628864'}
 {'text': 'How to transition to a grid of the future? #PredictYourGrid & next power outage-Register TODAY for @Engerati WEBINAR http://hubs.ly/H01j7_c0\\u00a0', 'stream_type': 'Twitter', 'id_str': '656409567098740736'}
 {'text': "We're currently experiencing temporary power outage. To contact us please mail: marketing@ssqexhibitions.co.za pic.twitter.com/jHUlRBqqpV", 'stream_type': 'Twitter', 'id_str': '656414988010201088'}
 {'text': 'THIS AM:: Power outage reported in area of East Sahara between Maryland & Eastern due to a motor vehicle accident.https://www.nvenergy.com/outage/\\u00a0', 'stream_type': 'Twitter', 'id_str': '656424287331622912'}
-{'text': 'New #power #outage #blackout #grid message The truth, the whole truth and nothing but the truth - Splash 247  http://zpr.io/aHe8\\u00a0', 'stream_type': 'Twitter', 'id_str': '656413717932974080'}
 {'text': 'Power outage for 15 minutes at 8AM and 4PM on both sides of Bonne Bay and Wiltondale.', 'stream_type': 'Twitter', 'id_str': '656413244547055617'}
 {'text': 'Crash causes power outage in east Las Vegas: A motor vehicle accident caused a power outage late Monday night to\\u2026 http://lasvegas.cityandpress.com/node/10338006\\u00a0', 'stream_type': 'Twitter', 'id_str': '656380889127981056'}
 {'text': 'Prepping for an unexpected power outage is easy to do yet often overlooked. Here are 8  tips that will prevent... http://fb.me/4pppW0bD7\\u00a0', 'stream_type': 'Twitter', 'id_str': '656379505192243200'}
-{'text': 'New #power #outage #blackout #grid message Startup in Focus Israeli Startup Harnesses Algae to Treat Wastewater in ... - Haaretz  http:/', 'stream_type': 'Twitter', 'id_str': '656382213488050176'}
 {'text': 'Possum to blame for Sunday night power outage - Local News - Enewscourier  http://buff.ly/1M2xMZS\\u00a0', 'stream_type': 'Twitter', 'id_str': '656391408555794432'}
 {'text': 'Survival Basics: Prepping for An Unexpected Power Outage http://goo.gl/fb/e73hlx\\u00a0', 'stream_type': 'Twitter', 'id_str': '656379806616023040'}
 {'text': 'RESOLVED WARNING: KZN Jirehtech Network Outage-Please note, power outage in certain areas in KZN,  AREA: Durban... http://fb.me/6V4hJECMD\\u00a0', 'stream_type': 'Twitter', 'id_str': '656390670370762752'}
@@ -986,9 +959,7 @@
 {'text': 'Nothing better than starting your morning with a power outage ', 'stream_type': 'Twitter', 'id_str': '656466200684195840'}
 {'text': 'Update Jack Lynch tunnel closed due to power outage pic.twitter.com/6jbsKX04kU', 'stream_type': 'Twitter', 'id_str': '656458311588552704'}
 {'text': 'Richmond - police incident & power outage Westminster & #6 Rd', 'stream_type': 'Twitter', 'id_str': '656458249101836288'}
-{'text': "New #power #outage #blackout #grid message Cliffs clarifies CEO's remarks on closing - Herald Review  http://zpr.io/aRZg\\u00a0", 'stream_type': 'Twitter', 'id_str': '656469319036084224'}
 {'text': 'Fingers crossed for another power outage at OTC today', 'stream_type': 'Twitter', 'id_str': '656464051166273536'}
-{'text': 'New #power #outage #blackout #grid message Bioenergy in Europe Threatens North American Wetland Forests - Natural Resources Defense Coun', 'stream_type': 'Twitter', 'id_str': '656461633674477568'}
 {'text': 'Preppers #disaster #sustainability items are just normal in a forest cabin or cruising boat. http://ow.ly/Twvy8\\u00a0 http://ow.ly/i/dMvw0\\u00a0', 'stream_type': 'Twitter', 'id_str': '656456287849443328'}
 {'text': 'When yo school haves a power outage instead of just sending you home you wait in the gym#isabellaismyname', 'stream_type': 'Twitter', 'id_str': '656457351906594818'}
 {'text': 'The Jack Lynch Tunnel has reopened to traffic following an earlier power outage.', 'stream_type': 'Twitter', 'id_str': '656462847841439744'}
@@ -1002,17 +973,14 @@
 {'text': '#Iran: #campLiberty residents had 2 endure power outage under the extreme heat  #CNN #Reuters #AFP #InhumaneSeige pic.twitter.com/rhmcbS8Ppr', 'stream_type': 'Twitter', 'id_str': '656549487956094976'}
 {'text': "Somebody said Brit you've been stressing to much about school so let me give you a power outage at subway so your sandwich is free", 'stream_type': 'Twitter', 'id_str': '656549112569991168'}
 {'text': 'Austin Energy investigating overnight power outages http://atxne.ws/1MSGD5N\\u00a0', 'stream_type': 'Twitter', 'id_str': '656558142579482624'}
-{'text': 'New #power #outage #blackout #grid message Weekend wildfire in Wyoming began in landfill woodchip pile - Kotatv  http://zpr.io/aRvT\\u00a0', 'stream_type': 'Twitter', 'id_str': '656558104692269057'}
 {'text': '2:30pm.. Power outage still causing signal lights out along N Labarre Road from Airline to Jeff Hwy', 'stream_type': 'Twitter', 'id_str': '656554959324868608'}
 {'text': "Power outage at the MD men's press conference-just for a sec... Need a bigger fuse box -too media outlets??? #Terps pic.twitter.com/OraV3WUgz4", 'stream_type': 'Twitter', 'id_str': '656558653886087168'}
 {'text': 'Shoutout to the subway power outage. Thanks for my two free sandwiches and cookies', 'stream_type': 'Twitter', 'id_str': '656546569433448448'}
 {'text': 'Loving this power outage', 'stream_type': 'Twitter', 'id_str': '656558428467302400'}
 {'text': 'AJPD Non emergency lines are currently down due to power outage. No eta...', 'stream_type': 'Twitter', 'id_str': '656564822687936512'}
-{'text': 'New #power #outage #blackout #grid message Johnson County dog parks: Free play for dogs, social hour for humans - Kansas City Star  http', 'stream_type': 'Twitter', 'id_str': '656565460968873984'}
 {'text': '\\u201cEven though we only had about a 14-hour period of power outage, there should have been some good lessons learned... http://fb.me/KIsMgKYU\\u00a0', 'stream_type': 'Twitter', 'id_str': '656567034206027776'}
 {'text': 'Power outage for no apparent reason???', 'stream_type': 'Twitter', 'id_str': '656569446618779648'}
 {'text': 'statesman: Austin Energy investigating overnight power outages http://atxne.ws/1MSGD5N\\u00a0', 'stream_type': 'Twitter', 'id_str': '656562538126135296'}
-{'text': 'Ambiguously bad news: power outage was scheduled for 9-3 today with a rain date of tomorrow. And the power came back on before noon ...', 'stream_type': 'Twitter', 'id_str': '656574265135906816'}
 {'text': 'Our Benicia branch will be closed next Monday due to a planned PG&E power outage. The closest alternative branch... http://fb.me/38YC1CMrw\\u00a0', 'stream_type': 'Twitter', 'id_str': '656566344767279105'}
 {'text': 'Be careful traveling in downtown Parkersburg and Grand Central Ave. in Vienna.  Widespread power outage has knocked out traffic lights', 'stream_type': 'Twitter', 'id_str': '656563839409004545'}
 {'text': '#power #outage whilst some of us are #studying \\n#smh \\n#whoistoblame @CityPowerJhb or eskom? https://instagram.com/p/9EpiNEjPR2/\\u00a0', 'stream_type': 'Twitter', 'id_str': '656566047827472384'}
@@ -1021,7 +989,6 @@
 {'text': 'Power outage on the south side of Pueblo - KKTV 11 News: Power outage on the south side of Pueblo... http://bit.ly/1PxUqQP\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656561126512037889'}
 {'text': "and why couldn't the power outage go out in the mornin?", 'stream_type': 'Twitter', 'id_str': '656570446108749824'}
 {'text': '#BreakingNews Power Outage - West Long Branch, NJ: PD is reporting a power outage in the area #918471 http://facebook.com/bnndesk\\u00a0', 'stream_type': 'Twitter', 'id_str': '656565575888474112'}
-{'text': 'New #power #outage #blackout #grid message Watch a Samurai sword expert slice a fastball at 101 mph - CNET  http://zpr.io/aRWZ\\u00a0', 'stream_type': 'Twitter', 'id_str': '656566607343435777'}
 {'text': 'We have a temporary power outage from our server location & are unable to dispense medication at this time.We apologize and will update soon', 'stream_type': 'Twitter', 'id_str': '656566560086171649'}
 {'text': 'Your Daily Update: Global Students Attempt to Install Solar Panels on Roof of School; Cause Power Outage Estimated to Last Three Weeks', 'stream_type': 'Twitter', 'id_str': '656573071642509312'}
 {'text': 'Due to an unplanned power outage, the Fairgrounds Office will be closed until 9 am Thursday morning. Thank you... http://fb.me/7rOD7SWMd\\u00a0', 'stream_type': 'Twitter', 'id_str': '656563167280107520'}
@@ -1029,7 +996,6 @@
 {'text': 'We understand there is a widespread power outage. We DO have power inside Grand Central Mall.', 'stream_type': 'Twitter', 'id_str': '656571358927679488'}
 {'text': 'The Aiken mayoral forum has moved to Public Safety headquarters after a power outage. The forum starts at 7 tonight.', 'stream_type': 'Twitter', 'id_str': '656608842030170112'}
 {'text': 'Came into work they handed us this boo boo as flash light n said be careful. we had a power outage at 12 pic.twitter.com/WC7xkGNdVP', 'stream_type': 'Twitter', 'id_str': '656608021255073792'}
-{'text': 'New #power #outage #blackout #grid message Weekend wildfire in Wyoming began in landfill wood chip pile - Billings Gazette  http://zpr.i', 'stream_type': 'Twitter', 'id_str': '656619421130227712'}
 {'text': 'ed marcus Retweeted Daily Stache', 'stream_type': 'Twitter', 'id_str': '656619863226646529'}
 {'text': "Due to a power outage, Sigourney's volleyball game has been postponed until tomorrow.", 'stream_type': 'Twitter', 'id_str': '656606052201271296'}
 {'text': 'Tonight\\u2019s 1A-R7 Sigourney/Tri-County regional VB match at Sigourney has been postponed to Wednesday due to a power outage. #iahsvb', 'stream_type': 'Twitter', 'id_str': '656606010702852096'}
@@ -1049,15 +1015,12 @@
 {'text': 'Crasnick: Blue Jays counting on Rogers Centre boost after power outage in K.C. http://baseball.grayraindrops.com/site/toronto-blue-jays/419291/\\u00a0\\u2026 #ComeTogether', 'stream_type': 'Twitter', 'id_str': '656309402161405952'}
 {'text': "Situation Update No. 1 | PW-20151018-50547-USA - #Power Outage event's update is available! | http://bit.ly/1OPo2Yl\\u00a0", 'stream_type': 'Twitter', 'id_str': '656312331656437760'}
 {'text': 'The fact that my whole neighborhood has no street lights from a power outage reminds me of the Purge..', 'stream_type': 'Twitter', 'id_str': '656314631946792960'}
-{'text': "Power's back on in North Morro Bay! Thanks for your patience! Remember to be prepared for the future. Check tips: http://www.ready.gov/power-outage\\u00a0", 'stream_type': 'Twitter', 'id_str': '656306683493224448'}
 {'text': 'Planned West KY Rural Power Outage Wednesday Night http://bit.ly/1PvNaVm\\u00a0', 'stream_type': 'Twitter', 'id_str': '656310079453425664'}
 {'text': 'LoveLeigh Retweeted news.com.au', 'stream_type': 'Twitter', 'id_str': '656317092539400192'}
 {'text': 'Sat in my lovely pub at 4am... No... Not sipping malt whisky and talking the blues... Power outage and subsequent... http://fb.me/v9v2y9oI\\u00a0', 'stream_type': 'Twitter', 'id_str': '656304931226390529'}
 {'text': 'Planned power outage in Essex County will impact Amherstburg and Leamington.\\nhttp://www.am800cklw.com/News/Headlines/Planned-power-outage-in-Essex-County\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656446450449186816'}
 {'text': 'New article posted: Survival Basics: Prepping for An Unexpected Power Outage. Read it in full here >>... http://fb.me/2rNzxWMFG\\u00a0', 'stream_type': 'Twitter', 'id_str': '656440577567928320'}
-{'text': 'New #power #outage #blackout #grid message Recent research into the global gasification market that is estimated to ... - WhaTech  tag:news.', 'stream_type': 'Twitter', 'id_str': '656448598973001733'}
 {'text': 'Yet another planned power outage from Hydro One.  Click here. http://ow.ly/TCzZ4\\u00a0 http://ow.ly/i/dQ740\\u00a0', 'stream_type': 'Twitter', 'id_str': '656442892949573633'}
-{'text': 'New #power #outage #blackout #grid message Q&A: What is biomass? - BBC News  http://zpr.io/aRfq\\u00a0', 'stream_type': 'Twitter', 'id_str': '656453727491067904'}
 {'text': 'RT SaberRattler: Survival Basics: Prepping for An Unexpected Power Outage #prepper #survivalist #preppers http://webogi.com/mc7D-t\\u00a0', 'stream_type': 'Twitter', 'id_str': '656453100321021953'}
 {'text': 'Power outage at school=why am I here', 'stream_type': 'Twitter', 'id_str': '656450424438788097'}
 {'text': "Yay for another power outage and having something in your closet that won't quit beeping.", 'stream_type': 'Twitter', 'id_str': '656454230983618560'}
@@ -1078,7 +1041,6 @@
 {'text': 'thank you @bchydro for being prompt at fixing our sudden power outage. \\n#appreciate', 'stream_type': 'Twitter', 'id_str': '656321469140496384'}
 {'text': 'Spent the night during a power outage in a hot #bath #reading a real book by #candlelight listening\\u2026 https://instagram.com/p/9C_KfjqEcM/\\u00a0', 'stream_type': 'Twitter', 'id_str': '656332137306726400'}
 {'text': '#WRREA #PPO\\nOn Thursday October 22, 2015 between 1:30 PM and 3:00 PM there will be a Planned Power Outage (PPO).... http://fb.me/7waVqGIfb\\u00a0', 'stream_type': 'Twitter', 'id_str': '656516872351821824'}
-{'text': 'New #power #outage #blackout #grid message Can Cliffs Natural Earnings Afford This Battle Right Now? - Motley Fool  http://zpr.io/aRrF\\u00a0', 'stream_type': 'Twitter', 'id_str': '656529518249836545'}
 {'text': 'nothin like a power outage :-)', 'stream_type': 'Twitter', 'id_str': '656524216842506240'}
 {'text': "If you're looking for the @aarc_tweets Webcast today, hang tight! We had a neighborhood power outage but we're back in business!", 'stream_type': 'Twitter', 'id_str': '656518264449662976'}
 {'text': 'Hampton, NH *POWER OUTAGE* Unitil is reporting  a brief outage affecting approximately 2400 customer in Hampton.... http://fb.me/Nv30kiA0\\u00a0', 'stream_type': 'Twitter', 'id_str': '656517439262339072'}
@@ -1104,7 +1066,6 @@
 {'text': '#Poweroutage in  #Kwaggasrand and surrounding areas in #PretoriaWest due to theft of feeder cables', 'stream_type': 'Twitter', 'id_str': '656473911744401408'}
 {'text': '.@wmata how many lights need to be out before you replace? U St Metro looks like a power outage. #UnsuckMetro pic.twitter.com/PVkvl6pEC9', 'stream_type': 'Twitter', 'id_str': '656473839963107328'}
 {'text': 'who caused the power outage? pic.twitter.com/SuFk6mjr56', 'stream_type': 'Twitter', 'id_str': '656483763593940992'}
-{'text': 'New #power #outage #blackout #grid message The Scoop on Poop \\u2013 Why is Manure Important? - TheCropSite  http://zpr.io/aRNw\\u00a0', 'stream_type': 'Twitter', 'id_str': '656481639409782784'}
 {'text': 'Even though there is a power outage we are still learning about grains. #wnthunder pic.twitter.com/NB1hoWaz8v', 'stream_type': 'Twitter', 'id_str': '656480657649086465'}
 {'text': 'Cool, but what happens when there is a power outage?  and heaven forbid you lose your parking ticket. http://fb.me/RBSdOo1A\\u00a0', 'stream_type': 'Twitter', 'id_str': '656480516875546624'}
 {'text': 'When the whole school has a power outage and closes down ', 'stream_type': 'Twitter', 'id_str': '656477975148384256'}
@@ -1123,7 +1084,6 @@
 {'text': 'so tired & praying for another power outage but this one to last longer', 'stream_type': 'Twitter', 'id_str': '656428040336113664'}
 {'text': '#WALANGPASOK\\nBecause of the ongoing clearing operations in the city, power outage in some barangays and lingering... http://fb.me/7FZPN0uLl\\u00a0', 'stream_type': 'Twitter', 'id_str': '656430129720217600'}
 {'text': 'when la salle decides to cancel school because of power outage #godisgood pic.twitter.com/vgPqQ1dhf3', 'stream_type': 'Twitter', 'id_str': '656430109411295233'}
-{'text': 'New #power #outage #blackout #grid message Cliffs officials clarify statement about Essar - Hibbing Daily Tribune  http://zpr.io/aHB9\\u00a0', 'stream_type': 'Twitter', 'id_str': '656430002498641920'}
 {'text': 'I would like to thank the power outage in la salle for no school today ', 'stream_type': 'Twitter', 'id_str': '656425354832162816'}
 {'text': 'U know u made the right choice in high schools when it gets cancelled due to power outage ;)) #perksoflasalle', 'stream_type': 'Twitter', 'id_str': '656425183029268480'}
 {'text': '@Myles_1996 -.- ok power outage', 'stream_type': 'Twitter', 'id_str': '656431473927450625'}
@@ -1164,7 +1124,6 @@
 {'text': 'Wait, there was a power outage?', 'stream_type': 'Twitter', 'id_str': '656535766378508288'}
 {'text': "Couldn't get my @Starbucks today because of a power outage. Today is not a good day", 'stream_type': 'Twitter', 'id_str': '656539556527800320'}
 {'text': 'Temporary Power Outage - http://eepurl.com/bDc7QX\\u00a0', 'stream_type': 'Twitter', 'id_str': '656537298486493184'}
-{'text': "Hi all!\\n\\nThe power outage derailed me a bit this morning, but we are back on track now! I'll be upstairs in the... http://fb.me/7z1uH7Ffh\\u00a0", 'stream_type': 'Twitter', 'id_str': '656545103779991552'}
 {'text': 'New post: Update on power #outage in #Whitby on Calais Cres. Approx 120 customers affected. New estimated time of http://03934a6.netsolhost.com/WordPress/2015/10/20/update-on-power-outage-in-whitby-on-calais-cres-approx-120-customers-affected-new-estimated-time-of-restoration-is-5-pm/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656544990202580993'}
 {'text': 'Parts of Woodway, including the PD and city buildings have experienced a power outage.  At the current time, our... http://fb.me/7tpghCtFg\\u00a0', 'stream_type': 'Twitter', 'id_str': '656544929460690945'}
 {'text': 'A power outage this morning made me realize how many of my \\"pioneer woman\\" skills actually require electricity.', 'stream_type': 'Twitter', 'id_str': '656533887477112832'}
@@ -1215,12 +1174,10 @@
 {'text': 'Survival Basics: Prepping for An Unexpected Power Outage: \\nYou don\\u2019t have to be a prepper to realize... http://bit.ly/1MRflN2\\u00a0 #Survival', 'stream_type': 'Twitter', 'id_str': '656395611806171136'}
 {'text': 'With a stormy forecast ahead, #EPElectric wants you to stay safe. In case of a power outage, please contact our... http://fb.me/4pZhdAo1U\\u00a0', 'stream_type': 'Twitter', 'id_str': '656604972323246080'}
 {'text': 'Leasing office & field house are closed due to Kalamazoo power outage. Please call Consumers Energy for question, comments or concerns.', 'stream_type': 'Twitter', 'id_str': '656591492480397312'}
-{'text': 'New #power #outage #blackout #grid message UPDATED: Car window hit in drive-by shooting, apparently with BB gun - Port Townsend Leader', 'stream_type': 'Twitter', 'id_str': '656597099874775040'}
 {'text': 'I knew the Jays should have saved some of those 11 runs last night for today #PowerOutage', 'stream_type': 'Twitter', 'id_str': '656599579329196032'}
 {'text': 'Hey @ComEd, the 8+ hour power outage due to maintenance was a nice thing to come home to. You guys and @XFINITY should get a room.', 'stream_type': 'Twitter', 'id_str': '656592514086924288'}
 {'text': 'A power outage is kind of like a snow day right? Drink up fellow Broncos ', 'stream_type': 'Twitter', 'id_str': '656601361883246593'}
 {'text': 'Campus-wide power outage?', 'stream_type': 'Twitter', 'id_str': '656593988527484928'}
-{'text': 'New #power #outage #blackout #grid message Bamboo rice an added attraction at the four-day SHG exhibition in Mangaluru - Deccan Herald', 'stream_type': 'Twitter', 'id_str': '656600968679813120'}
 {'text': 'POWER OUTAGE - COLLEGE PARK: Affected area:\\u00a0152, 155, 158 Spinks Drive and 86, 92 Ramsay CourtTime of outage r... http://bit.ly/1Pylm2G\\u00a0', 'stream_type': 'Twitter', 'id_str': '656605100459188224'}
 {'text': '14-minute overnight outage affected over 30000, Austin Energy says - Austin American-Statesman: A... http://bit.ly/1ZVpWvw\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '656605759636025344'}
 {'text': 'Do to the power outage we will reopen at 8pm! $3 you call it!', 'stream_type': 'Twitter', 'id_str': '656605572066844673'}
@@ -1257,7 +1214,6 @@
 {'text': "praying that this power outage lasts long enough for us to not be able to hear carl azuz's terrible puns", 'stream_type': 'Twitter', 'id_str': '656514434911744001'}
 {'text': "I guess I'm not the only one in the Belhaven area that endured a power outage last night. I hope my groceries aren't spoiled T_T", 'stream_type': 'Twitter', 'id_str': '656504075421417472'}
 {'text': 'BOBO Radio Salish Retweeted Daily Record', 'stream_type': 'Twitter', 'id_str': '656503211130384386'}
-{'text': "New #power #outage #blackout #grid message LT Group's Absolut Distillers opens bioethanol plant in Batangas - BusinessWorld Online Editi", 'stream_type': 'Twitter', 'id_str': '656503175663525888'}
 {'text': '@ the power outage: stop playing with my emotions', 'stream_type': 'Twitter', 'id_str': '656513814435786752'}
 {'text': 'Austin Energy investigating overnight power outages - Austin American-Statesman: Austin American-Statesman Austin\\u2026 http://dlvr.it/CVc4Ty\\u00a0', 'stream_type': 'Twitter', 'id_str': '656513973848682496'}
 {'text': 'Planned Power Outage for Lake of Bays This Weekend http://www.mymuskokanow.com/27280/planned-power-outage-for-lake-of-bays-this-weekend/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656513543349530624'}
@@ -1305,7 +1261,6 @@
 {'text': 'Tawid News Update: Rice hay burning causes sudden power outage in 4 Ilocos provinces http://dlvr.it/CWydyn\\u00a0', 'stream_type': 'Twitter', 'id_str': '657467015062360065'}
 {'text': 'South Page schools canceled due to power outage http://www.kmaland.com/news/south-page-schools-canceled-due-to-power-outage/article_63b2fa86-7985-11e5-ae9e-37c4f719494b.html#.Vio3TlgKLrA.twitter\\u00a0\\u2026 via @KMANews1,#KMANews1', 'stream_type': 'Twitter', 'id_str': '657550708040945664'}
 {'text': 'Scheduled Power Outage in Cambridge Bay\\nSunday, October 25 from 8 a.m. to 10 a.m. \\nSee light blue section on the map pic.twitter.com/zu6m2ZT1fG', 'stream_type': 'Twitter', 'id_str': '657546500474585088'}
-{'text': 'New #power #outage #blackout #grid message SELCE sources bamboo to hand-craft spreader utensil - Designboom  http://zpr.io/apkp\\u00a0', 'stream_type': 'Twitter', 'id_str': '657549217272045569'}
 {'text': 'Due a power outage in Burleson, the Burleson Center does not have internet service. This means that phone calls or email will not go...1/2', 'stream_type': 'Twitter', 'id_str': '657549115123888128'}
 {'text': 'Here are 8  tips that will prevent you from being in the dark when lights go out. http://www.backdoorsurvival.com/prepping-for-an-unexpected-power-outage/?utm_source=twitter&utm_medium=social&utm_campaign=SocialWarfare\\u00a0\\u2026 via @Survival_Woman', 'stream_type': 'Twitter', 'id_str': '657554006085148672'}
 {'text': 'Daily Deals : http://ift.tt/1k0brpD\\u00a0 #6194 APC Power Outage Battery Back Up UPS Computer Router TV Home Office Pr\\u2026 pic.twitter.com/ABwotJel9Z', 'stream_type': 'Twitter', 'id_str': '657550899657707520'}
@@ -1355,7 +1310,6 @@
 {'text': 'POWER OUTAGE UPDATE: Intermittent outages as far west as Beverwil Dr along Pico Blvd (& residential streets north & south of Pico).', 'stream_type': 'Twitter', 'id_str': '657658310074761217'}
 {'text': "Safety tip: In case of power outage, you can stay warm and cook food by playing Mr. Chiaravalli's album.", 'stream_type': 'Twitter', 'id_str': '657653709560762368'}
 {'text': 'VIDEO: How to Keep Your Aquarium Inhabitants Alive During a Power Outage https://youtu.be/6KEwrNtu_kU\\u00a0', 'stream_type': 'Twitter', 'id_str': '657650543540596736'}
-{'text': 'New #power #outage #blackout #grid message Call to stop EOI process for southern woodchip export options - http://dailytelegraph.com.au\\u00a0  http:/', 'stream_type': 'Twitter', 'id_str': '657647959723610112'}
 {'text': 'I was not there, because I had a network problem ! I had a power outage', 'stream_type': 'Twitter', 'id_str': '657662359373238272'}
 {'text': 'REMINDER:This page is monitored from 8AM-4:30PM, Mon-Fri. For 24/7 power outage info call 905-871-0330/905-835-0051. http://ow.ly/T2o0o\\u00a0', 'stream_type': 'Twitter', 'id_str': '657660452902694916'}
 {'text': 'Signing off for the weekend. To report a power outage or water emergency, please call:1-866-804-7325', 'stream_type': 'Twitter', 'id_str': '657648687791919104'}
@@ -1372,7 +1326,6 @@
 {'text': 'Asaba residents protest two-year power outage http://ift.tt/1Xp551E\\u00a0 #Africa #Nigeria', 'stream_type': 'Twitter', 'id_str': '657696443235500032'}
 {'text': 'In case you missed it, Ridgeway-Melrose has been moved to Kirby due to a power outage. So head on over there!', 'stream_type': 'Twitter', 'id_str': '657702258222723072'}
 {'text': 'Odd! We just had a power outage here on Bowen Island. It lasted for a couple of minutes. Calm air, blue sky. Anyone know what happened?', 'stream_type': 'Twitter', 'id_str': '657698195858964480'}
-{'text': 'New #power #outage #blackout #grid message Woodgrain Mill In Prineville To Close, Lay Off 55 Workers - OPB News  http://zpr.io/aZ9L\\u00a0', 'stream_type': 'Twitter', 'id_str': '657704088889663489'}
 {'text': 'Apologies if you tried reaching us via phone this AM, looks like power outage caused a glitch. Good news is phones are back up & running!', 'stream_type': 'Twitter', 'id_str': '657694121411239936'}
 {'text': 'Due to a power outage, the Los Angeles Shabbat Live Stream may not be available. Watch the New York Shabbat at https://university.kabbalah.com/live/new-york/shabbat\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '657695486208528384'}
 {'text': 'Everyone who was at Buffalo during the power outage gets to leave without paying since computers never came back up...', 'stream_type': 'Twitter', 'id_str': '657395366275497985'}
@@ -1415,12 +1368,10 @@
 {'text': "Nothing like coming home to a full power outage and two dogs who are too prissy to go pee outside when it's raining. ", 'stream_type': 'Twitter', 'id_str': '657414623474257920'}
 {'text': 'Well goodness there is a mini power outage in my area says will be clear by 3am est. prob another reason my video was pixel tonight  boo', 'stream_type': 'Twitter', 'id_str': '657420942084190208'}
 {'text': 'We battled a flash flood and a power outage to get here, but homecoming is going to be great pic.twitter.com/SmLAr4l1vz', 'stream_type': 'Twitter', 'id_str': '657415514591916032'}
-{'text': 'New #power #outage #blackout #grid message New Delhi: Labourer gets pierced by 5-ft-long bamboo, survives - Mid-Day  http://zpr.io/azQj\\u00a0', 'stream_type': 'Twitter', 'id_str': '657418486524858368'}
 {'text': 'can i use this power outage as an excuse to sleep early and not do homework', 'stream_type': 'Twitter', 'id_str': '657407548572614656'}
 {'text': 'A power outage in the food & beverage industry can damage the integrity of products. That\\u2019s where we can help: http://bit.ly/1mKjsZl\\u00a0', 'stream_type': 'Twitter', 'id_str': '657606661482262528'}
 {'text': 'ATCO Electric Yukon responding to a power outage in porter Creek. Power lines struck by a truck carrying a high load.', 'stream_type': 'Twitter', 'id_str': '657609607683051520'}
 {'text': '1,100 HOMES AND BUSINESSES HIT IN POWER OUTAGE, SAYS ESB NETWORKS\\nhttp://www.donegaldaily.com/?p=170692\\u00a0', 'stream_type': 'Twitter', 'id_str': '657611284624465920'}
-{'text': "New #power #outage #blackout #grid message Stirring up authentic Chinese cuisine at Billerica's Purple Bamboo restaurant - Wicked Local", 'stream_type': 'Twitter', 'id_str': '657611196175097856'}
 {'text': 'PP prices rise in wake of LyondellBasell power outage http://trib.al/3FnQbki\\u00a0', 'stream_type': 'Twitter', 'id_str': '657604437045850112'}
 {'text': "Power outage didn't put an unhappy face on our Owls or their fries!!! #TeamSISD Happy Friday! pic.twitter.com/QGMlSD2IHB", 'stream_type': 'Twitter', 'id_str': '657608079853293568'}
 {'text': "Our labs were cancelled due to a power outage in Maynooth.. I don't want to be dramatic, but I think this has been the best day of my life.", 'stream_type': 'Twitter', 'id_str': '657604197098106880'}
@@ -1485,8 +1436,6 @@
 {'text': 'Power outage update. pic.twitter.com/SGEpjK2a22', 'stream_type': 'Twitter', 'id_str': '657563348175753216'}
 {'text': '\\"Is Your Business Prepared for a Power Outage? \\" by @thinkCSC http://buff.ly/200hXxr\\u00a0', 'stream_type': 'Twitter', 'id_str': '657566420017004544'}
 {'text': "power outage update: they're back on", 'stream_type': 'Twitter', 'id_str': '657569617640996864'}
-{'text': 'New #power #outage #blackout #grid message NUS big winners in IChemE Singapore awards - tce today  http://zpr.io/ap43\\u00a0', 'stream_type': 'Twitter', 'id_str': '657569544337293312'}
-{'text': "New #power #outage #blackout #grid message Labrador belonging to autistic boy killed after being 'cruelly poisoned' with ... - The Indep", 'stream_type': 'Twitter', 'id_str': '657569540008779776'}
 {'text': 'townview should just let us go home with this power outage', 'stream_type': 'Twitter', 'id_str': '657558562743304192'}
 {'text': "Power outage at school? well I'm just happy my class is cancelled", 'stream_type': 'Twitter', 'id_str': '657558347374157824'}
 {'text': 'POWER OUTAGE UPDATE: IT WENT BACK OUT???', 'stream_type': 'Twitter', 'id_str': '657568363900633089'}
@@ -1631,7 +1580,6 @@
 {'text': 'Due to a power outage at @CooperJrHigh the Town Hall Meeting has been moved to McMillan Junior High located at 1050 Park Blvd, Wylie, TX.', 'stream_type': 'Twitter', 'id_str': '657628582605225984'}
 {'text': 'We are aware of the power outage that is occurring on the @myUND Campus. We will have more information when it becomes available.', 'stream_type': 'Twitter', 'id_str': '657630383224176640'}
 {'text': 'Happy Friday, but sad afternoon for our Lake Worth Chick-fil-A restaurant. Due to the power outage, we will be... http://fb.me/7Rq3xFsn8\\u00a0', 'stream_type': 'Twitter', 'id_str': '657619792602382336'}
-{'text': 'Nothing quite like a power outage on a multi-event day. Prepping by lattern, ghost stories up next.\\u2026 https://instagram.com/p/9MItdoCOcY/\\u00a0', 'stream_type': 'Twitter', 'id_str': '657619767587643392'}
 {'text': 'Out of school because of power outage = DQ pic.twitter.com/lwe2AIYWC6', 'stream_type': 'Twitter', 'id_str': '657628464862724096'}
 {'text': "There's a power outage so I'm studying for my test tomorrow with my phone light, sweeeet.", 'stream_type': 'Twitter', 'id_str': '657422075120910336'}
 {'text': 'Power outage ', 'stream_type': 'Twitter', 'id_str': '657426967428399104'}
@@ -1647,7 +1595,6 @@
 {'text': 'Power outage, oh joy.', 'stream_type': 'Twitter', 'id_str': '657379129667493888'}
 {'text': "Praying we don't have school tomorrow because of the power outage", 'stream_type': 'Twitter', 'id_str': '657379057475145728'}
 {'text': "while everyone's freaking out over the power outage, @alissariggins is just chillin with her face mask on pic.twitter.com/t2a9YRTne5", 'stream_type': 'Twitter', 'id_str': '657389525421785089'}
-{'text': 'New #power #outage #blackout #grid message Bamboo Asia Fund Filing. THOMAS A ROYDS Filed Oct 22 form - http://zpr.io/az4U\\u00a0  http://zp', 'stream_type': 'Twitter', 'id_str': '657389316893769728'}
 {'text': "Water Wise Weekday Tip of the Week: We've all recovered from Sunday's power outage, but has your automatic... http://fb.me/7y24imNmE\\u00a0", 'stream_type': 'Twitter', 'id_str': '657389234836393986'}
 {'text': "Due to a large power outage downtown, we had to close early this evening. We're sad to have missed you and apologize for any inconveniences.", 'stream_type': 'Twitter', 'id_str': '657376049966157824'}
 {'text': 'Selfie Retweeted King Tut', 'stream_type': 'Twitter', 'id_str': '657378745385406464'}
@@ -1672,7 +1619,6 @@
 {'text': '@TorontoHydro do you have an update on the power outage on Macpherson? Thanks!', 'stream_type': 'Twitter', 'id_str': '657690064043032576'}
 {'text': 'Due to a power outage at Cooper Junior High, U.S. Congressman Pete Sessions\\u2019 Town Hall Meeting scheduled for... http://fb.me/4j6CnzIWI\\u00a0', 'stream_type': 'Twitter', 'id_str': '657678286634397700'}
 {'text': '@ladwp Any update on the Pico-Robertson power outage? Has service been restored?', 'stream_type': 'Twitter', 'id_str': '657688418026065920'}
-{'text': 'New #power #outage #blackout #grid message Potential buyers for the Escanaba Power Plant - http://zpr.io/TZuX\\u00a0  http://zpr.io/aZKx\\u00a0', 'stream_type': 'Twitter', 'id_str': '657689367289462788'}
 {'text': 'Woodstock power outage caused by lock out, ComEd spokeswoman said - Northwest Herald: Woodstock p... http://bit.ly/1kAMpxQ\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '657688145950089216'}
 {'text': 'At least there was a pretty sunset while dealing with an island wife power outage pic.twitter.com/iBWI5FtOD4', 'stream_type': 'Twitter', 'id_str': '657692389155311617'}
 {'text': "@BradInYYC unless it's related to the power outage, but can't see anything.", 'stream_type': 'Twitter', 'id_str': '657692341873082368'}
@@ -1687,7 +1633,6 @@
 {'text': 'Power outage pic.twitter.com/QsZfmQJssp', 'stream_type': 'Twitter', 'id_str': '657355325314482176'}
 {'text': 'Reminder: Planned power outage in Kinsey, MT tomorrow morning, 12am to 6am for substation equipment installation. http://www.montana-dakota.com/safety-education/outage-and-storm-information\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '657348514758926336'}
 {'text': 'power outage ? oim Flashing my Puccie .', 'stream_type': 'Twitter', 'id_str': '657349280819101696'}
-{'text': 'New #power #outage #blackout #grid message Editorial board: Ask hard questions to prevent another huge fire - Casper Star-Tribune Online', 'stream_type': 'Twitter', 'id_str': '657351873498882048'}
 {'text': "Good news: power is back\\nBad news: there is now an Internet outage caused by the power outage. \\nI'll see you guys tomorrow. ", 'stream_type': 'Twitter', 'id_str': '657348232478068736'}
 {'text': '\\"Does anyone know if that lady that got hit on Razorback Rd (during the power outage) lived/is okay??\\"', 'stream_type': 'Twitter', 'id_str': '657353693851881472'}
 {'text': "That moment ya neighborhood have a power outage! Nightlight ain't big\\u2026 https://instagram.com/p/9K3U4ikGXGDvM--6ICEWKrM6dkdy1h-fkBvPk0/\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '657440807318786048'}
@@ -1769,7 +1714,6 @@
 {'text': "Carroll education at work. Power outage can't stop Saints senior day. #mtscores #innovation pic.twitter.com/YylNJhSRzU", 'stream_type': 'Twitter', 'id_str': '660536938907041792'}
 {'text': "@kgtintin one time there was a power outage and I didn't realize the wifi I was off and I spent like a $100 of data", 'stream_type': 'Twitter', 'id_str': '660544341581000704'}
 {'text': 'Nothing like a power outage to spoil your rainy afternoon Hulu marathon.', 'stream_type': 'Twitter', 'id_str': '660541169835773952'}
-{'text': 'New #power #outage #blackout #grid message House of bamboo - Deccan Herald  http://zpr.io/ayHD\\u00a0', 'stream_type': 'Twitter', 'id_str': '660534277524836352'}
 {'text': 'Power outage during #Splatfest be strong team pirates!', 'stream_type': 'Twitter', 'id_str': '660539577212366848'}
 {'text': 'Power outages have been reported in the north side of Elkhart and is expected to continue until at least 4:30 p.m. http://www.elkharttruth.com/hometown/elkhart/2015/10/31/Power-outage-on-Elkhart-s-northside.html\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660532896038387712'}
 {'text': 'Not the ideal time for a power outage. Need to watch football and eat lunch, but I only have leftovers in the fridge', 'stream_type': 'Twitter', 'id_str': '660532744032620544'}
@@ -1783,7 +1727,6 @@
 {'text': 'The Morning After: Power Outage http://trove.com/me/content/UY24Q?utm_campaign=hosted&utm_medium=twitter&utm_source=sns&ts=1446321887\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660552508972994560'}
 {'text': "We'll resume action shortly after a brief delay due to a campus-wide power outage. Nevada will exhibition its remaining swimmers. #NEVvsFS", 'stream_type': 'Twitter', 'id_str': '660557363389136896'}
 {'text': "EPIC PODCAST! @JayAndDan shave @GeorgeParros's mustache for @Movember + BTS of @fs1otoole and the FOX power outage.\\n\\nhttps://www.youtube.com/watch?v=vkc6kuHUKGM\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '660554953186897920'}
-{'text': 'Power outage at my place on Halloween! Getting spooky , I&M says 46 customers out in SB, expected back on by 8PM', 'stream_type': 'Twitter', 'id_str': '660556951156367360'}
 {'text': 'Nothing like waiting out an all-day power outage at Starbucks to get one interested in small-scale solar power generation.', 'stream_type': 'Twitter', 'id_str': '660561238145937408'}
 {'text': 'Updated: #Grosvenor #A11X03 was Service Call, now Power Outage. http://www.dcmetrometrics.com/unit/A11X03ESCALATOR\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660554565452976128'}
 {'text': "Power outage means I can't watch my #Hawkeyes, but I can read @glamourmag by flashlight.", 'stream_type': 'Twitter', 'id_str': '660559315737145344'}
@@ -1800,7 +1743,6 @@
 {'text': 'HAPPY HALLOWEEN MY WHOLE STREET HAS A POWER OUTAGE', 'stream_type': 'Twitter', 'id_str': '660595822334238721'}
 {'text': 'Slight power outage here at Bearcat Stadium. One light standard lost about half their lights. Hazy on northern end of field now. @FOX8FNTD', 'stream_type': 'Twitter', 'id_str': '660605239129743360'}
 {'text': "At least with power outage didn't have to listen to Harold and National League Joe #FOXSportsGO #World Series", 'stream_type': 'Twitter', 'id_str': '660291937405038592'}
-{'text': 'New #power #outage #blackout #grid message STEVE HANLON: Lucky bamboo leads Lowell to yet another big win - http://zpr.io/fZtb\\u00a0  http', 'stream_type': 'Twitter', 'id_str': '660301899569172480'}
 {'text': 'Need to check the status of a power outage? Visit http://bit.ly/ATXoutage\\u00a0 or call 512-322-9100 #ATXoutage', 'stream_type': 'Twitter', 'id_str': '660301898524684288'}
 {'text': 'Selling Security Snake Oil - \\"The Pentagon Causes a Widespread Power Outage\\" http://www.counterpunch.org/2015/10/30/the-pentagon-causes-a-widespread-power-outage/\\u00a0\\u2026 by Bill Blunden via @NatCounterPunch', 'stream_type': 'Twitter', 'id_str': '660290104527708160'}
 {'text': 'Coming back from a long meet to a power outage ', 'stream_type': 'Twitter', 'id_str': '660301552696061954'}
@@ -1848,7 +1790,6 @@
 {'text': "@antonmedstorta @ShaunBolen I didn't archive the power outage show, and this week we played Kingdom on Thursday. It's there.", 'stream_type': 'Twitter', 'id_str': '660513720016072704'}
 {'text': 'Preparing for a Halloween power outage. https://instagram.com/p/9d382WFDnz/\\u00a0 pic.twitter.com/7ZVLM8SD0L', 'stream_type': 'Twitter', 'id_str': '660501941399646208'}
 {'text': 'Dont go to glenbrook today. Power outage and no stores are open', 'stream_type': 'Twitter', 'id_str': '660501803793063936'}
-{'text': 'New #power #outage #blackout #grid message Wordplay | Variety: A Somnolent Acrostic - New York Times (blog)  http://zpr.io/ayUh\\u00a0', 'stream_type': 'Twitter', 'id_str': '660501776270041089'}
 {'text': 'Power outage in Park City affecting 2445 households in 84060-68-98. Estimated time for repair is 1p.', 'stream_type': 'Twitter', 'id_str': '660501750999191552'}
 {'text': 'Power outage at the airport. Powers been out since 9:15. pic.twitter.com/iHMMagR5lR', 'stream_type': 'Twitter', 'id_str': '660511882785099777'}
 {'text': 'power outage \\nreally ???', 'stream_type': 'Twitter', 'id_str': '660511868071505920'}
@@ -1858,7 +1799,6 @@
 {'text': 'Park City dispatch is aware of the power outage affecting traffic signals.', 'stream_type': 'Twitter', 'id_str': '660502986188152833'}
 {'text': 'Prepper Power Outage and Lights out Kit - http://go.shr.lc/1iummGK\\u00a0 via @prepsurvive', 'stream_type': 'Twitter', 'id_str': '660514420305608704'}
 {'text': 'Power outage in Langford on Happy Valley Rd. Possibly affecting others in Westshore? @WestshoreRCMP #yyjtraffic', 'stream_type': 'Twitter', 'id_str': '660512365327159302'}
-{'text': 'A car wreck, 10 hour drive, several traffic jams, wrong hotel rooms, and a power outage all to see our tigers play #BeatNCState', 'stream_type': 'Twitter', 'id_str': '660462895881461760'}
 {'text': 'Power outage and chill?', 'stream_type': 'Twitter', 'id_str': '660468042220998658'}
 {'text': "I'm now the Duke of Gulf Coast Regional Blood Center on #Yelp!\\nPower outage, I guess I'll just have to give my bloo\\u2026 http://www.yelp.com/biz/gulf-coast-regional-blood-center-houston-5?pt=check_in&ref=twitter&utm_campaign=LocationRank&utm_medium=twitter&utm_source=ashare&v=8a\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '660466693269942274'}
 {'text': 'Car accident causes power outage in\\u00a0Salisbury http://charlotte.ysktoday.com/car-accident-causes-power-outage-in-salisbury/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660459703634292736'}
@@ -1869,9 +1809,7 @@
 {'text': 'So ROVIX might release something tonight because the last time she released something there was also a power outage here', 'stream_type': 'Twitter', 'id_str': '660417441307070464'}
 {'text': 'This power outage low key nice driving out here and not seeing all the Pearland establishments just dark buildings', 'stream_type': 'Twitter', 'id_str': '660419843968004096'}
 {'text': 'That power outage came in a wrong time..', 'stream_type': 'Twitter', 'id_str': '660416546175516672'}
-{'text': '3 Stories You Should Know: Golden State raises a banner, Sepp Blatter digs a deeper hole, and a W.S. power outage: http://onlyagame.wbur.org/2015/10/31/3-stories-warriors-fifa-replay\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660412665508990976'}
 {'text': 'There was a power outage for 2 hours now isnt living in the Philippines so nice :)', 'stream_type': 'Twitter', 'id_str': '660425597663838208'}
-{'text': 'New #power #outage #blackout #grid message Crews battling wood chip fire in area of I-95, Quacco Rd; drivers use caution - WTOC  http://', 'stream_type': 'Twitter', 'id_str': '660478627914637313'}
 {'text': '@calbaptist @CBUNursing Students Called Upon During Major Power Outage on Campus http://www.calbaptist.edu/explore-cbu/news-events/articles/nursing-students-called-upon-for-a-real-life-emergency/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660473041671970816'}
 {'text': 'Power outage in City Heights', 'stream_type': 'Twitter', 'id_str': '660477761643941889'}
 {'text': 'Big power outage last night is causing big problems at work this morning  http://cjonline.com/news/2015-10-31/westar-restores-power-hundreds-sw-topeka?utm_source=cjonline.com&utm_medium=link&utm_content=homepage&utm_campaign=latest-news-widget\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660473530601988097'}
@@ -1975,7 +1913,6 @@
 {'text': "@toeingtherubber @sittingstillsox I doubt we're alone in hoping for another power outage. Who needs replay anyway?", 'stream_type': 'Twitter', 'id_str': '660245469403172864'}
 {'text': "Power outage at Rhodes. Can't play without lights.\\nSeven Lakes HS Spartans: 7, Mayde Creek HS Rams: 0, 1st quarter. #footballfriday #txhsfb", 'stream_type': 'Twitter', 'id_str': '660252376935194624'}
 {'text': 'txhsfb Retweeted Katy ISD Athletics', 'stream_type': 'Twitter', 'id_str': '660259601774854144'}
-{'text': 'Stranded at our hotel in Ohio with a power outage #turnup', 'stream_type': 'Twitter', 'id_str': '660259431440060416'}
 {'text': 'So the power outage prevented me from seeing the Baby SPN ep and I was volunteering all week. /Finally/ sitting down now. Wow me Robbie. ', 'stream_type': 'Twitter', 'id_str': '660250975257497600'}
 {'text': 'PayPal suffers temporary breakdown in digital payment service during data center power outage - http://datacentercage.com/paypal-suffers-temporary-breakdown-in-digital-payment-service-during-data-center-power-outage-3/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660250967959453696'}
 {'text': 'txhsfb Retweeted Mayde Creek HS', 'stream_type': 'Twitter', 'id_str': '660254128019410949'}
@@ -1984,7 +1921,6 @@
 {'text': "@nicnak044 @Foxjupiter I've don't that! When I had a power outage...  XD", 'stream_type': 'Twitter', 'id_str': '660256054928875520'}
 {'text': "Haven't decided if I'm gonna watch #WorldSeries game until the 7th-inning stretch or the 3rd-inning power outage.", 'stream_type': 'Twitter', 'id_str': '660256012767662081'}
 {'text': 'RT @kgreen911: Stoppage of play for a power outage 11:47 left in the first half. Etowah leads 13-0.', 'stream_type': 'Twitter', 'id_str': '660252841970298880'}
-{'text': 'New #power #outage #blackout #grid message 180 jobs to be created in Foynes - The Kerryman  http://zpr.io/aAHp\\u00a0', 'stream_type': 'Twitter', 'id_str': '660255752230170624'}
 {'text': 'power outage and chill?  @MotenBrian', 'stream_type': 'Twitter', 'id_str': '660349790551674880'}
 {'text': "Don't let a power outage play spoilsport. Enjoy uninterrupted movie marathons! Explore more: http://bit.ly/1VE5nyR\\u00a0 pic.twitter.com/82i0HqLLXW", 'stream_type': 'Twitter', 'id_str': '660350464907722752'}
 {'text': "Baseball fans have fun with Fox's power outage during World\\u00a0Series http://besthotelstoday.xyz/index.php/2015/10/31/baseball-fans-have-fun-with-foxs-power-outage-during-world-series/\\u00a0\\u2026 pic.twitter.com/8aGHggAsK2", 'stream_type': 'Twitter', 'id_str': '660339108523282432'}
@@ -2005,7 +1941,6 @@
 {'text': 'Power outage, torrential rain and high winds. It is going to be a dark, soggy-sugar Halloween day.', 'stream_type': 'Twitter', 'id_str': '660491592797564928'}
 {'text': 'November Art Classes!!  AND!!!  Since we had a power outage on Tuesday - Watercolor Class will begin THIS Tuesday N\\u2026 pic.twitter.com/UzC8vEYKLE', 'stream_type': 'Twitter', 'id_str': '660487702358421505'}
 {'text': "My version of Halloween tonight: power outage. But the trick didn't happen and it's a treat instead! Cc: @andhikaps20", 'stream_type': 'Twitter', 'id_str': '660497644779737088'}
-{'text': 'New #power #outage #blackout #grid message Will biomass CHP be side-lined under CfD? - Materials Recycling World  http://zpr.io/ayUn\\u00a0', 'stream_type': 'Twitter', 'id_str': '660499251940728832'}
 {'text': "This is the most expensive electricity I've ever had, and also the longest power outage. Coincidences like that are great.", 'stream_type': 'Twitter', 'id_str': '660497354550710273'}
 {'text': 'I liked a @YouTube video http://youtu.be/eA8Fp31Pl5w?a\\u00a0 Dilating Pupil Effect & Power Outage', 'stream_type': 'Twitter', 'id_str': '659845867797676032'}
 {'text': 'Perfect timing for a power outage. Thx Obama.', 'stream_type': 'Twitter', 'id_str': '659845797937152000'}
@@ -2056,7 +1991,6 @@
 {'text': 'Was trapped on an escalator because of a power outage, then i realised i could walk down', 'stream_type': 'Twitter', 'id_str': '659645522613923841'}
 {'text': '@nationalgridus We lost power in Randolph, MA. We reported it using your online tool.#poweroutage @RandolphPD https://www1.nationalgridus.com/ReportorCheckOutage-NY-RES?ng=us\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659649747066724352'}
 {'text': '@CityPowerJhb Power outage East hertford rd CPWEB875163', 'stream_type': 'Twitter', 'id_str': '659649666154405889'}
-{'text': 'Consumers Energy Outage Map shows a small power outage in Jackson County.  Power expected to be back on by 6:30 AM pic.twitter.com/ce8e5siQrD', 'stream_type': 'Twitter', 'id_str': '659649657123946497'}
 {'text': '#NationalNews\\nCable theft causes \\u2018explosion\\u2019 and power outage in #KemptonPark: http://buff.ly/1Wk28Nj\\u00a0', 'stream_type': 'Twitter', 'id_str': '659640838893535232'}
 {'text': 'Manhattan Beach power outage affects 4,600 Edison customers http://dlvr.it/Cb2xXN\\u00a0', 'stream_type': 'Twitter', 'id_str': '659646744158822400'}
 {'text': 'Chris McKinnon Retweeted Kathryn Hauser', 'stream_type': 'Twitter', 'id_str': '659652976055877632'}
@@ -2094,7 +2028,6 @@
 {'text': 'Due to a power outage, the #Jazz901 phones are down. To pledge, pls visit our website. Thanks for your patience. http://ow.ly/TZKHV\\u00a0', 'stream_type': 'Twitter', 'id_str': '659731271086682112'}
 {'text': 'Salt contamination causing power outages, closing schools in Hampton Roads http://fw.to/I2VduJE\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '659723245902524416'}
 {'text': 'Power outage at work.', 'stream_type': 'Twitter', 'id_str': '659723130542379008'}
-{'text': 'Power outage in the South River/Main Street area appears to be taken care of.  Full power back on at South River School and Ventress.', 'stream_type': 'Twitter', 'id_str': '659718963669151745'}
 {'text': 'Power restored to 4,600 in Manhattan Beach: MANHATTAN BEACH >> An overnight power outage\\u2026 http://cur.lv/rl7i0\\u00a0 pic.twitter.com/axLXRrWfdl', 'stream_type': 'Twitter', 'id_str': '659727462973071360'}
 {'text': 'Sweet! Campus wide power outage!', 'stream_type': 'Twitter', 'id_str': '659727420493332481'}
 {'text': 'Storm brings down trees throughout the region, leading to power outages: http://on.nbc10.com/Brje71q\\u00a0 pic.twitter.com/GoBd0XJti8', 'stream_type': 'Twitter', 'id_str': '659727399928602624'}
@@ -2151,7 +2084,6 @@
 {'text': "I'm back yall damn power outage with AT&T kept me offline", 'stream_type': 'Twitter', 'id_str': '659871596258025472'}
 {'text': 'Northwood, NH *POWER OUTAGE* Eversource NH is reporting an outage affecting approximately 50 customers in... http://fb.me/4VFD7NMPg\\u00a0', 'stream_type': 'Twitter', 'id_str': '659869027079065600'}
 {'text': 'nvrmind i give up fuck the real world and its power outage flaws', 'stream_type': 'Twitter', 'id_str': '659881549723213824'}
-{'text': 'New #power #outage #blackout #grid message Union contract extension with Cliffs set to expire soon - http://zpr.io/TZuX\\u00a0  http://zpr.', 'stream_type': 'Twitter', 'id_str': '659872240784293888'}
 {'text': 'Power outage, sitting in the dark,  summer please come back quickly  miss you  pic.twitter.com/DrxRJWKWeg', 'stream_type': 'Twitter', 'id_str': '659871329324257280'}
 {'text': 'CrossFit Synergistics is without power due to a blown transformer.  The fire department has shut the entire... http://fb.me/2lqlPaESz\\u00a0', 'stream_type': 'Twitter', 'id_str': '659881380747354112'}
 {'text': 'Power outage at Huntsville Walmart!', 'stream_type': 'Twitter', 'id_str': '659881247280263168'}
@@ -2166,7 +2098,6 @@
 {'text': 'GHGH presentation to MC Mental Health Commission canceled today due to power outage. We will reschedule, stay tuned!!!', 'stream_type': 'Twitter', 'id_str': '659880101660614656'}
 {'text': 'Parts of the Metro Blue Line Service Interrupted Due to Power Outage in Long Beach http://bit.ly/1NDT9Es\\u00a0 via @LongBeachPost', 'stream_type': 'Twitter', 'id_str': '659875310289096704'}
 {'text': 'I swear to god bloom is the only school to have a rave breakout within 20 minutes of a power outage.', 'stream_type': 'Twitter', 'id_str': '659566840511860736'}
-{'text': 'New #power #outage #blackout #grid message Innovations in waste - Waste Management World  http://zpr.io/aEz9\\u00a0', 'stream_type': 'Twitter', 'id_str': '659571785969569792'}
 {'text': 'Power outage impacing 101 - 500 households. JCP&L crews dispatched. Estimated restoration 12:30AM. Report power\\u2026 http://dlvr.it/CZxPb8\\u00a0', 'stream_type': 'Twitter', 'id_str': '659568350775783424'}
 {'text': '@spiderlou2099 oh yeah that power outage thing was bizarre', 'stream_type': 'Twitter', 'id_str': '659571087840313346'}
 {'text': 'Thanks trump for power outage', 'stream_type': 'Twitter', 'id_str': '659579228443320320'}
@@ -2177,7 +2108,6 @@
 {'text': "Evidently there's a power outage in town? I wouldn't know.", 'stream_type': 'Twitter', 'id_str': '659573782848237568'}
 {'text': 'The Library will be closed on tomorrow for a scheduled Edison power outage. Renewals will also be unavailable. http://ow.ly/i/e3feI\\u00a0', 'stream_type': 'Twitter', 'id_str': '659565495914508288'}
 {'text': 'Home for five hours and there is a neighborhood wide power outage. Thanks marshalltown.', 'stream_type': 'Twitter', 'id_str': '659571205293387776'}
-{'text': "Step 1: power outage + fire alarm\\nStep 2: can't get back on hall\\nStep 3: fire alarm take 2\\nStep 4: finally get back to life and WiFi is out", 'stream_type': 'Twitter', 'id_str': '659579756128641024'}
 {'text': '@JujuTheQueen capped with last nites \\"power outage\\" of TV production truck. That *never* happens on that level. I know #Mets', 'stream_type': 'Twitter', 'id_str': '659570786416648192'}
 {'text': "First power outage! Yay can't wait for winter!", 'stream_type': 'Twitter', 'id_str': '659570533923704832'}
 {'text': "that thing where you get excited about a tweet that corroborates your power outage story until you realize they're tweeting from Nashville.", 'stream_type': 'Twitter', 'id_str': '659571551310913544'}
@@ -2196,7 +2126,6 @@
 {'text': 'ALERT - Power outage has knocked out traffic signals in the area of Apple at S Patterson Blvd in Downtown Dayton.', 'stream_type': 'Twitter', 'id_str': '659707717267927041'}
 {'text': 'Downed tree limb leads to power outage in South Haven http://j.mp/1MWaPIP\\u00a0\\n WWMT3', 'stream_type': 'Twitter', 'id_str': '659707662121238528'}
 {'text': 'Spring Mills Elementary is closed today, Thursday, October 29, 2015 due to a power outage.', 'stream_type': 'Twitter', 'id_str': '659703327010197505'}
-{'text': 'Power outage overnight at my hotel in LA. First thought: #FearTheWalkingDead had started', 'stream_type': 'Twitter', 'id_str': '659714998554365952'}
 {'text': "Wouldn't want to be stuck in a power outage w/ anyone else pic.twitter.com/5odZcl0FVj", 'stream_type': 'Twitter', 'id_str': '659714836331368448'}
 {'text': 'Thanks to the power outage my exam got postponed ', 'stream_type': 'Twitter', 'id_str': '659706911579840516'}
 {'text': "Power outage in Sackville isn't a true emergency situations unless it affects the slicer at Kaiser's Subs.", 'stream_type': 'Twitter', 'id_str': '659715136136077312'}
@@ -2395,7 +2324,6 @@
 {'text': 'Tiziana @HydroOne Every home needs a survival kit in event of a power outage @weathernetwork pic.twitter.com/DrMGs3Pdqh', 'stream_type': 'Twitter', 'id_str': '659760875948122112'}
 {'text': 'Power outage forces closure of St. John Vianney in Orchard Park. #windy', 'stream_type': 'Twitter', 'id_str': '659751984224968704'}
 {'text': 'Q&A: Tom Verducci talks about Fox\\u2019s World Series Game 1 power outage http://www.itrucktv.com/?p=859266\\u00a0 pic.twitter.com/eshedWV1hC', 'stream_type': 'Twitter', 'id_str': '659751814494048256'}
-{'text': 'We are currently #experiencing a #power #outage across #campus. #College is not closed. We will keep you #updated as we receive information.', 'stream_type': 'Twitter', 'id_str': '659747169772154880'}
 {'text': 'Tried to go to Barnes and Noble in Williamsville but it is closed due to power outage. pic.twitter.com/u2yTj3e6tI', 'stream_type': 'Twitter', 'id_str': '659747044236664834'}
 {'text': "There's a power outage at my place so apologies in advance for the way I will look having gotten ready in the dark. #marvistaproblems", 'stream_type': 'Twitter', 'id_str': '659755647236374528'}
 {'text': '(ASD-S) HEC - Quispamsis Elementary School - all students will be dismissed at 1:30 on the early bus run due to power outage.', 'stream_type': 'Twitter', 'id_str': '659761582294106112'}
@@ -2452,7 +2380,6 @@
 {'text': 'That power outage came in clutch tho', 'stream_type': 'Twitter', 'id_str': '659796157305065472'}
 {'text': 'WFD E7 off at a reported transformer fire on Boston Ave, caused by fallen limbs. Not sure if related to significant power outage elsewhere.', 'stream_type': 'Twitter', 'id_str': '659798480383303680'}
 {'text': 'Power outage gives Phuket FC vital three points in relegation battle: PHUKET: Phuket FC were in Nonthaburi las... http://ywzr.a.boysofts.com/7nw5\\u00a0', 'stream_type': 'Twitter', 'id_str': '659798401320521728'}
-{'text': 'New #power #outage #blackout #grid message Family cat loses eye in pellet gun shooting outside Chesterfield home - http://zpr.io/CD\\u00a0', 'stream_type': 'Twitter', 'id_str': '659798390302224384'}
 {'text': 'Power outage closes two Scranton schools early http://bit.ly/1MwuDIh\\u00a0', 'stream_type': 'Twitter', 'id_str': '659799170950127616'}
 {'text': 'Cable theft causes \\u2018explosion\\u2019 and power outage in Kempton Park http://fb.me/20vwcY01P\\u00a0', 'stream_type': 'Twitter', 'id_str': '659798958781239296'}
 {'text': "The Beachwood Bistro is closed for lunch service tomorrow (Friday, Oct. 30) due to today's power outage. We'll see you next Wed. Nov. 4!", 'stream_type': 'Twitter', 'id_str': '659803748974358528'}
@@ -2556,7 +2483,6 @@
 {'text': 'SCHOOL CLOSING: The Spencer-Van Etten School District has a 2 HOUR DELAY this morning due to a power outage.', 'stream_type': 'Twitter', 'id_str': '659666232564576256'}
 {'text': 'Strong #winds and another #poweroutage where did I just wake up?! #LA #PlayaVista ', 'stream_type': 'Twitter', 'id_str': '659667315009568768'}
 {'text': 'Derek Simon Retweeted Steve Bethers', 'stream_type': 'Twitter', 'id_str': '659665862807322624'}
-{'text': "Goodnight. Let's see if by the time I wake up, we'll have these power outage issues resolved & some answers to our questions. #SilverLake", 'stream_type': 'Twitter', 'id_str': '659661188804902912'}
 {'text': "fucking creepy ass tiny power outage isn't gonna let me get any sleep tonight", 'stream_type': 'Twitter', 'id_str': '659668677210476544'}
 {'text': 'Semi accident prompts power outage in Trumbull County http://dlvr.it/Cb5Nyx\\u00a0 pic.twitter.com/4x4gJ7OXmW', 'stream_type': 'Twitter', 'id_str': '659668670398918656'}
 {'text': 'When you have a #poweroutage in your City of #LosAngeles neighborhood: Visit @LADWP, view http://bit.ly/ladwp_outage_map\\u00a0\\u2026 or call 1-800-DIAL-DWP', 'stream_type': 'Twitter', 'id_str': '659663726816002048'}
@@ -2701,7 +2627,6 @@
 {'text': 'Canucks suffer power outage in 4-3 loss to Blues - Vancouver Sun http://ow.ly/35FevM\\u00a0', 'stream_type': 'Twitter', 'id_str': '655292425972355072'}
 {'text': 'One of our followers has informed us that wind can already be felt in Dipaculao and they are currently experiencing a power outage.', 'stream_type': 'Twitter', 'id_str': '655374292683653120'}
 {'text': 'Likely hit and run causes power outage in #Mashpee http://capecodtimes.com/article/20151017/NEWS/151019507\\u00a0\\u2026 @capecodtimes #CapeCod', 'stream_type': 'Twitter', 'id_str': '655375104046702592'}
-{'text': 'New #power #outage #blackout #grid message Improving Efficiency of Polymer Plants without Compromising Safety - http://zpr.io/TLwJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '655379686059581440'}
 {'text': "San Francisco FD uses ambulance bus to evacuate care home during outage. What's your plan if the power goes out? http://abc7ne.ws/1LUxHaB\\u00a0", 'stream_type': 'Twitter', 'id_str': '655381189792940032'}
 {'text': 'Now regretting having sold my acoustic guitar during #Vaughan #poweroutage @PowerStreamNews #ForestFountainDrive', 'stream_type': 'Twitter', 'id_str': '655367887457296384'}
 {'text': 'Our apologies to all for a down day yesterday. A complete power outage resulted in an emergency replacement of... http://fb.me/3mmYnBAeI\\u00a0', 'stream_type': 'Twitter', 'id_str': '655379854490271744'}
@@ -2727,7 +2652,6 @@
 {'text': 'TIPPECANOE SHERIFF: Power outage in Laf & W Laf \\"downtown\\" areas. PDs are aware& working to remedy the situation.', 'stream_type': 'Twitter', 'id_str': '655474999105626112'}
 {'text': 'WL Power Outage from Chauncey to Wabash River', 'stream_type': 'Twitter', 'id_str': '655476417455616000'}
 {'text': 'My \\"never drinking again\\" didn\'t even last 12 hours. I blame the power outage.', 'stream_type': 'Twitter', 'id_str': '655487190093451271'}
-{'text': "I hope the Springbok technical staff faked a power outage at the team hotel before this match kicked off. The guys don't need to see this.", 'stream_type': 'Twitter', 'id_str': '655482935756374016'}
 {'text': 'Power outage in #shermanoaks @LADWP any ETR for this situation?\\n#natick #willis #venturablvd', 'stream_type': 'Twitter', 'id_str': '655485050096517120'}
 {'text': 'I added a video to a @YouTube playlist http://youtu.be/oj-7684UdX0?a\\u00a0 The Flash 1x07 Extended Promo \\"Power Outage\\" (HD)', 'stream_type': 'Twitter', 'id_str': '655481697308315649'}
 {'text': 'Power outages have been reported in Lafayette & WL. Officials are aware of the problem, hope to restore by 5:30 p.m. http://on.jconline.com/1ju111O\\u00a0', 'stream_type': 'Twitter', 'id_str': '655479241723789313'}
@@ -2792,7 +2716,6 @@
 {'text': "Apparently a mere power outage cannot stop @DinkelsBakery. Had a burglah for the first time and it's basically the best breakfast thing ever", 'stream_type': 'Twitter', 'id_str': '655450448967684096'}
 {'text': 'Some POWERful info. @SDGE\\u2019s Medical Baseline program provides a bill discount & power outage alerts. http://ow.ly/TvBlM\\u00a0 #ESPSDGE', 'stream_type': 'Twitter', 'id_str': '655457092652937216'}
 {'text': 'Campus had ANOTHER \\"unexplained\\" power outage yesterday; apparently PG&E is at fault. Regardless, I need to restart the model. AGAIN. F*ck.', 'stream_type': 'Twitter', 'id_str': '655450760746917888'}
-{'text': 'New #power #outage #blackout #grid message Ninja Slices Baseball Pitched at 100 MPH in Half - Independent Reporter  http://zpr.io/anR5\\u00a0', 'stream_type': 'Twitter', 'id_str': '655457990338879501'}
 {'text': "@bamster37 @moniqueblognet Wasn't there a power outage Thursday as well? That would have a big effect on the ratings #SleepyHollow", 'stream_type': 'Twitter', 'id_str': '655451178201972736'}
 {'text': '@KenyaPower_Care power outage in Kamulu since 11pm. Kindly restore power supply. Acc no: 4599936-01', 'stream_type': 'Twitter', 'id_str': '655253465002807296'}
 {'text': 'TONIGHT at 11 on KRON: Peninsula senior care patients on stretchers, wheelchairs forced on street by fire, power outage. @pdjegal has update', 'stream_type': 'Twitter', 'id_str': '655261040259653632'}
@@ -2875,7 +2798,6 @@
 {'text': "It was just a normal day till dey was a power outage for almost 12hrs... Battery died in 5.  That's my #LowBattHorrors story @BaiduMobile", 'stream_type': 'Twitter', 'id_str': '658371037118230528'}
 {'text': 'power outage = we all go to bww to watch the Cowboys play', 'stream_type': 'Twitter', 'id_str': '658365714244374528'}
 {'text': 'Power outage in Robie and surrounding use caution, treat lights as stop signs. #t #h. http://outagemap.nspower.ca/\\u00a0', 'stream_type': 'Twitter', 'id_str': '658371861961682944'}
-{'text': 'New #power #outage #blackout #grid message Corey Jones shooting: Bamboo Room band benefit becomes emotional tribute - Palm Beach Post (b', 'stream_type': 'Twitter', 'id_str': '658362884016242692'}
 {'text': "For those who are waiting for the photo contest to start, I'm having a Power outage since this morning and not... http://fb.me/4UtD6KPQh\\u00a0", 'stream_type': 'Twitter', 'id_str': '658372270356889600'}
 {'text': 'This power outage is interrupting Netflix and that is not ok', 'stream_type': 'Twitter', 'id_str': '658372147878825984'}
 {'text': "Have you even been in a bathroom at a bar during a power outage? It's a terrifying experience.", 'stream_type': 'Twitter', 'id_str': '658362624665657345'}
@@ -2915,7 +2837,6 @@
 {'text': 'And now we interrupt our regularly scheduled programming with another power outage -oh wait lights are back nevermind', 'stream_type': 'Twitter', 'id_str': '658129427042209792'}
 {'text': 'Power outage hits Maldives main airport http://mscr.pt/1Xr2JiC\\u00a0', 'stream_type': 'Twitter', 'id_str': '658125467740827648'}
 {'text': 'Minor power outage ended my night early with @AoSHQDD. Fun as always @ConArtCritic @EsotericCD @AndreaNRuth', 'stream_type': 'Twitter', 'id_str': '658121611388710917'}
-{'text': 'New #power #outage #blackout #grid message NETL: Gasification may be theanswer to power plants - The DPost  http://zpr.io/ajCr\\u00a0', 'stream_type': 'Twitter', 'id_str': '658121103307599872'}
 {'text': '@whorechachata What if we have a power outage on Tuesday? ', 'stream_type': 'Twitter', 'id_str': '658121048748003328'}
 {'text': '#SHORTS: Chinese couple \\u2018liable\\u2019 for crime; 10-hour power outage in Oro today; Bus accident kills 2, injures 23 http://ift.tt/1Xr42Ox\\u00a0 | \\u2026', 'stream_type': 'Twitter', 'id_str': '658128264335085568'}
 {'text': '10-hour power outage in some areas in Cagayan de Oro today. http://goo.gl/VKP8Cn\\u00a0', 'stream_type': 'Twitter', 'id_str': '658126857150164992'}
@@ -2927,7 +2848,6 @@
 {'text': 'ATTENTION: A power pole was struck resulting in a power outage. There are approximately 500 residents without... http://fb.me/6VnKXVwYp\\u00a0', 'stream_type': 'Twitter', 'id_str': '658261786689449984'}
 {'text': 'Due to a power outage, 8:30 worship and 9:45 Bible Study are cancelled today.  Centerpoint is working on the problem.  (1/2)', 'stream_type': 'Twitter', 'id_str': '658257805875408896'}
 {'text': '8:30am service and 9:45am Bible Study cancelled due to power outage. Decision regarding 11am worship service to come by 9:30am.', 'stream_type': 'Twitter', 'id_str': '658261149054439424'}
-{'text': 'New #power #outage #blackout #grid message Pepe Oriola leads Craft-Bamboo Lukoil 1-2-3 - TouringCarTimes  http://zpr.io/astz\\u00a0', 'stream_type': 'Twitter', 'id_str': '658264688724189184'}
 {'text': 'Essex Power \\u2013 Update on LaSalle Power Outage http://www.epgsupport.ca/?p=3236\\u00a0', 'stream_type': 'Twitter', 'id_str': '658142940095713280'}
 {'text': 'I freaked out a little today because the police shut that road down again today but it was because of a power outage.', 'stream_type': 'Twitter', 'id_str': '658131062103613441'}
 {'text': 'Tom: Who pulled the plug?!\\nWe are experiencing a power outage but will be back with you shortly! http://fb.me/2404JRmqE\\u00a0', 'stream_type': 'Twitter', 'id_str': '658141684774080512'}
@@ -2945,7 +2865,6 @@
 {'text': '***POWER OUTAGE ALERT*** http://fb.me/3tjZH05kr\\u00a0', 'stream_type': 'Twitter', 'id_str': '658339266955636736'}
 {'text': 'When the weather is bad so you charge every electronic you own in preparation for a power outage', 'stream_type': 'Twitter', 'id_str': '658327487332532228'}
 {'text': 'Nothing like a power outage for the ultimate productivity killer.', 'stream_type': 'Twitter', 'id_str': '658338491906916353'}
-{'text': "New #power #outage #blackout #grid message Woodgrain's loss leaves Prineville reeling - again - KTVZ  http://zpr.io/asYV\\u00a0", 'stream_type': 'Twitter', 'id_str': '658336289729703937'}
 {'text': 'When the power outage leaves you no other choice pic.twitter.com/lQMkYuSNY4', 'stream_type': 'Twitter', 'id_str': '658340358397431808'}
 {'text': '@CityTshwane  Afternoon the power is out in Christoburg Erasmia and parts of Laudium any information with regards to the power outage?', 'stream_type': 'Twitter', 'id_str': '658289201457315840'}
 {'text': 'Woke up to a power outage and downpour. Toughed it out and made it to the donut joint, though.', 'stream_type': 'Twitter', 'id_str': '658290853555736576'}
@@ -2960,7 +2879,6 @@
 {'text': 'WHY DO PEOPLE INSIST ON CALLING 911 FOR A POWER OUTAGE?!!!?!?!? We are not electricians', 'stream_type': 'Twitter', 'id_str': '658288715408666625'}
 {'text': 'Rains for 2 minutes, 37 hour power outage in holy land. Only in Jerusalem. Oyyyyyyy.', 'stream_type': 'Twitter', 'id_str': '658296688805871616'}
 {'text': 'I\\u2019d love it if it was like \\u201cAye bruh, looks like you had a power outage, everything cool though?\\u201d', 'stream_type': 'Twitter', 'id_str': '658294480089587712'}
-{'text': 'Daily Web Stories \\u00bb 5 ways to keep your phone charged in a power outage http://ow.ly/TOplj\\u00a0', 'stream_type': 'Twitter', 'id_str': '658288048854204416'}
 {'text': 'Huntersville Fire Retweeted ElectriCities HVL', 'stream_type': 'Twitter', 'id_str': '658294193505325056'}
 {'text': 'BREAKING NEWS RAIDERS CAUSE POWER OUTAGE IN SAN DIEGO ..THERE IS A CITY WIDE BLACKOUT OCCURRING ON GAMEDAY http://fb.me/7RV3xQ2ZJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '658284505963229184'}
 {'text': 'Just got up, sitting having a drink when all the light dip and return. Yay! Out first as the Americans would say power outage!', 'stream_type': 'Twitter', 'id_str': '658236698308952064'}
@@ -2982,7 +2900,6 @@
 {'text': '@FabricJason there was a power outage in the town i live in (T^T) #nowifi', 'stream_type': 'Twitter', 'id_str': '658309438495969280'}
 {'text': 'DTN Egypt: Egypt Brief - Power outage hits Aswan because of malfunction in the High Dam: Power outage hit enti... http://bit.ly/1k2UEC8\\u00a0', 'stream_type': 'Twitter', 'id_str': '658304904587423744'}
 {'text': 'Brookline MA: Brookline Fire reporting a major power outage in the Pleasent St area', 'stream_type': 'Twitter', 'id_str': '658298086184370177'}
-{'text': 'New #power #outage #blackout #grid message Biomass Gasifier system By GreenVinci Biomass  http://zpr.io/ajeK\\u00a0', 'stream_type': 'Twitter', 'id_str': '658183620696391680'}
 {'text': '*walks into spenny and miles house and power outage immediately happens* #lifestyle', 'stream_type': 'Twitter', 'id_str': '658185924854095876'}
 {'text': 'Everyone is watching Anime and the power is still out..... this is bullshit!!! electric company TIME TO DIE!!!!!!#poweroutage', 'stream_type': 'Twitter', 'id_str': '658176167858442240'}
 {'text': "We're trying to find out what's going on. Thursday's power outage was due to a cable hanging loose on a pylon... http://fb.me/7Fck6XliB\\u00a0", 'stream_type': 'Twitter', 'id_str': '658186522844250112'}
@@ -3018,24 +2935,20 @@
 {'text': 'Power outage hour 5: actually starting to get concerned about whether or not this will get fixed...', 'stream_type': 'Twitter', 'id_str': '658154210714894336'}
 {'text': 'Power outage... Sorry guys, Texas is getting a lot of rain cause of the hurricane in Mexico... SORRY!!  @K4kills @bSnyder199 @CandyFairy16', 'stream_type': 'Twitter', 'id_str': '658146264446439424'}
 {'text': "Storm damage casuses power outage in Sault's far west end: NEWS RELEASE PUC SERVICES INC.\\u2026 http://dlvr.it/CXtYT4\\u00a0 pic.twitter.com/6OEXKY5rSL", 'stream_type': 'Twitter', 'id_str': '658158564414853121'}
-{'text': 'New #power #outage #blackout #grid message Type of mulch you use depends on what you are mulching - http://zpr.io/fAtK\\u00a0  http://zpr.i', 'stream_type': 'Twitter', 'id_str': '658158385918033920'}
 {'text': '@Medcanpoet re: nephew (big :) smile) I know you loved that & batteries were recharged! re: brnowt. No worries thats temporary power outage.', 'stream_type': 'Twitter', 'id_str': '658158980599029760'}
 {'text': '@anne_litt Title please of last song played on your shift just before 3 today @kcrw Wonderful show. Thank you! #poweroutage', 'stream_type': 'Twitter', 'id_str': '658102775109173248'}
 {'text': "Hmm this #Parramatta #PowerOutage is helping me rediscover these magical things known as 'books' #TooReliantOnTech #TimeToPutPhoneDown", 'stream_type': 'Twitter', 'id_str': '658100994786488320'}
 {'text': "There's a power outage affecting about 2k customers in east Brownsville. Please check back for updates on restoration time.", 'stream_type': 'Twitter', 'id_str': '658104112144236544'}
 {'text': 'just witnessed a power outage by the mall ', 'stream_type': 'Twitter', 'id_str': '658106097509773312'}
 {'text': "@kengfunk @PressRoomGFS Yep. Power outage was a portent of the imminent strike. @lofton80 's long end around & Packers 20 unanswered points.", 'stream_type': 'Twitter', 'id_str': '658104365459349504'}
-{'text': 'Power outage at our hotel in Houston!!', 'stream_type': 'Twitter', 'id_str': '658111827121836032'}
 {'text': 'Power outage, postponed stream for now.  Gonna go chop wood irl.', 'stream_type': 'Twitter', 'id_str': '658212930991882240'}
 {'text': 'When ur in a power outage and try to turn the lights on', 'stream_type': 'Twitter', 'id_str': '658213447335710722'}
 {'text': 'Literally saw the whole sky light up like it was daytime from whatever made the power outage happen  so freaky', 'stream_type': 'Twitter', 'id_str': '658206423105474560'}
-{'text': 'New #power #outage #blackout #grid message Wood pellet market in Austria: situation in October 2015 - Ukrainian Biofuel Portal  http://z', 'stream_type': 'Twitter', 'id_str': '658211418496454656'}
 {'text': 'Residents of Bldg 15A, the current power outage will likely last one hour.', 'stream_type': 'Twitter', 'id_str': '658407269567062016'}
 {'text': 'Power outage in Sandy Eggo. #Raiders #RaiderNation #RN4L #ANationWillRise #GAMEDAY #RaiderStrong #HatersWalkThePlank', 'stream_type': 'Twitter', 'id_str': '658405894468734978'}
 {'text': 'Prophetic!!! Crazy stuff breaking loose in Israel today, storms, power outage. Israel giving up Temple Mt?\\u2026 http://servehiminthewaiting.com/2015/10/25/prophetic-crazy-stuff-breaking-loose-in-israel-today-storms-power-outage-israel-giving-up-temple-mt-people-the-shaking-has-begun\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '658416555550597120'}
 {'text': 'CLOSED this evening due to an area power outage. \\n\\nSunday, October 25. http://fb.me/4i2ImPVVQ\\u00a0', 'stream_type': 'Twitter', 'id_str': '658414939841761280'}
 {'text': 'Way TOO Easy to kill five minutes...#Penguins continue power outage on Power play', 'stream_type': 'Twitter', 'id_str': '658076164532142084'}
-{'text': 'New #power #outage #blackout #grid message Plant closure could force return to open ag burning - The Bakersfield Californian  http://zpr', 'stream_type': 'Twitter', 'id_str': '658072448978538496'}
 {'text': 'Due to power outage, theater performance of \\"Noises Off\\" is cancelled for tonight. Stay safe and dry, everyone!', 'stream_type': 'Twitter', 'id_str': '658073448237826048'}
 {'text': 'The good news is the power outage gave me time for a bathroom break, AND I got to ride on the Gator with coach Beegle. #score', 'stream_type': 'Twitter', 'id_str': '658076555986513920'}
 {'text': '@WGRZ power outage in Amherst maple and transit to Ayer roads', 'stream_type': 'Twitter', 'id_str': '658076539653869568'}
@@ -3056,7 +2969,6 @@
 {'text': 'AREA CHECK: 123XX Mountain View Ave- Reports of a power outage. (Lights at Milliken are blinking)', 'stream_type': 'Twitter', 'id_str': '658173581336023040'}
 {'text': '#ScannerSquawk \\"Mall units or Beat 4, is there a power outage in the area?\\" (Dispatch is receiving a call for service)', 'stream_type': 'Twitter', 'id_str': '658173403078066176'}
 {'text': 'Yay...power outage due to a light pole catching fire...GREEEAT! Gonna be a long, boring 5 hours at work!!', 'stream_type': 'Twitter', 'id_str': '658163761597906944'}
-{'text': 'New #power #outage #blackout #grid message Craft-Bamboo Racing takes GT Asia Series Championship in nail biting final - http://zpr.i', 'stream_type': 'Twitter', 'id_str': '658318844549865476'}
 {'text': 'A power outage 1 hr before football!!!!!!! #firstworldproblems', 'stream_type': 'Twitter', 'id_str': '658312834363752448'}
 {'text': 'Power outage at church this morning, but the power that raised Christ from the dead remains in us! #OurGreatGod... http://fb.me/1Sn7Uo40L\\u00a0', 'stream_type': 'Twitter', 'id_str': '658314154386825216'}
 {'text': 'So the @Starbucks in the south loop is closed due to a power outage (so is Panera) so coffee time was\\u2026 https://instagram.com/p/9RDo9lFHa2/\\u00a0', 'stream_type': 'Twitter', 'id_str': '658312308272320512'}
@@ -3154,7 +3066,6 @@
 {'text': 'The latest power outage numbers as of 9:15 a.m: http://www.wdtv.com/wdtv.cfm?func=view&section=5-News&item=High-Winds-Causing-Power-Outages-Across-Area-26417\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659359928516280320'}
 {'text': 'Unscheduled power outage. Many thanks, power company!', 'stream_type': 'Twitter', 'id_str': '659356808180580352'}
 {'text': 'Power outage at Senate ministerial screening http://news.anotao.com/link/ng/www.vanguardngr.com/2015/10/breaking-power-outage-at-senate-ministerial-screening/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659366120084938752'}
-{'text': "Watch: TV crew tries to get Series back on Air: 'Bad time for a power outage' http://bit.ly/1ihg8tM\\u00a0 #theSportsPage", 'stream_type': 'Twitter', 'id_str': '659354181736640516'}
 {'text': 'Game 1 of 111th World Series Rigged Exposed (Fox Power Outage, Inside the Park HR, & 14th Inning): http://youtu.be/VKtwXpHsB70?a\\u00a0 via', 'stream_type': 'Twitter', 'id_str': '659365390124867584'}
 {'text': 'Power has been restored, if you are still experiencing a power outage please contact us immediately at 519-853-3701.', 'stream_type': 'Twitter', 'id_str': '659364125085036544'}
 {'text': 'Baseball fans have fun with Fox\\u2019s power outage during World Series http://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article41641425.html\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '659364114599309312'}

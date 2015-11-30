@@ -54,7 +54,6 @@ stop words: " boating ", " watch ", " explore "
 If traffic isn't OK:
 stop words: " traffic ", " accident ", " delays ", " symbolic ", " boating ", " watch ", " explore " 
 
-Number of stop word-less irrelevant data: 16
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 power:
@@ -64,6 +63,8 @@ Stop words: " #power #outage ", "#power #outage  #grid ", " #power #outage  #bla
 Number of stop word-less irrelevant data: 5
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+Number of stop word-less irrelevant data: 16
 
 traffic_lights:
 
