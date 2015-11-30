@@ -37,37 +37,6 @@ bridge:
 '@Gidi_Traffic Relevant Anthorities shd pls look @ the flooded Ikeja Along B/S 2wrds Oshodi, it might weaken the pedestrian bridge! #Safety.'
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+roads:
+"climate talks", "political", "energy", "report"
 
-gas: 
-
-stop words: "Jack Black", "@GasLeak", "dies", "in-home estimate", "plumbers", "caused by gas leak", "caused by gas-leak", "suspected", "caused leak", "stopped", "repairs underway", "drive-thru", "drive-through", "drive through", "tanker", "energy", "no gas leak", "contained", "fixed", "hurt", "gas leak caused", "gas light", "short line", "survived"
-
-Number of stop word-less irrelevant data: 4
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-highways:
-
-stop words: {US State names}, boating, watch, explore
-
-
-If traffic isn't OK:
-stop words: traffic, accident, delays, symbolic, boating, watch, explore 
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Number of stop word-less irrelevant data: 16
-
-traffic_lights:
-
-Stop words: replacing, mistook, ticket, {names of states/countries}
-
-Number of stop word-less irrelevant data: 2
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-power:
-
-Stop words: #power #outage #blackout #grid (any combination of at least 3 of these), back on, claims, files, resolved, stories, hotel
-
-Number of stop word-less irrelevant data: 5
